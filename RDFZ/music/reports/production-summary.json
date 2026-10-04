@@ -1,0 +1,252 @@
+[
+  {
+    "id": "title",
+    "revision": 1,
+    "duration": 114.28571428571429,
+    "frames": 5040000,
+    "lufs": -19.0,
+    "true_peak": -4.38,
+    "stems": 7,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "home",
+    "revision": 2,
+    "duration": 125.21739229024944,
+    "frames": 5522087,
+    "lufs": -19.0,
+    "true_peak": -3.99,
+    "stems": 6,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "basement",
+    "revision": 2,
+    "duration": 126.31578231292517,
+    "frames": 5570526,
+    "lufs": -21.0,
+    "true_peak": -6.44,
+    "stems": 6,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "yifu",
+    "revision": 1,
+    "duration": 104.3478231292517,
+    "frames": 4601739,
+    "lufs": -20.01,
+    "true_peak": -3.15,
+    "stems": 6,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "basketball",
+    "revision": 1,
+    "duration": 99.31034013605442,
+    "frames": 4379586,
+    "lufs": -19.0,
+    "true_peak": -5.06,
+    "stems": 7,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "garden",
+    "revision": 1,
+    "duration": 109.09090702947846,
+    "frames": 4810909,
+    "lufs": -20.0,
+    "true_peak": -4.66,
+    "stems": 8,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "library",
+    "revision": 1,
+    "duration": 116.36362811791383,
+    "frames": 5131636,
+    "lufs": -22.0,
+    "true_peak": -7.91,
+    "stems": 5,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "canteen",
+    "revision": 1,
+    "duration": 96.0,
+    "frames": 4233600,
+    "lufs": -20.38,
+    "true_peak": -1.6,
+    "stems": 6,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "playground",
+    "revision": 1,
+    "duration": 96.0,
+    "frames": 4233600,
+    "lufs": -19.0,
+    "true_peak": -4.48,
+    "stems": 8,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "junior",
+    "revision": 1,
+    "duration": 111.62791383219955,
+    "frames": 4922791,
+    "lufs": -21.0,
+    "true_peak": -6.88,
+    "stems": 7,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "senior",
+    "revision": 1,
+    "duration": 120.0,
+    "frames": 5292000,
+    "lufs": -20.01,
+    "true_peak": -5.6,
+    "stems": 6,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "laboratory",
+    "revision": 1,
+    "duration": 102.85714285714286,
+    "frames": 4536000,
+    "lufs": -20.01,
+    "true_peak": -4.91,
+    "stems": 9,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "admin",
+    "revision": 1,
+    "duration": 133.33333333333334,
+    "frames": 5880000,
+    "lufs": -21.02,
+    "true_peak": -6.63,
+    "stems": 6,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "battle",
+    "revision": 2,
+    "duration": 116.36362811791383,
+    "frames": 5131636,
+    "lufs": -18.0,
+    "true_peak": -4.39,
+    "stems": 8,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "boss",
+    "revision": 1,
+    "duration": 106.66666666666667,
+    "frames": 4704000,
+    "lufs": -18.0,
+    "true_peak": -3.57,
+    "stems": 9,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "final",
+    "revision": 1,
+    "duration": 130.90909297052156,
+    "frames": 5773091,
+    "lufs": -18.0,
+    "true_peak": -2.45,
+    "stems": 11,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "suspense",
+    "revision": 1,
+    "duration": 120.0,
+    "frames": 5292000,
+    "lufs": -22.01,
+    "true_peak": -7.61,
+    "stems": 4,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "ending",
+    "revision": 1,
+    "duration": 144.0,
+    "frames": 6350400,
+    "lufs": -20.0,
+    "true_peak": -4.84,
+    "stems": 7,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "summon",
+    "revision": 1,
+    "duration": 92.30768707482993,
+    "frames": 4070769,
+    "lufs": -19.0,
+    "true_peak": -3.18,
+    "stems": 5,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "victory",
+    "revision": 1,
+    "duration": 7.048004535147392,
+    "frames": 310817,
+    "lufs": -18.99,
+    "true_peak": -2.05,
+    "stems": 3,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "defeat",
+    "revision": 1,
+    "duration": 10.011678004535147,
+    "frames": 441515,
+    "lufs": -19.6,
+    "true_peak": -1.6,
+    "stems": 3,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "rare",
+    "revision": 1,
+    "duration": 9.16514739229025,
+    "frames": 404183,
+    "lufs": -18.99,
+    "true_peak": -3.24,
+    "stems": 3,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "recruit",
+    "revision": 1,
+    "duration": 7.50843537414966,
+    "frames": 331122,
+    "lufs": -18.55,
+    "true_peak": -2.05,
+    "stems": 3,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "chapter-clear",
+    "revision": 1,
+    "duration": 10.79437641723356,
+    "frames": 476032,
+    "lufs": -19.96,
+    "true_peak": -5.36,
+    "stems": 3,
+    "audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "revelation",
+    "revision": 1,
+    "duration": 9.937256235827665,
+    "frames": 438233,
+    "lufs": -19.29,
+    "true_peak": -7.12,
+    "stems": 3,
+    "audition": "未进行主观听觉验证"
+  }
+]

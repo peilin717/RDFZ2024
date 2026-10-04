@@ -1,0 +1,4485 @@
+{
+  "not_aesthetic_scoring": true,
+  "whole_cue_transposition_equivalent_melodies": [],
+  "shared_eight_bar_theme_phrases": [
+    {
+      "cues": [
+        "basketball",
+        "battle"
+      ],
+      "phrase_start_bars": [
+        [
+          25
+        ],
+        [
+          1
+        ]
+      ],
+      "interpretation": "Review deliberate thematic quotation; not a failed check."
+    },
+    {
+      "cues": [
+        "basketball",
+        "boss"
+      ],
+      "phrase_start_bars": [
+        [
+          25
+        ],
+        [
+          33
+        ]
+      ],
+      "interpretation": "Review deliberate thematic quotation; not a failed check."
+    },
+    {
+      "cues": [
+        "summon",
+        "final"
+      ],
+      "phrase_start_bars": [
+        [
+          25
+        ],
+        [
+          33
+        ]
+      ],
+      "interpretation": "Review deliberate thematic quotation; not a failed check."
+    },
+    {
+      "cues": [
+        "final",
+        "home"
+      ],
+      "phrase_start_bars": [
+        [
+          17
+        ],
+        [
+          1
+        ]
+      ],
+      "interpretation": "Review deliberate thematic quotation; not a failed check."
+    },
+    {
+      "cues": [
+        "final",
+        "title"
+      ],
+      "phrase_start_bars": [
+        [
+          17
+        ],
+        [
+          9
+        ]
+      ],
+      "interpretation": "Review deliberate thematic quotation; not a failed check."
+    },
+    {
+      "cues": [
+        "final",
+        "laboratory"
+      ],
+      "phrase_start_bars": [
+        [
+          9
+        ],
+        [
+          1
+        ]
+      ],
+      "interpretation": "Review deliberate thematic quotation; not a failed check."
+    },
+    {
+      "cues": [
+        "battle",
+        "boss"
+      ],
+      "phrase_start_bars": [
+        [
+          1
+        ],
+        [
+          33
+        ]
+      ],
+      "interpretation": "Review deliberate thematic quotation; not a failed check."
+    },
+    {
+      "cues": [
+        "home",
+        "title"
+      ],
+      "phrase_start_bars": [
+        [
+          1
+        ],
+        [
+          9
+        ]
+      ],
+      "interpretation": "Review deliberate thematic quotation; not a failed check."
+    },
+    {
+      "cues": [
+        "title",
+        "boss"
+      ],
+      "phrase_start_bars": [
+        [
+          17
+        ],
+        [
+          9
+        ]
+      ],
+      "interpretation": "Review deliberate thematic quotation; not a failed check."
+    }
+  ],
+  "scores": [
+    {
+      "id": "junior",
+      "errors": [],
+      "advisories": [],
+      "duration": 111.62790697674419,
+      "bars": 40.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 2.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 5.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 9.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 11.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 13.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 16.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 18.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 22.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 26.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 29.5,
+          "rest_beats": 3.0
+        },
+        {
+          "after_beat": 34.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 37.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 41.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 43.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 46.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 48.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 50.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 53.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 58.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 61.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 66.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 74.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 78.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 82.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 90.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 94.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 96,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 98.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 101.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 106.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 109.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 114.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 118.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 122.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 125.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 130.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 134.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 138.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 142.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 144.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 146.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 150.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 154.0,
+          "rest_beats": 1.5
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 3,
+      "bass_advisories": [],
+      "form": [
+        "广播 · A",
+        "走廊 · A的失真",
+        "名字 · B",
+        "内讧 · 撕开的语句",
+        "未说完 · 回环"
+      ]
+    },
+    {
+      "id": "basketball",
+      "errors": [],
+      "advisories": [
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            9,
+            11,
+            13,
+            15,
+            41,
+            43,
+            45,
+            47
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            10,
+            12,
+            14,
+            16,
+            42,
+            44,
+            46,
+            48
+          ]
+        }
+      ],
+      "duration": 99.3103448275862,
+      "bars": 48.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 3.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 5.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 7.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 10.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 14.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 16,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 19.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 21.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 23.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 27.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 30.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 32,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 35.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 38.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 42.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 46.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 48,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 51.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 54.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 59.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 62.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 66.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 74.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 78.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 87.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 94.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 99.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 102.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 107.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 110.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 118.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 123.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 126.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 128,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 131.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 133.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 135.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 138.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 142.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 147.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 149.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 151.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 155.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 158.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 162.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 166.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 170.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 173.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 183.0,
+          "rest_beats": 0.5
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 1,
+      "bass_advisories": [],
+      "form": [
+        "运球 · A",
+        "传球 · A′",
+        "暂停 · B",
+        "约定 · 希望主题",
+        "快攻 · A″",
+        "回线 · 重新发球"
+      ]
+    },
+    {
+      "id": "victory",
+      "errors": [],
+      "advisories": [],
+      "duration": 6.428571428571429,
+      "bars": 3.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 2.5,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 1,
+      "bass_advisories": [],
+      "form": [
+        "触发与落点"
+      ]
+    },
+    {
+      "id": "playground",
+      "errors": [],
+      "advisories": [
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            1,
+            3,
+            5,
+            7,
+            33,
+            35,
+            37,
+            39
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            2,
+            4,
+            6,
+            17,
+            19,
+            21,
+            23,
+            34,
+            36,
+            38
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            9,
+            11,
+            13,
+            15,
+            41,
+            43,
+            45,
+            47
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            10,
+            12,
+            14,
+            16,
+            42,
+            44,
+            46,
+            48
+          ]
+        }
+      ],
+      "duration": 96.0,
+      "bars": 48.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 0.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 3.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 6.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 10.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 14.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 19.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 22.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 27.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 30.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 34.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 38.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 42.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 46.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 50.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 58.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 62.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 66.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 74.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 78.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 82.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 91.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 94.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 99.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 110.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 126.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 128.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 131.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 134.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 138.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 142.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 147.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 150.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 155.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 158.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 162.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 166.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 170.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 174.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 178.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 182.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 186.0,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 2,
+      "bass_advisories": [],
+      "form": [
+        "起跑 · A",
+        "迎风 · B",
+        "岔路 · 动机切片",
+        "看台 · 伙伴",
+        "冲刺 · A′",
+        "长跑 · 接续"
+      ]
+    },
+    {
+      "id": "rare",
+      "errors": [],
+      "advisories": [],
+      "duration": 8.88888888888889,
+      "bars": 4.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 8,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 1,
+      "bass_advisories": [],
+      "form": [
+        "触发与落点"
+      ]
+    },
+    {
+      "id": "summon",
+      "errors": [],
+      "advisories": [],
+      "duration": 92.3076923076923,
+      "bars": 40.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 2.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 6.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 10.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 14.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 18.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 22.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 26.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 30.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 35.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 38.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 46.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 62.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 74.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 78.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 90.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 94.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 99.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 102.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 107.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 110.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 126.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 130.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 134.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 138.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 142.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 146.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 150.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 154.0,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 3,
+      "bass_advisories": [],
+      "form": [
+        "点名 · A",
+        "信笺 · 校园",
+        "群星 · B",
+        "伙伴走来 · 回答",
+        "下一封信 · A′"
+      ]
+    },
+    {
+      "id": "library",
+      "errors": [],
+      "advisories": [],
+      "duration": 116.36363636363636,
+      "bars": 32.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 1.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 4,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 6.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 9.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 12.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 16,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 18.5,
+          "rest_beats": 3.0
+        },
+        {
+          "after_beat": 22.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 24.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 26.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 29.0,
+          "rest_beats": 2.5
+        },
+        {
+          "after_beat": 33.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 37.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 42.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 45.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 50.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 58.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 61.5,
+          "rest_beats": 4.0
+        },
+        {
+          "after_beat": 67.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 68,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 74.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 76.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 82.0,
+          "rest_beats": 3.0
+        },
+        {
+          "after_beat": 86.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 90.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 93.0,
+          "rest_beats": 2.5
+        },
+        {
+          "after_beat": 97.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 101.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 105.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 109.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 113.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 122.5,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 3,
+      "bass_advisories": [],
+      "form": [
+        "索引 · 稀疏问题",
+        "夹页 · 人的字迹",
+        "机关 · 分解与移动",
+        "合书 · 问题仍在"
+      ]
+    },
+    {
+      "id": "ending",
+      "errors": [],
+      "advisories": [],
+      "duration": 144.0,
+      "bars": 48.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 2.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 6.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 10.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 14.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 19.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 22.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 27.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 30.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 34.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 38.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 42.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 46.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 50.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 59.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 62.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 66.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 75.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 78.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 82.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 90.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 94.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 98.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 106.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 110.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 114.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 122.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 125.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 131.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 134.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 142.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 150.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 158.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 162.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 166.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 170.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 174.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 178.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 182.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 187.0,
+          "rest_beats": 0.5
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 3,
+      "bass_advisories": [],
+      "form": [
+        "废墟 · 记得",
+        "同伴 · 回答",
+        "清晨 · 希望转为大调",
+        "风 · 交接",
+        "风云录 · 校园回收",
+        "仍有故事 · 共同音返回"
+      ]
+    },
+    {
+      "id": "basement",
+      "errors": [],
+      "advisories": [],
+      "duration": 126.3157894736842,
+      "bars": 40.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 0.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 2.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 6.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 8,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 10.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 13.0,
+          "rest_beats": 2.5
+        },
+        {
+          "after_beat": 17.0,
+          "rest_beats": 3.5
+        },
+        {
+          "after_beat": 23.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 26.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 29.0,
+          "rest_beats": 3.0
+        },
+        {
+          "after_beat": 34.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 37.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 41.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 42.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 45.0,
+          "rest_beats": 2.5
+        },
+        {
+          "after_beat": 50.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 53.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 58.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 61.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 66.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 75.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 78.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 82.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 90.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 93.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 96.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 98.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 104,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 106.5,
+          "rest_beats": 3.0
+        },
+        {
+          "after_beat": 110.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 113.0,
+          "rest_beats": 3.5
+        },
+        {
+          "after_beat": 119.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 120,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 122.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 125.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 128.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 130.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 134.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 136,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 138.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 141.0,
+          "rest_beats": 2.5
+        },
+        {
+          "after_beat": 145.5,
+          "rest_beats": 3.0
+        },
+        {
+          "after_beat": 150.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 154.0,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 1,
+      "bass_advisories": [],
+      "form": [
+        "I · 门缝",
+        "II · 回声有方向",
+        "III · 旧窗的日光",
+        "IV · 失去一个音",
+        "V · 门仍未关"
+      ]
+    },
+    {
+      "id": "canteen",
+      "errors": [],
+      "advisories": [
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            1,
+            3,
+            5,
+            7,
+            25,
+            27,
+            29,
+            31
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            2,
+            4,
+            6,
+            8,
+            26,
+            28,
+            30,
+            32
+          ]
+        }
+      ],
+      "duration": 96.0,
+      "bars": 40.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 2.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 6.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 11.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 14.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 18.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 22.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 27.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 30.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 34.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 38.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 43.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 46.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 50.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 59.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 62.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 65.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 74.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 78.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 82.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 91.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 93.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 99.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 110.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 114.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 126.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 130.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 133.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 139.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 142.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 146.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 150.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 155.0,
+          "rest_beats": 0.5
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 3,
+      "bass_advisories": [],
+      "form": [
+        "热汤 · A",
+        "排队 · 延伸",
+        "未寄出的答案 · B",
+        "伙伴 · 校园回声",
+        "收桌 · A′"
+      ]
+    },
+    {
+      "id": "final",
+      "errors": [],
+      "advisories": [
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            1,
+            3,
+            5,
+            7,
+            10,
+            12,
+            14,
+            50,
+            52,
+            54,
+            57,
+            59,
+            61,
+            63
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            9,
+            11,
+            13,
+            15,
+            49,
+            51,
+            53,
+            55
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            25,
+            27,
+            29,
+            31,
+            65,
+            67,
+            69,
+            71
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            26,
+            28,
+            30,
+            32,
+            66,
+            68,
+            70,
+            72
+          ]
+        }
+      ],
+      "duration": 130.9090909090909,
+      "bars": 72.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 3.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 7.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 11.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 14.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 19.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 22.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 27.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 30.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 33.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 35.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 37.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 39.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 42.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 46.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 49.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 51.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 55.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 58.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 62.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 67.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 78.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 94.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 98.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 106.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 110.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 114.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 122.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 126.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 131.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 134.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 139.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 142.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 150.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 158.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 162.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 166.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 170.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 174.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 178.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 182.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 186.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 189.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 195.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 199.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 203.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 206.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 211.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 214.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 219.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 222.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 226.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 230.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 238.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 246.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 251.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 254.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 258.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 262.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 266.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 270.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 274.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 282.0,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 5,
+      "bass_advisories": [],
+      "form": [
+        "誓言 · A",
+        "壁垒 · AI",
+        "记得谁 · 校园",
+        "选择 · B",
+        "替补入场 · 对话",
+        "静点 · 残存的人",
+        "我们仍能 · A′",
+        "共同的名字 · 综合",
+        "继续选择 · 循环属段"
+      ]
+    },
+    {
+      "id": "admin",
+      "errors": [],
+      "advisories": [],
+      "duration": 133.33333333333334,
+      "bars": 40.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 2.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 5.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 10.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 14.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 18.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 22.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 26.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 29.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 32.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 34.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 38.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 40,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 42.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 46.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 49.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 50.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 52.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 57.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 58.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 62.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 66.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 74.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 78.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 82.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 90.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 94.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 98.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 101.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 106.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 110.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 114.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 122.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 125.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 130.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 134.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 138.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 142.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 146.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 150.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 154.5,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 3,
+      "bass_advisories": [],
+      "form": [
+        "门 · A",
+        "密钥 · 线索靠近",
+        "选择 · B",
+        "证词 · A′",
+        "等待 · 开锁之前"
+      ]
+    },
+    {
+      "id": "garden",
+      "errors": [],
+      "advisories": [],
+      "duration": 109.0909090909091,
+      "bars": 40.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 2.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 6.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 11.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 14.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 18.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 22.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 26.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 30.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 32.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 34.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 37.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 42.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 46.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 50.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 58.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 62.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 64.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 66.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 72,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 74.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 77.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 81.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 82.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 84.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 89.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 90.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 94.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 98.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 106.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 110.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 114.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 122.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 126.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 130.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 134.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 139.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 142.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 146.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 150.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 154.5,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 2,
+      "bass_advisories": [],
+      "form": [
+        "枝叶 · A",
+        "根系 · 隐流",
+        "古树 · 内部纹理",
+        "新叶 · A′",
+        "树影 · 未消失的记忆"
+      ]
+    },
+    {
+      "id": "recruit",
+      "errors": [],
+      "advisories": [],
+      "duration": 6.923076923076923,
+      "bars": 3.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 2.0,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 1,
+      "bass_advisories": [],
+      "form": [
+        "触发与落点"
+      ]
+    },
+    {
+      "id": "chapter-clear",
+      "errors": [],
+      "advisories": [],
+      "duration": 10.0,
+      "bars": 4.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 3.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 6.5,
+          "rest_beats": 0.5
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 1,
+      "bass_advisories": [],
+      "form": [
+        "触发与落点"
+      ]
+    },
+    {
+      "id": "battle",
+      "errors": [],
+      "advisories": [
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            1,
+            3,
+            5,
+            7,
+            10,
+            12,
+            14,
+            25,
+            27,
+            29,
+            31,
+            42,
+            44,
+            46,
+            49,
+            51,
+            53,
+            55
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            2,
+            4,
+            6,
+            26,
+            28,
+            30,
+            50,
+            52,
+            54
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            9,
+            11,
+            13,
+            15,
+            41,
+            43,
+            45,
+            47
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            17,
+            19,
+            21,
+            23,
+            57,
+            59,
+            61,
+            63
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            18,
+            20,
+            22,
+            24,
+            58,
+            60,
+            62,
+            64
+          ]
+        }
+      ],
+      "duration": 116.36363636363636,
+      "bars": 64.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 3.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 6.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 11.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 14.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 22.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 27.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 30.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 35.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 38.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 43.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 47.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 54.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 59.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 62.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 66.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 71.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 78.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 83.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 87.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 91.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 94.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 98.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 103.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 110.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 115.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 119.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 123.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 126.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 129.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 133.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 139.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 147.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 155.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 158.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 161.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 166.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 171.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 179.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 182.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 187.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 190.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 195.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 198.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 203.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 206.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 211.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 215.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 219.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 223.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 225.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 229.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 235.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 243.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 251.0,
+          "rest_beats": 0.5
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 2,
+      "bass_advisories": [],
+      "form": [
+        "起势 · 留出第一步",
+        "A′ · 交错掩护",
+        "B · 看见出口",
+        "B′ · 回答不退让",
+        "C · 盾后的呼吸",
+        "推进 · 重组动机",
+        "A″ · 合上阵线",
+        "接续 · 仍在前行"
+      ]
+    },
+    {
+      "id": "defeat",
+      "errors": [],
+      "advisories": [],
+      "duration": 9.473684210526315,
+      "bars": 3.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 3.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 6.0,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 1,
+      "bass_advisories": [],
+      "form": [
+        "触发与落点"
+      ]
+    },
+    {
+      "id": "yifu",
+      "errors": [],
+      "advisories": [],
+      "duration": 104.34782608695652,
+      "bars": 40.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 2.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 6.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 11.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 14.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 18.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 22.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 26.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 30.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 35.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 38.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 43.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 46.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 50.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 59.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 62.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 66.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 75.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 78.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 82.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 91.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 93.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 99.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 110.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 126.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 130.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 134.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 137.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 142.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 145.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 150.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 153.0,
+          "rest_beats": 2.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 2,
+      "bass_advisories": [],
+      "form": [
+        "A · 玻璃折光",
+        "B · 风穿过连廊",
+        "回声 · 空中花园",
+        "A′ · 反射的同伴",
+        "余风 · 回到走廊"
+      ]
+    },
+    {
+      "id": "senior",
+      "errors": [],
+      "advisories": [],
+      "duration": 120.0,
+      "bars": 40.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 2.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 6.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 10.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 14.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 18.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 22.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 26.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 30.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 34.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 38.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 43.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 46.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 50.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 58.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 62.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 66.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 78.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 94.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 98.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 106.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 110.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 114.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 122.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 126.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 130.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 134.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 137.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 142.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 146.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 150.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 154.5,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 2,
+      "bass_advisories": [],
+      "form": [
+        "楼梯 · A",
+        "窗厅 · B",
+        "物理办公室 · 对话",
+        "旧日光 · A′",
+        "七层 · 接近答案"
+      ]
+    },
+    {
+      "id": "home",
+      "errors": [],
+      "advisories": [],
+      "duration": 125.21739130434783,
+      "bars": 48.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 3.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 6.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 14.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 22.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 30.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 35.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 38.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 43.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 46.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 62.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 66.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 79.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 82.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 87.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 91.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 94.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 106.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 110.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 114.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 123.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 126.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 131.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 134.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 142.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 147.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 150.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 159.0,
+          "rest_beats": 2.5
+        },
+        {
+          "after_beat": 166.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 169.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 174.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 177.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 182.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 186.5,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 2,
+      "bass_advisories": [],
+      "form": [
+        "A · 窗边的点名",
+        "A′ · 同伴回答",
+        "B · 走向中庭",
+        "C · 未说完的话",
+        "A″ · 记住彼此",
+        "回廊 · 再会的入口"
+      ]
+    },
+    {
+      "id": "title",
+      "errors": [],
+      "advisories": [],
+      "duration": 114.28571428571429,
+      "bars": 40.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 1.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 6.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 10.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 14.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 18.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 26.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 30.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 35.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 38.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 46.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 62.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 64.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 66.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 72,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 74.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 77.0,
+          "rest_beats": 2.5
+        },
+        {
+          "after_beat": 81.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 82.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 84.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 89.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 90.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 92.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 98.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 106.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 114.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 119.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 122.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 126.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 129.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 134.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 138.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 142.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 146.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 154.0,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 2,
+      "bass_advisories": [],
+      "form": [
+        "信封 · 尚未出现的人",
+        "名字 · 主题全貌",
+        "钟影 · 来信的背面",
+        "开门 · 明亮远景",
+        "留信 · 回到门前"
+      ]
+    },
+    {
+      "id": "suspense",
+      "errors": [],
+      "advisories": [],
+      "duration": 120.0,
+      "bars": 32.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 2.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 4,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 6.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 8,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 10.0,
+          "rest_beats": 2.5
+        },
+        {
+          "after_beat": 13.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 16.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 19.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 22.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 24.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 26.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 28.5,
+          "rest_beats": 3.0
+        },
+        {
+          "after_beat": 32,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 34.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 37.0,
+          "rest_beats": 2.5
+        },
+        {
+          "after_beat": 41.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 45.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 49.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 53.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 57.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 61.0,
+          "rest_beats": 3.0
+        },
+        {
+          "after_beat": 66.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 68,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 73.5,
+          "rest_beats": 3.0
+        },
+        {
+          "after_beat": 77.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 81.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 83.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 86.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 90.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 92.5,
+          "rest_beats": 3.0
+        },
+        {
+          "after_beat": 96,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 98.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 101.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 105.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 109.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 113.0,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 117.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 121.5,
+          "rest_beats": 2.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 3,
+      "bass_advisories": [],
+      "form": [
+        "删去 · 缺席",
+        "残页 · 新问题",
+        "痕迹 · 纹理生长",
+        "没有落款 · 回环"
+      ]
+    },
+    {
+      "id": "boss",
+      "errors": [],
+      "advisories": [
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            1,
+            3,
+            5,
+            7,
+            41,
+            43,
+            45,
+            47
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            2,
+            4,
+            6,
+            9,
+            11,
+            13,
+            15,
+            33,
+            35,
+            37,
+            39,
+            42,
+            44,
+            46,
+            49,
+            51,
+            53,
+            55
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            10,
+            12,
+            14,
+            34,
+            36,
+            38,
+            50,
+            52,
+            54
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            17,
+            19,
+            21,
+            23,
+            57,
+            59,
+            61,
+            63
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            18,
+            20,
+            22,
+            24,
+            58,
+            60,
+            62,
+            64
+          ]
+        }
+      ],
+      "duration": 106.66666666666667,
+      "bars": 64.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 0.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 3.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 6.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 11.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 14.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 19.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 23.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 27.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 30.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 32.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 34.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 38.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 40,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 42.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 45.0,
+          "rest_beats": 2.5
+        },
+        {
+          "after_beat": 49.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 50.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 52.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 54.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 57.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 58.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 60.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 66.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 75.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 78.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 82.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 90.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 94.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 98.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 106.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 110.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 114.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 122.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 126.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 131.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 134.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 139.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 142.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 150.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 155.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 158.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 160.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 163.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 166.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 171.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 174.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 177.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 178.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 180.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 182.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 185.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 186.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 190.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 192.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 195.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 198.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 203.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 206.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 211.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 214.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 219.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 222.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 226.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 230.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 235.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 238.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 242.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 246.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 250.5,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 3,
+      "bass_advisories": [],
+      "form": [
+        "裂口 · A",
+        "入侵 · 反题",
+        "盾面 · B",
+        "余震 · B′",
+        "应答 · 希望陈述",
+        "缝合 · 交错发展",
+        "A′ · 收紧阵线",
+        "破口尚在 · 接续"
+      ]
+    },
+    {
+      "id": "revelation",
+      "errors": [],
+      "advisories": [],
+      "duration": 7.826086956521739,
+      "bars": 3.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 0.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 2.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 6.0,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 1,
+      "bass_advisories": [],
+      "form": [
+        "触发与落点"
+      ]
+    },
+    {
+      "id": "laboratory",
+      "errors": [],
+      "advisories": [
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            1,
+            3,
+            5,
+            7,
+            33,
+            35,
+            37,
+            39
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            2,
+            4,
+            6,
+            8,
+            34,
+            36,
+            38,
+            40
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            9,
+            11,
+            13,
+            15,
+            41,
+            43,
+            45,
+            47
+          ]
+        },
+        {
+          "track": "drums",
+          "issue": "repeated authored bar; assess theme/ostinato context, not automatic failure",
+          "bars": [
+            10,
+            12,
+            14,
+            16,
+            42,
+            44,
+            46,
+            48
+          ]
+        }
+      ],
+      "duration": 102.85714285714286,
+      "bars": 48.0,
+      "subjective_audition": "未进行主观听觉验证",
+      "melodic_breaths": [
+        {
+          "after_beat": 1.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 3.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 5.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 7.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 10.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 14.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 17.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 19.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 23.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 26.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 30.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 33.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 35.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 37.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 39.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 42.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 46.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 50.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 55.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 58.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 62.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 67.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 70.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 74.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 78.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 86.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 91.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 94.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 98.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 102.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 106.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 110.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 114.0,
+          "rest_beats": 1.5
+        },
+        {
+          "after_beat": 118.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 123.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 125.5,
+          "rest_beats": 2.0
+        },
+        {
+          "after_beat": 130.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 133.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 135.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 138.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 142.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 145.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 147.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 151.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 154.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 158.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 163.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 166.0,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 170.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 174.5,
+          "rest_beats": 1.0
+        },
+        {
+          "after_beat": 177.5,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 179.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 183.0,
+          "rest_beats": 0.5
+        },
+        {
+          "after_beat": 186.0,
+          "rest_beats": 1.0
+        }
+      ],
+      "longest_unchanged_rhythm_bars": 2,
+      "bass_advisories": [],
+      "form": [
+        "误差 · A",
+        "轨道 · 延伸",
+        "驾驶 · B",
+        "天文台 · 悬空",
+        "校准 · A′",
+        "再扫描 · 接续"
+      ]
+    }
+  ],
+  "subjective_audition": "未进行主观听觉验证"
+}

@@ -1,0 +1,5077 @@
+{
+  "schema": 1,
+  "id": "basement",
+  "title": "灯下没有脚步",
+  "scene": "逸夫楼地下",
+  "themes": [
+    "intrusion",
+    "campus"
+  ],
+  "revision": 2,
+  "meter": [
+    4,
+    4
+  ],
+  "tempo_map": [
+    {
+      "beat": 0,
+      "bpm": 76
+    }
+  ],
+  "length_beats": 160,
+  "loop": {
+    "enabled": true,
+    "start_beat": 0,
+    "end_beat": 160,
+    "cadence": "末句保留属/共同音导向开头；连续周期渲染，不用淡入淡出遮盖"
+  },
+  "target_lufs": -21,
+  "sections": [
+    {
+      "name": "I · 门缝",
+      "description": "1–8 电钢断句与低音之间存在空白；半音并不连续轰鸣。"
+    },
+    {
+      "name": "II · 回声有方向",
+      "description": "9–16 单簧管把电钢碎片连成疑问；低音开始反向运动。"
+    },
+    {
+      "name": "III · 旧窗的日光",
+      "description": "17–24 G区钢琴展开长句，出现真正的暖色对比，不只是换音色。"
+    },
+    {
+      "name": "IV · 失去一个音",
+      "description": "25–32 将原3+3+2片段拆为跨拍问答，钢琴缺席，木管留白。"
+    },
+    {
+      "name": "V · 门仍未关",
+      "description": "33–40 电钢回归改变落点，末两小节导向E，不制造静音洞。"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "electric",
+      "instrument": "electric",
+      "program": 4,
+      "bank": 0,
+      "font": "general",
+      "family": "keyboard",
+      "pan": -0.12,
+      "send": 0.12,
+      "gain": 1,
+      "role": "melody",
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 0.5,
+          "duration": 0.46,
+          "pitch": 77,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 2.0,
+          "duration": 0.92,
+          "pitch": 70,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 5.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 5.5,
+          "duration": 0.46,
+          "pitch": 75,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 6.0,
+          "duration": 0.92,
+          "pitch": 76,
+          "velocity": 62,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 8,
+          "duration": 0.92,
+          "pitch": 79,
+          "velocity": 64,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 9.5,
+          "duration": 0.46,
+          "pitch": 77,
+          "velocity": 62,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 10.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 64,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 10.5,
+          "duration": 0.46,
+          "pitch": 70,
+          "velocity": 62,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 12,
+          "duration": 0.92,
+          "pitch": 69,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 13.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 16,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 61,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 16.5,
+          "duration": 0.46,
+          "pitch": 77,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 17.0,
+          "duration": 0.92,
+          "pitch": 71,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 21.5,
+          "duration": 0.46,
+          "pitch": 70,
+          "velocity": 61,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 22.0,
+          "duration": 0.92,
+          "pitch": 69,
+          "velocity": 63,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 23.0,
+          "duration": 0.46,
+          "pitch": 67,
+          "velocity": 61,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 24,
+          "duration": 0.92,
+          "pitch": 77,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 25.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 25.5,
+          "duration": 0.46,
+          "pitch": 74,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 26.0,
+          "duration": 0.92,
+          "pitch": 70,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 28,
+          "duration": 0.46,
+          "pitch": 71,
+          "velocity": 55,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 28.5,
+          "duration": 0.46,
+          "pitch": 75,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 29.0,
+          "duration": 0.92,
+          "pitch": 76,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 34.0,
+          "duration": 0.46,
+          "pitch": 64,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 34.5,
+          "duration": 0.46,
+          "pitch": 67,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 39.0,
+          "duration": 0.46,
+          "pitch": 59,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 42.0,
+          "duration": 0.92,
+          "pitch": 60,
+          "velocity": 54,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 47.0,
+          "duration": 0.46,
+          "pitch": 67,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 47.5,
+          "duration": 0.46,
+          "pitch": 65,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 50.0,
+          "duration": 0.46,
+          "pitch": 67,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 50.5,
+          "duration": 0.46,
+          "pitch": 70,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 54.0,
+          "duration": 0.46,
+          "pitch": 65,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 54.5,
+          "duration": 0.46,
+          "pitch": 64,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 55.0,
+          "duration": 0.46,
+          "pitch": 62,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 59.0,
+          "duration": 0.46,
+          "pitch": 60,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 62.0,
+          "duration": 0.46,
+          "pitch": 63,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 62.5,
+          "duration": 0.46,
+          "pitch": 66,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 99.0,
+          "duration": 0.46,
+          "pitch": 64,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 99.5,
+          "duration": 0.46,
+          "pitch": 65,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 103.0,
+          "duration": 0.46,
+          "pitch": 59,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 106.5,
+          "duration": 0.46,
+          "pitch": 60,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 107.0,
+          "duration": 0.46,
+          "pitch": 59,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 111.0,
+          "duration": 0.46,
+          "pitch": 67,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 111.5,
+          "duration": 0.46,
+          "pitch": 65,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 115.0,
+          "duration": 0.46,
+          "pitch": 58,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 115.5,
+          "duration": 0.46,
+          "pitch": 64,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 118.0,
+          "duration": 0.46,
+          "pitch": 65,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 118.5,
+          "duration": 0.46,
+          "pitch": 64,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 119.0,
+          "duration": 0.46,
+          "pitch": 62,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 122.0,
+          "duration": 0.46,
+          "pitch": 65,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 122.5,
+          "duration": 0.46,
+          "pitch": 64,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 126.0,
+          "duration": 0.46,
+          "pitch": 63,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 126.5,
+          "duration": 0.46,
+          "pitch": 66,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 128,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 128.5,
+          "duration": 0.46,
+          "pitch": 77,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 130.0,
+          "duration": 0.92,
+          "pitch": 70,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 133.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 133.5,
+          "duration": 0.46,
+          "pitch": 75,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 134.0,
+          "duration": 0.92,
+          "pitch": 76,
+          "velocity": 61,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 136,
+          "duration": 0.92,
+          "pitch": 79,
+          "velocity": 63,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 137.5,
+          "duration": 0.46,
+          "pitch": 77,
+          "velocity": 61,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 138.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 63,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 138.5,
+          "duration": 0.46,
+          "pitch": 70,
+          "velocity": 61,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 140,
+          "duration": 0.92,
+          "pitch": 69,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 141.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 144,
+          "duration": 0.92,
+          "pitch": 71,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 145.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 145.5,
+          "duration": 0.46,
+          "pitch": 77,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 149.0,
+          "duration": 0.46,
+          "pitch": 69,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 149.5,
+          "duration": 0.46,
+          "pitch": 70,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 150.0,
+          "duration": 0.92,
+          "pitch": 76,
+          "velocity": 62,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 152,
+          "duration": 0.92,
+          "pitch": 77,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 153.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 56,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 153.5,
+          "duration": 0.46,
+          "pitch": 74,
+          "velocity": 56,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 154.0,
+          "duration": 0.92,
+          "pitch": 70,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 156,
+          "duration": 0.46,
+          "pitch": 77,
+          "velocity": 54,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 156.5,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 52,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 157.0,
+          "duration": 0.92,
+          "pitch": 75,
+          "velocity": 52,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 158.0,
+          "duration": 0.46,
+          "pitch": 71,
+          "velocity": 54,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        }
+      ],
+      "controls": [
+        {
+          "beat": 0,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 0.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 3.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 4,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 4.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 7.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 8,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 8.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 11.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 12,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 12.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 15.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 16,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 16.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 19.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 20,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 20.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 23.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 24,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 24.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 27.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 28,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 28.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 31.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 32,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 32.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 35.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 36,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 36.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 39.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 40,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 40.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 43.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 44,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 44.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 47.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 48,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 48.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 51.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 52,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 52.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 55.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 56,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 56.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 59.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 60,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 60.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 63.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 96,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 96.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 99.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 100,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 100.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 103.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 104,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 104.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 107.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 108,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 108.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 111.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 112,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 112.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 115.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 116,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 116.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 119.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 120,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 120.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 123.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 124,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 124.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 127.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 128,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 128.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 131.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 132,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 132.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 135.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 136,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 136.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 139.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 140,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 140.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 143.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 144,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 144.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 147.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 148,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 148.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 151.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 152,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 152.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 155.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 156,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 156.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 159.65,
+          "cc": 64,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "cello",
+      "instrument": "cello",
+      "program": 42,
+      "bank": 0,
+      "font": "general",
+      "family": "sustain",
+      "pan": 0.08,
+      "send": 0.18,
+      "gain": 0.42,
+      "role": "atmosphere",
+      "notes": [
+        {
+          "beat": 1.0,
+          "duration": 1.84,
+          "pitch": 52,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 1.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 1.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 1.0,
+          "duration": 1.84,
+          "pitch": 65,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 5.0,
+          "duration": 1.84,
+          "pitch": 51,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 5.0,
+          "duration": 1.84,
+          "pitch": 57,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 5.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 5.0,
+          "duration": 1.84,
+          "pitch": 64,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 9.0,
+          "duration": 1.84,
+          "pitch": 52,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 9.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 9.0,
+          "duration": 1.84,
+          "pitch": 60,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 9.0,
+          "duration": 1.84,
+          "pitch": 66,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 13.0,
+          "duration": 1.84,
+          "pitch": 50,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 13.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 13.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 13.0,
+          "duration": 1.84,
+          "pitch": 64,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 17.0,
+          "duration": 1.84,
+          "pitch": 48,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 17.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 17.0,
+          "duration": 1.84,
+          "pitch": 58,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 17.0,
+          "duration": 1.84,
+          "pitch": 64,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 21.0,
+          "duration": 1.84,
+          "pitch": 50,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 21.0,
+          "duration": 1.84,
+          "pitch": 53,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 21.0,
+          "duration": 1.84,
+          "pitch": 57,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 21.0,
+          "duration": 1.84,
+          "pitch": 58,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 25.0,
+          "duration": 1.84,
+          "pitch": 48,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 25.0,
+          "duration": 1.84,
+          "pitch": 53,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 25.0,
+          "duration": 1.84,
+          "pitch": 57,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 25.0,
+          "duration": 1.84,
+          "pitch": 64,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 29.0,
+          "duration": 1.84,
+          "pitch": 51,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 29.0,
+          "duration": 1.84,
+          "pitch": 54,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 29.0,
+          "duration": 1.84,
+          "pitch": 57,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 29.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 96,
+          "duration": 3.22,
+          "pitch": 52,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 96,
+          "duration": 3.22,
+          "pitch": 55,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 96,
+          "duration": 3.22,
+          "pitch": 59,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 96,
+          "duration": 3.22,
+          "pitch": 65,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 100,
+          "duration": 3.22,
+          "pitch": 51,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 100,
+          "duration": 3.22,
+          "pitch": 57,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 100,
+          "duration": 3.22,
+          "pitch": 59,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 100,
+          "duration": 3.22,
+          "pitch": 64,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 104,
+          "duration": 3.22,
+          "pitch": 52,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 104,
+          "duration": 3.22,
+          "pitch": 55,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 104,
+          "duration": 3.22,
+          "pitch": 60,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 104,
+          "duration": 3.22,
+          "pitch": 66,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 108,
+          "duration": 3.22,
+          "pitch": 50,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 108,
+          "duration": 3.22,
+          "pitch": 55,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 108,
+          "duration": 3.22,
+          "pitch": 59,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 108,
+          "duration": 3.22,
+          "pitch": 64,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 112,
+          "duration": 3.22,
+          "pitch": 48,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 112,
+          "duration": 3.22,
+          "pitch": 55,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 112,
+          "duration": 3.22,
+          "pitch": 58,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 112,
+          "duration": 3.22,
+          "pitch": 64,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 116,
+          "duration": 3.22,
+          "pitch": 50,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 116,
+          "duration": 3.22,
+          "pitch": 53,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 116,
+          "duration": 3.22,
+          "pitch": 57,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 116,
+          "duration": 3.22,
+          "pitch": 58,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 120,
+          "duration": 3.22,
+          "pitch": 48,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 120,
+          "duration": 3.22,
+          "pitch": 53,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 120,
+          "duration": 3.22,
+          "pitch": 57,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 120,
+          "duration": 3.22,
+          "pitch": 64,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 124,
+          "duration": 3.22,
+          "pitch": 51,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 124,
+          "duration": 3.22,
+          "pitch": 54,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 124,
+          "duration": 3.22,
+          "pitch": 57,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 124,
+          "duration": 3.22,
+          "pitch": 59,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        }
+      ],
+      "controls": [
+        {
+          "beat": 0,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 1,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 2.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 3.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 4,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 5,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 6.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 7.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 8,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 9,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 10.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 11.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 12,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 13,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 14.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 15.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 16,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 17,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 18.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 19.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 20,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 21,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 22.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 23.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 24,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 25,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 26.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 27.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 28,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 29,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 30.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 31.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 96,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 97,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 98.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 99.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 100,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 101,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 102.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 103.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 104,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 105,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 106.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 107.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 108,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 109,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 110.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 111.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 112,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 113,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 114.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 115.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 116,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 117,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 118.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 119.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 120,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 121,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 122.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 123.5,
+          "cc": 11,
+          "value": 74
+        },
+        {
+          "beat": 124,
+          "cc": 11,
+          "value": 75
+        },
+        {
+          "beat": 125,
+          "cc": 11,
+          "value": 86
+        },
+        {
+          "beat": 126.5,
+          "cc": 11,
+          "value": 92
+        },
+        {
+          "beat": 127.5,
+          "cc": 11,
+          "value": 74
+        }
+      ]
+    },
+    {
+      "id": "bass",
+      "instrument": "bass",
+      "program": 32,
+      "bank": 0,
+      "font": "general",
+      "family": "bass",
+      "pan": 0,
+      "send": 0.05,
+      "gain": 0.75,
+      "role": "bass",
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 1.84,
+          "pitch": 40,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 2.0,
+          "duration": 0.46,
+          "pitch": 47,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 4,
+          "duration": 0.92,
+          "pitch": 51,
+          "velocity": 52,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 5.0,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 8,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 54,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 9.0,
+          "duration": 0.92,
+          "pitch": 43,
+          "velocity": 52,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 10.0,
+          "duration": 0.46,
+          "pitch": 47,
+          "velocity": 54,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 12,
+          "duration": 1.84,
+          "pitch": 47,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 14.0,
+          "duration": 0.46,
+          "pitch": 45,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 14.5,
+          "duration": 0.46,
+          "pitch": 43,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 16,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 17.0,
+          "duration": 0.92,
+          "pitch": 43,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 18.0,
+          "duration": 0.92,
+          "pitch": 46,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 20,
+          "duration": 0.92,
+          "pitch": 50,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 21.0,
+          "duration": 0.46,
+          "pitch": 45,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 21.5,
+          "duration": 0.46,
+          "pitch": 48,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 24,
+          "duration": 0.92,
+          "pitch": 41,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 25.0,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 26.0,
+          "duration": 0.46,
+          "pitch": 52,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 28,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 29.0,
+          "duration": 0.46,
+          "pitch": 42,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 29.5,
+          "duration": 0.46,
+          "pitch": 45,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 30.0,
+          "duration": 0.92,
+          "pitch": 51,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "I · 门缝"
+        },
+        {
+          "beat": 32,
+          "duration": 0.92,
+          "pitch": 43,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 33.0,
+          "duration": 0.92,
+          "pitch": 50,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 34.0,
+          "duration": 0.46,
+          "pitch": 47,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 36,
+          "duration": 0.92,
+          "pitch": 42,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 37.0,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 38.0,
+          "duration": 0.46,
+          "pitch": 50,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 40,
+          "duration": 0.92,
+          "pitch": 52,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 41.0,
+          "duration": 0.46,
+          "pitch": 48,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 41.5,
+          "duration": 0.46,
+          "pitch": 47,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 42.0,
+          "duration": 0.92,
+          "pitch": 43,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 44,
+          "duration": 0.92,
+          "pitch": 50,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 45.0,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 46.0,
+          "duration": 0.46,
+          "pitch": 45,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 48,
+          "duration": 0.92,
+          "pitch": 45,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 49.0,
+          "duration": 0.46,
+          "pitch": 52,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 49.5,
+          "duration": 0.46,
+          "pitch": 55,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 50.0,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 52,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 53.0,
+          "duration": 0.92,
+          "pitch": 50,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 54.0,
+          "duration": 0.46,
+          "pitch": 43,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 56,
+          "duration": 0.92,
+          "pitch": 42,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 57.0,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 58.0,
+          "duration": 0.46,
+          "pitch": 45,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 60,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 61.0,
+          "duration": 0.92,
+          "pitch": 45,
+          "velocity": 40,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 62.0,
+          "duration": 0.46,
+          "pitch": 42,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 62.5,
+          "duration": 0.46,
+          "pitch": 51,
+          "velocity": 40,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 64,
+          "duration": 0.92,
+          "pitch": 43,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 65.0,
+          "duration": 0.92,
+          "pitch": 50,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 66.0,
+          "duration": 0.46,
+          "pitch": 47,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 68,
+          "duration": 0.92,
+          "pitch": 42,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 69.0,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 70.0,
+          "duration": 0.46,
+          "pitch": 50,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 72,
+          "duration": 0.92,
+          "pitch": 52,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 73.0,
+          "duration": 0.46,
+          "pitch": 48,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 73.5,
+          "duration": 0.46,
+          "pitch": 47,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 74.0,
+          "duration": 0.92,
+          "pitch": 43,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 76,
+          "duration": 0.92,
+          "pitch": 50,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 77.0,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 78.0,
+          "duration": 0.46,
+          "pitch": 45,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 80,
+          "duration": 0.92,
+          "pitch": 45,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 81.0,
+          "duration": 0.46,
+          "pitch": 52,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 81.5,
+          "duration": 0.46,
+          "pitch": 55,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 82.0,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 84,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 52,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 85.0,
+          "duration": 0.92,
+          "pitch": 50,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 86.0,
+          "duration": 0.46,
+          "pitch": 43,
+          "velocity": 52,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 88,
+          "duration": 0.92,
+          "pitch": 42,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 89.0,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 90.0,
+          "duration": 0.46,
+          "pitch": 45,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 92,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 93.0,
+          "duration": 0.92,
+          "pitch": 45,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 94.0,
+          "duration": 0.46,
+          "pitch": 42,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 94.5,
+          "duration": 0.46,
+          "pitch": 51,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 128,
+          "duration": 1.84,
+          "pitch": 40,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 130.0,
+          "duration": 0.46,
+          "pitch": 47,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 132,
+          "duration": 0.92,
+          "pitch": 51,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 133.0,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 136,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 137.0,
+          "duration": 0.92,
+          "pitch": 43,
+          "velocity": 51,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 138.0,
+          "duration": 0.46,
+          "pitch": 47,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 140,
+          "duration": 1.84,
+          "pitch": 47,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 142.0,
+          "duration": 0.46,
+          "pitch": 45,
+          "velocity": 49,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 142.5,
+          "duration": 0.46,
+          "pitch": 43,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 144,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 145.0,
+          "duration": 0.92,
+          "pitch": 43,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 146.0,
+          "duration": 0.92,
+          "pitch": 46,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 148,
+          "duration": 0.92,
+          "pitch": 50,
+          "velocity": 52,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 149.0,
+          "duration": 0.46,
+          "pitch": 45,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 149.5,
+          "duration": 0.46,
+          "pitch": 48,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 152,
+          "duration": 0.92,
+          "pitch": 41,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 153.0,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 154.0,
+          "duration": 0.46,
+          "pitch": 52,
+          "velocity": 48,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 156,
+          "duration": 0.92,
+          "pitch": 47,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 157.0,
+          "duration": 0.46,
+          "pitch": 42,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 157.5,
+          "duration": 0.46,
+          "pitch": 45,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 158.0,
+          "duration": 0.92,
+          "pitch": 51,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        }
+      ],
+      "controls": []
+    },
+    {
+      "id": "clarinet",
+      "instrument": "clarinet",
+      "program": 71,
+      "bank": 0,
+      "font": "general",
+      "family": "wind",
+      "pan": 0.16,
+      "send": 0.18,
+      "gain": 1,
+      "role": "melody",
+      "notes": [
+        {
+          "beat": 33.0,
+          "duration": 0.415,
+          "pitch": 64,
+          "velocity": 55,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 33.5,
+          "duration": 0.415,
+          "pitch": 65,
+          "velocity": 55,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 34.0,
+          "duration": 0.83,
+          "pitch": 70,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 36,
+          "duration": 0.83,
+          "pitch": 71,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 37.0,
+          "duration": 0.415,
+          "pitch": 65,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 37.5,
+          "duration": 0.415,
+          "pitch": 64,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 40,
+          "duration": 0.415,
+          "pitch": 67,
+          "velocity": 61,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 40.5,
+          "duration": 0.415,
+          "pitch": 69,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 41.0,
+          "duration": 0.83,
+          "pitch": 70,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 42.5,
+          "duration": 0.415,
+          "pitch": 76,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 44,
+          "duration": 0.83,
+          "pitch": 77,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 45.0,
+          "duration": 0.83,
+          "pitch": 76,
+          "velocity": 55,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 48.5,
+          "duration": 0.415,
+          "pitch": 64,
+          "velocity": 56,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 49.0,
+          "duration": 0.415,
+          "pitch": 70,
+          "velocity": 56,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 49.5,
+          "duration": 0.415,
+          "pitch": 76,
+          "velocity": 56,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 50.0,
+          "duration": 0.415,
+          "pitch": 77,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 52,
+          "duration": 0.83,
+          "pitch": 75,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 53.0,
+          "duration": 0.415,
+          "pitch": 71,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 53.5,
+          "duration": 0.415,
+          "pitch": 69,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 56,
+          "duration": 0.83,
+          "pitch": 65,
+          "velocity": 56,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 57.0,
+          "duration": 0.415,
+          "pitch": 69,
+          "velocity": 54,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 57.5,
+          "duration": 0.415,
+          "pitch": 70,
+          "velocity": 54,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 58.0,
+          "duration": 0.83,
+          "pitch": 76,
+          "velocity": 56,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 60,
+          "duration": 0.415,
+          "pitch": 77,
+          "velocity": 52,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 60.5,
+          "duration": 0.415,
+          "pitch": 76,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 61.0,
+          "duration": 0.83,
+          "pitch": 75,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "II · 回声有方向"
+        },
+        {
+          "beat": 96,
+          "duration": 0.415,
+          "pitch": 64,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 96.5,
+          "duration": 0.415,
+          "pitch": 65,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 98.0,
+          "duration": 0.83,
+          "pitch": 58,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 101.0,
+          "duration": 0.415,
+          "pitch": 64,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 101.5,
+          "duration": 0.415,
+          "pitch": 63,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 102.0,
+          "duration": 0.83,
+          "pitch": 64,
+          "velocity": 62,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 104,
+          "duration": 0.83,
+          "pitch": 67,
+          "velocity": 64,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 105.5,
+          "duration": 0.415,
+          "pitch": 65,
+          "velocity": 62,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 106.0,
+          "duration": 0.415,
+          "pitch": 64,
+          "velocity": 64,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 106.5,
+          "duration": 0.415,
+          "pitch": 58,
+          "velocity": 62,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 110.0,
+          "duration": 0.415,
+          "pitch": 59,
+          "velocity": 60,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 110.5,
+          "duration": 0.415,
+          "pitch": 57,
+          "velocity": 58,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 112,
+          "duration": 0.415,
+          "pitch": 64,
+          "velocity": 61,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 112.5,
+          "duration": 0.415,
+          "pitch": 65,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 113.0,
+          "duration": 0.83,
+          "pitch": 59,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 117.5,
+          "duration": 0.415,
+          "pitch": 58,
+          "velocity": 61,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 118.0,
+          "duration": 0.83,
+          "pitch": 57,
+          "velocity": 63,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 119.0,
+          "duration": 0.415,
+          "pitch": 55,
+          "velocity": 61,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 120,
+          "duration": 0.415,
+          "pitch": 65,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 121.0,
+          "duration": 0.83,
+          "pitch": 64,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 122.0,
+          "duration": 0.415,
+          "pitch": 58,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 124,
+          "duration": 0.415,
+          "pitch": 59,
+          "velocity": 55,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 124.5,
+          "duration": 0.415,
+          "pitch": 63,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        },
+        {
+          "beat": 125.0,
+          "duration": 0.83,
+          "pitch": 64,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "IV · 失去一个音"
+        }
+      ],
+      "controls": []
+    },
+    {
+      "id": "piano",
+      "instrument": "piano",
+      "program": 0,
+      "bank": 0,
+      "font": "salamander",
+      "family": "keyboard",
+      "pan": 0,
+      "send": 0.16,
+      "gain": 1.18,
+      "role": "melody",
+      "notes": [
+        {
+          "beat": 64,
+          "duration": 0.92,
+          "pitch": 67,
+          "velocity": 72,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 65.0,
+          "duration": 0.46,
+          "pitch": 71,
+          "velocity": 70,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 65.5,
+          "duration": 0.46,
+          "pitch": 74,
+          "velocity": 70,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 66.0,
+          "duration": 0.92,
+          "pitch": 76,
+          "velocity": 72,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 68,
+          "duration": 0.92,
+          "pitch": 74,
+          "velocity": 74,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 69.0,
+          "duration": 0.92,
+          "pitch": 67,
+          "velocity": 72,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 70.0,
+          "duration": 0.46,
+          "pitch": 69,
+          "velocity": 74,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 70.5,
+          "duration": 0.46,
+          "pitch": 71,
+          "velocity": 72,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 72,
+          "duration": 0.92,
+          "pitch": 72,
+          "velocity": 76,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 73.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 74,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 73.5,
+          "duration": 0.46,
+          "pitch": 79,
+          "velocity": 74,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 74.0,
+          "duration": 0.92,
+          "pitch": 78,
+          "velocity": 76,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 75.0,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 74,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 76,
+          "duration": 0.92,
+          "pitch": 74,
+          "velocity": 72,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 77.0,
+          "duration": 0.46,
+          "pitch": 71,
+          "velocity": 70,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 77.5,
+          "duration": 0.46,
+          "pitch": 69,
+          "velocity": 70,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 78.0,
+          "duration": 0.92,
+          "pitch": 67,
+          "velocity": 72,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 80,
+          "duration": 0.46,
+          "pitch": 69,
+          "velocity": 73,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 80.5,
+          "duration": 0.46,
+          "pitch": 72,
+          "velocity": 71,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 81.0,
+          "duration": 0.92,
+          "pitch": 76,
+          "velocity": 71,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 82.0,
+          "duration": 0.92,
+          "pitch": 74,
+          "velocity": 73,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 84,
+          "duration": 0.92,
+          "pitch": 67,
+          "velocity": 75,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 85.0,
+          "duration": 0.92,
+          "pitch": 71,
+          "velocity": 73,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 86.0,
+          "duration": 0.46,
+          "pitch": 69,
+          "velocity": 75,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 86.5,
+          "duration": 0.46,
+          "pitch": 67,
+          "velocity": 73,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 88,
+          "duration": 0.92,
+          "pitch": 66,
+          "velocity": 71,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 89.0,
+          "duration": 0.46,
+          "pitch": 69,
+          "velocity": 69,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 89.5,
+          "duration": 0.46,
+          "pitch": 72,
+          "velocity": 69,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 90.0,
+          "duration": 0.92,
+          "pitch": 71,
+          "velocity": 71,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 92,
+          "duration": 0.46,
+          "pitch": 75,
+          "velocity": 67,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 92.5,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 65,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 93.0,
+          "duration": 0.92,
+          "pitch": 71,
+          "velocity": 65,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        }
+      ],
+      "controls": [
+        {
+          "beat": 64,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 64.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 67.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 68,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 68.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 71.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 72,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 72.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 75.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 76,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 76.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 79.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 80,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 80.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 83.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 84,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 84.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 87.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 88,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 88.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 91.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 92,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 92.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 95.65,
+          "cc": 64,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "nylon",
+      "instrument": "nylon",
+      "program": 24,
+      "bank": 0,
+      "font": "general",
+      "family": "plucked",
+      "pan": -0.25,
+      "send": 0.13,
+      "gain": 0.6,
+      "role": "harmony",
+      "notes": [
+        {
+          "beat": 64,
+          "duration": 1.38,
+          "pitch": 55,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 64,
+          "duration": 1.38,
+          "pitch": 59,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 66.0,
+          "duration": 0.92,
+          "pitch": 62,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 66.0,
+          "duration": 0.92,
+          "pitch": 64,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 69.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 69.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 69.0,
+          "duration": 1.84,
+          "pitch": 62,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 69.0,
+          "duration": 1.84,
+          "pitch": 66,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 72,
+          "duration": 1.38,
+          "pitch": 55,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 72,
+          "duration": 1.38,
+          "pitch": 60,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 74.0,
+          "duration": 0.92,
+          "pitch": 64,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 74.0,
+          "duration": 0.92,
+          "pitch": 67,
+          "velocity": 50,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 77.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 77.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 77.0,
+          "duration": 1.84,
+          "pitch": 62,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 77.0,
+          "duration": 1.84,
+          "pitch": 66,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 80,
+          "duration": 1.38,
+          "pitch": 57,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 80,
+          "duration": 1.38,
+          "pitch": 60,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 82.0,
+          "duration": 0.92,
+          "pitch": 64,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 82.0,
+          "duration": 0.92,
+          "pitch": 67,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 85.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 85.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 85.0,
+          "duration": 1.84,
+          "pitch": 62,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 85.0,
+          "duration": 1.84,
+          "pitch": 64,
+          "velocity": 47,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 88,
+          "duration": 1.38,
+          "pitch": 54,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 88,
+          "duration": 1.38,
+          "pitch": 57,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 90.0,
+          "duration": 0.92,
+          "pitch": 60,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 90.0,
+          "duration": 0.92,
+          "pitch": 64,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 93.0,
+          "duration": 1.84,
+          "pitch": 54,
+          "velocity": 39,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 93.0,
+          "duration": 1.84,
+          "pitch": 57,
+          "velocity": 39,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 93.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 39,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 93.0,
+          "duration": 1.84,
+          "pitch": 63,
+          "velocity": 39,
+          "articulation": "tenuto",
+          "section": "III · 旧窗的日光"
+        },
+        {
+          "beat": 129.0,
+          "duration": 1.84,
+          "pitch": 52,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 129.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 129.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 129.0,
+          "duration": 1.84,
+          "pitch": 65,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 133.0,
+          "duration": 1.84,
+          "pitch": 51,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 133.0,
+          "duration": 1.84,
+          "pitch": 57,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 133.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 133.0,
+          "duration": 1.84,
+          "pitch": 64,
+          "velocity": 44,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 137.0,
+          "duration": 1.84,
+          "pitch": 52,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 137.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 137.0,
+          "duration": 1.84,
+          "pitch": 60,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 137.0,
+          "duration": 1.84,
+          "pitch": 66,
+          "velocity": 46,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 141.0,
+          "duration": 1.84,
+          "pitch": 50,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 141.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 141.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 141.0,
+          "duration": 1.84,
+          "pitch": 64,
+          "velocity": 42,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 145.0,
+          "duration": 1.84,
+          "pitch": 48,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 145.0,
+          "duration": 1.84,
+          "pitch": 55,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 145.0,
+          "duration": 1.84,
+          "pitch": 58,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 145.0,
+          "duration": 1.84,
+          "pitch": 64,
+          "velocity": 43,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 149.0,
+          "duration": 1.84,
+          "pitch": 50,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 149.0,
+          "duration": 1.84,
+          "pitch": 53,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 149.0,
+          "duration": 1.84,
+          "pitch": 57,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 149.0,
+          "duration": 1.84,
+          "pitch": 58,
+          "velocity": 45,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 153.0,
+          "duration": 1.84,
+          "pitch": 48,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 153.0,
+          "duration": 1.84,
+          "pitch": 53,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 153.0,
+          "duration": 1.84,
+          "pitch": 57,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 153.0,
+          "duration": 1.84,
+          "pitch": 64,
+          "velocity": 41,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 157.0,
+          "duration": 1.84,
+          "pitch": 51,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 157.0,
+          "duration": 1.84,
+          "pitch": 54,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 157.0,
+          "duration": 1.84,
+          "pitch": 57,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        },
+        {
+          "beat": 157.0,
+          "duration": 1.84,
+          "pitch": 59,
+          "velocity": 37,
+          "articulation": "tenuto",
+          "section": "V · 门仍未关"
+        }
+      ],
+      "controls": []
+    }
+  ],
+  "arrangement": [
+    {
+      "bar": 1,
+      "section": "I · 门缝",
+      "intent": "1–8 电钢断句与低音之间存在空白；半音并不连续轰鸣。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "E5:.5 F5:.5 r:1 Bb4:1 r:1"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "r:1 E3+G3+B3+F4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "E2:2 B2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 2,
+      "section": "I · 门缝",
+      "intent": "1–8 电钢断句与低音之间存在空白；半音并不连续轰鸣。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "r:1 E5:.5 D#5:.5 E5:1 r:1"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "r:1 D#3+A3+B3+E4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "D#3:1 B2:1 r:2"
+        }
+      }
+    },
+    {
+      "bar": 3,
+      "section": "I · 门缝",
+      "intent": "1–8 电钢断句与低音之间存在空白；半音并不连续轰鸣。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "G5:1 r:.5 F5:.5 E5:.5 Bb4:.5 r:1"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "r:1 E3+G3+C4+F#4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "C3:1 G2:1 B2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 4,
+      "section": "I · 门缝",
+      "intent": "1–8 电钢断句与低音之间存在空白；半音并不连续轰鸣。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "A4:1 E5:.5 r:2.5"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "r:1 D3+G3+B3+E4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "B2:2 A2:.5 G2:.5 r:1"
+        }
+      }
+    },
+    {
+      "bar": 5,
+      "section": "I · 门缝",
+      "intent": "1–8 电钢断句与低音之间存在空白；半音并不连续轰鸣。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "E5:.5 F5:.5 B4:1 r:2"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "r:1 C3+G3+Bb3+E4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "C3:1 G2:1 Bb2:1 r:1"
+        }
+      }
+    },
+    {
+      "bar": 6,
+      "section": "I · 门缝",
+      "intent": "1–8 电钢断句与低音之间存在空白；半音并不连续轰鸣。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "r:1.5 Bb4:.5 A4:1 G4:.5 r:.5"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "r:1 D3+F3+A3+Bb3:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "D3:1 A2:.5 C3:.5 r:2"
+        }
+      }
+    },
+    {
+      "bar": 7,
+      "section": "I · 门缝",
+      "intent": "1–8 电钢断句与低音之间存在空白；半音并不连续轰鸣。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "F5:1 E5:.5 D5:.5 Bb4:1 r:1"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "r:1 C3+F3+A3+E4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "F2:1 C3:1 E3:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 8,
+      "section": "I · 门缝",
+      "intent": "1–8 电钢断句与低音之间存在空白；半音并不连续轰鸣。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "B4:.5 D#5:.5 E5:1 r:2"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "r:1 D#3+F#3+A3+B3:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "B2:1 F#2:.5 A2:.5 D#3:1 r:1"
+        }
+      }
+    },
+    {
+      "bar": 9,
+      "section": "II · 回声有方向",
+      "intent": "9–16 单簧管把电钢碎片连成疑问；低音开始反向运动。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "r:1 E4:.5 F4:.5 Bb4:1 r:1"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:2 E4:.5 G4:.5 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "G2:1 D3:1 B2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 10,
+      "section": "II · 回声有方向",
+      "intent": "9–16 单簧管把电钢碎片连成疑问；低音开始反向运动。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "B4:1 F4:.5 E4:.5 r:2"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:3 B3:.5 r:.5"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "F#2:1 B2:1 D3:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 11,
+      "section": "II · 回声有方向",
+      "intent": "9–16 单簧管把电钢碎片连成疑问；低音开始反向运动。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "G4:.5 A4:.5 Bb4:1 r:.5 E5:.5 r:1"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:2 C4:1 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "E3:1 C3:.5 B2:.5 G2:1 r:1"
+        }
+      }
+    },
+    {
+      "bar": 12,
+      "section": "II · 回声有方向",
+      "intent": "9–16 单簧管把电钢碎片连成疑问；低音开始反向运动。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "F5:1 E5:1 r:2"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:3 G4:.5 F4:.5"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "D3:1 B2:1 A2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 13,
+      "section": "II · 回声有方向",
+      "intent": "9–16 单簧管把电钢碎片连成疑问；低音开始反向运动。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "r:.5 E4:.5 Bb4:.5 E5:.5 F5:.5 r:1.5"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:2 G4:.5 Bb4:.5 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "A2:1 E3:.5 G3:.5 C3:1 r:1"
+        }
+      }
+    },
+    {
+      "bar": 14,
+      "section": "II · 回声有方向",
+      "intent": "9–16 单簧管把电钢碎片连成疑问；低音开始反向运动。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "D#5:1 B4:.5 A4:.5 r:2"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:2 F4:.5 E4:.5 D4:.5 r:.5"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "B2:1 D3:1 G2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 15,
+      "section": "II · 回声有方向",
+      "intent": "9–16 单簧管把电钢碎片连成疑问；低音开始反向运动。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "F4:1 A4:.5 Bb4:.5 E5:1 r:1"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:3 C4:.5 r:.5"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "F#2:1 C3:1 A2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 16,
+      "section": "II · 回声有方向",
+      "intent": "9–16 单簧管把电钢碎片连成疑问；低音开始反向运动。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "F5:.5 E5:.5 D#5:1 r:2"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:2 D#4:.5 F#4:.5 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "B2:1 A2:1 F#2:.5 D#3:.5 r:1"
+        }
+      }
+    },
+    {
+      "bar": 17,
+      "section": "III · 旧窗的日光",
+      "intent": "17–24 G区钢琴展开长句，出现真正的暖色对比，不只是换音色。",
+      "voices": {
+        "piano": {
+          "role": "melody",
+          "instrument": "piano",
+          "notation": "G4:1 B4:.5 D5:.5 E5:1 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "G3+B3:1.5 r:.5 D4+E4:1 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "G2:1 D3:1 B2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 18,
+      "section": "III · 旧窗的日光",
+      "intent": "17–24 G区钢琴展开长句，出现真正的暖色对比，不只是换音色。",
+      "voices": {
+        "piano": {
+          "role": "melody",
+          "instrument": "piano",
+          "notation": "D5:1 G4:1 A4:.5 B4:.5 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 G3+B3+D4+F#4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "F#2:1 B2:1 D3:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 19,
+      "section": "III · 旧窗的日光",
+      "intent": "17–24 G区钢琴展开长句，出现真正的暖色对比，不只是换音色。",
+      "voices": {
+        "piano": {
+          "role": "melody",
+          "instrument": "piano",
+          "notation": "C5:1 E5:.5 G5:.5 F#5:1 E5:.5 r:.5"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "G3+C4:1.5 r:.5 E4+G4:1 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "E3:1 C3:.5 B2:.5 G2:1 r:1"
+        }
+      }
+    },
+    {
+      "bar": 20,
+      "section": "III · 旧窗的日光",
+      "intent": "17–24 G区钢琴展开长句，出现真正的暖色对比，不只是换音色。",
+      "voices": {
+        "piano": {
+          "role": "melody",
+          "instrument": "piano",
+          "notation": "D5:1 B4:.5 A4:.5 G4:1 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 G3+B3+D4+F#4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "D3:1 B2:1 A2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 21,
+      "section": "III · 旧窗的日光",
+      "intent": "17–24 G区钢琴展开长句，出现真正的暖色对比，不只是换音色。",
+      "voices": {
+        "piano": {
+          "role": "melody",
+          "instrument": "piano",
+          "notation": "A4:.5 C5:.5 E5:1 D5:1 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "A3+C4:1.5 r:.5 E4+G4:1 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "A2:1 E3:.5 G3:.5 C3:1 r:1"
+        }
+      }
+    },
+    {
+      "bar": 22,
+      "section": "III · 旧窗的日光",
+      "intent": "17–24 G区钢琴展开长句，出现真正的暖色对比，不只是换音色。",
+      "voices": {
+        "piano": {
+          "role": "melody",
+          "instrument": "piano",
+          "notation": "G4:1 B4:1 A4:.5 G4:.5 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 G3+B3+D4+E4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "B2:1 D3:1 G2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 23,
+      "section": "III · 旧窗的日光",
+      "intent": "17–24 G区钢琴展开长句，出现真正的暖色对比，不只是换音色。",
+      "voices": {
+        "piano": {
+          "role": "melody",
+          "instrument": "piano",
+          "notation": "F#4:1 A4:.5 C5:.5 B4:1 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "F#3+A3:1.5 r:.5 C4+E4:1 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "F#2:1 C3:1 A2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 24,
+      "section": "III · 旧窗的日光",
+      "intent": "17–24 G区钢琴展开长句，出现真正的暖色对比，不只是换音色。",
+      "voices": {
+        "piano": {
+          "role": "melody",
+          "instrument": "piano",
+          "notation": "D#5:.5 E5:.5 B4:1 r:2"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 F#3+A3+B3+D#4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "B2:1 A2:1 F#2:.5 D#3:.5 r:1"
+        }
+      }
+    },
+    {
+      "bar": 25,
+      "section": "IV · 失去一个音",
+      "intent": "25–32 将原3+3+2片段拆为跨拍问答，钢琴缺席，木管留白。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "E4:.5 F4:.5 r:1 Bb3:1 r:1"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:3 E4:.5 F4:.5"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "E3+G3+B3+F4:3.5 r:.5"
+        }
+      }
+    },
+    {
+      "bar": 26,
+      "section": "IV · 失去一个音",
+      "intent": "25–32 将原3+3+2片段拆为跨拍问答，钢琴缺席，木管留白。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "r:1 E4:.5 D#4:.5 E4:1 r:1"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:3 B3:.5 r:.5"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "D#3+A3+B3+E4:3.5 r:.5"
+        }
+      }
+    },
+    {
+      "bar": 27,
+      "section": "IV · 失去一个音",
+      "intent": "25–32 将原3+3+2片段拆为跨拍问答，钢琴缺席，木管留白。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "G4:1 r:.5 F4:.5 E4:.5 Bb3:.5 r:1"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:2.5 C4:.5 B3:.5 r:.5"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "E3+G3+C4+F#4:3.5 r:.5"
+        }
+      }
+    },
+    {
+      "bar": 28,
+      "section": "IV · 失去一个音",
+      "intent": "25–32 将原3+3+2片段拆为跨拍问答，钢琴缺席，木管留白。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "r:2 B3:.5 A3:.5 r:1"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:3 G4:.5 F4:.5"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "D3+G3+B3+E4:3.5 r:.5"
+        }
+      }
+    },
+    {
+      "bar": 29,
+      "section": "IV · 失去一个音",
+      "intent": "25–32 将原3+3+2片段拆为跨拍问答，钢琴缺席，木管留白。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "E4:.5 F4:.5 B3:1 r:2"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:3 Bb3:.5 E4:.5"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "C3+G3+Bb3+E4:3.5 r:.5"
+        }
+      }
+    },
+    {
+      "bar": 30,
+      "section": "IV · 失去一个音",
+      "intent": "25–32 将原3+3+2片段拆为跨拍问答，钢琴缺席，木管留白。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "r:1.5 Bb3:.5 A3:1 G3:.5 r:.5"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:2 F4:.5 E4:.5 D4:.5 r:.5"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "D3+F3+A3+Bb3:3.5 r:.5"
+        }
+      }
+    },
+    {
+      "bar": 31,
+      "section": "IV · 失去一个音",
+      "intent": "25–32 将原3+3+2片段拆为跨拍问答，钢琴缺席，木管留白。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "F4:.5 r:.5 E4:1 Bb3:.5 r:1.5"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:2 F4:.5 E4:.5 r:1"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "C3+F3+A3+E4:3.5 r:.5"
+        }
+      }
+    },
+    {
+      "bar": 32,
+      "section": "IV · 失去一个音",
+      "intent": "25–32 将原3+3+2片段拆为跨拍问答，钢琴缺席，木管留白。",
+      "voices": {
+        "clarinet": {
+          "role": "melody",
+          "instrument": "clarinet",
+          "notation": "B3:.5 D#4:.5 E4:1 r:2"
+        },
+        "electric": {
+          "role": "response",
+          "instrument": "electric",
+          "notation": "r:2 D#4:.5 F#4:.5 r:1"
+        },
+        "cello": {
+          "role": "atmosphere",
+          "instrument": "cello",
+          "notation": "D#3+F#3+A3+B3:3.5 r:.5"
+        }
+      }
+    },
+    {
+      "bar": 33,
+      "section": "V · 门仍未关",
+      "intent": "33–40 电钢回归改变落点，末两小节导向E，不制造静音洞。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "E5:.5 F5:.5 r:1 Bb4:1 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 E3+G3+B3+F4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "E2:2 B2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 34,
+      "section": "V · 门仍未关",
+      "intent": "33–40 电钢回归改变落点，末两小节导向E，不制造静音洞。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "r:1 E5:.5 D#5:.5 E5:1 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 D#3+A3+B3+E4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "D#3:1 B2:1 r:2"
+        }
+      }
+    },
+    {
+      "bar": 35,
+      "section": "V · 门仍未关",
+      "intent": "33–40 电钢回归改变落点，末两小节导向E，不制造静音洞。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "G5:1 r:.5 F5:.5 E5:.5 Bb4:.5 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 E3+G3+C4+F#4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "C3:1 G2:1 B2:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 36,
+      "section": "V · 门仍未关",
+      "intent": "33–40 电钢回归改变落点，末两小节导向E，不制造静音洞。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "A4:1 E5:.5 r:2.5"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 D3+G3+B3+E4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "B2:2 A2:.5 G2:.5 r:1"
+        }
+      }
+    },
+    {
+      "bar": 37,
+      "section": "V · 门仍未关",
+      "intent": "33–40 电钢回归改变落点，末两小节导向E，不制造静音洞。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "B4:1 E5:.5 F5:.5 r:2"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 C3+G3+Bb3+E4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "C3:1 G2:1 Bb2:1 r:1"
+        }
+      }
+    },
+    {
+      "bar": 38,
+      "section": "V · 门仍未关",
+      "intent": "33–40 电钢回归改变落点，末两小节导向E，不制造静音洞。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "r:1 A4:.5 Bb4:.5 E5:1 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 D3+F3+A3+Bb3:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "D3:1 A2:.5 C3:.5 r:2"
+        }
+      }
+    },
+    {
+      "bar": 39,
+      "section": "V · 门仍未关",
+      "intent": "33–40 电钢回归改变落点，末两小节导向E，不制造静音洞。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "F5:1 E5:.5 D5:.5 Bb4:1 r:1"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 C3+F3+A3+E4:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "F2:1 C3:1 E3:.5 r:1.5"
+        }
+      }
+    },
+    {
+      "bar": 40,
+      "section": "V · 门仍未关",
+      "intent": "33–40 电钢回归改变落点，末两小节导向E，不制造静音洞。",
+      "voices": {
+        "electric": {
+          "role": "melody",
+          "instrument": "electric",
+          "notation": "F5:.5 E5:.5 D#5:1 B4:.5 r:1.5"
+        },
+        "nylon": {
+          "role": "harmony",
+          "instrument": "nylon",
+          "notation": "r:1 D#3+F#3+A3+B3:2 r:1"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "B2:1 F#2:.5 A2:.5 D#3:1 r:1"
+        }
+      }
+    }
+  ],
+  "audition": "未进行主观听觉验证"
+}

@@ -1,0 +1,171 @@
+[
+  {
+    "name": "MP3 fallback after failed Vorbis request",
+    "passed": true,
+    "detail": {
+      "desired": "home",
+      "current": "home",
+      "started": 0.39183673469387753,
+      "muted": false,
+      "unlocked": true,
+      "context": "running",
+      "live": 1,
+      "bgmCache": [
+        "home"
+      ],
+      "fxCache": [],
+      "starts": 1,
+      "requests": 2,
+      "aborted": 0,
+      "failures": [],
+      "decoded": [
+        {
+          "id": "home",
+          "frames": 5522087,
+          "sampleRate": 44100,
+          "url": "assets/music/home.c8231186363a.mp3"
+        }
+      ],
+      "stingers": [],
+      "maxLiveBgm": 1
+    }
+  },
+  {
+    "name": "Entering home does not download title music",
+    "passed": true,
+    "detail": [
+      "http://127.0.0.1:4180/assets/music/home.7fc8e6fd9d03.ogg",
+      "http://127.0.0.1:4180/assets/music/home.c8231186363a.mp3",
+      "http://127.0.0.1:4180/assets/music/basement.e487a6eab381.ogg",
+      "http://127.0.0.1:4180/assets/music/basement.49cc4a132729.mp3",
+      "http://127.0.0.1:4180/assets/music/basement.e487a6eab381.ogg",
+      "http://127.0.0.1:4180/assets/music/basement.49cc4a132729.mp3",
+      "http://127.0.0.1:4180/assets/music/library.ff1145fc0216.ogg",
+      "http://127.0.0.1:4180/assets/music/library.a75400419d96.mp3",
+      "http://127.0.0.1:4180/assets/music/senior.e371f87bc01c.ogg",
+      "http://127.0.0.1:4180/assets/music/laboratory.4e9a7a174a2a.ogg",
+      "http://127.0.0.1:4180/assets/music/playground.edb020318064.ogg",
+      "http://127.0.0.1:4180/assets/music/basketball.c35b1528b95c.ogg"
+    ]
+  },
+  {
+    "name": "Mobile mute control is visible and reachable",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Both codecs failing keeps prior cue and game usable",
+    "passed": true,
+    "detail": {
+      "desired": "basement",
+      "current": "home",
+      "started": 0.39183673469387753,
+      "muted": false,
+      "unlocked": true,
+      "context": "running",
+      "live": 1,
+      "bgmCache": [
+        "home"
+      ],
+      "fxCache": [],
+      "starts": 1,
+      "requests": 4,
+      "aborted": 0,
+      "failures": [
+        "basement: Failed to fetch"
+      ],
+      "decoded": [
+        {
+          "id": "home",
+          "frames": 5522087,
+          "sampleRate": 44100,
+          "url": "assets/music/home.c8231186363a.mp3"
+        }
+      ],
+      "stingers": [],
+      "maxLiveBgm": 1
+    }
+  },
+  {
+    "name": "Explicit retry recovers after network failure",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Muted mobile navigation makes no request",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Unmute loads current scene, not previous scene",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Late request cannot replace newer scene",
+    "passed": true,
+    "detail": {
+      "desired": "senior",
+      "current": "senior",
+      "started": 1.8924263038548752,
+      "muted": false,
+      "unlocked": true,
+      "context": "running",
+      "live": 1,
+      "bgmCache": [
+        "library",
+        "senior"
+      ],
+      "fxCache": [],
+      "starts": 4,
+      "requests": 10,
+      "aborted": 1,
+      "failures": [
+        "basement: Failed to fetch"
+      ],
+      "decoded": [
+        {
+          "id": "home",
+          "frames": 5522087,
+          "sampleRate": 44100,
+          "url": "assets/music/home.c8231186363a.mp3"
+        },
+        {
+          "id": "basement",
+          "frames": 5570526,
+          "sampleRate": 44100,
+          "url": "assets/music/basement.49cc4a132729.mp3"
+        },
+        {
+          "id": "library",
+          "frames": 5131636,
+          "sampleRate": 44100,
+          "url": "assets/music/library.a75400419d96.mp3"
+        },
+        {
+          "id": "senior",
+          "frames": 5292000,
+          "sampleRate": 44100,
+          "url": "assets/music/senior.e371f87bc01c.ogg"
+        }
+      ],
+      "stingers": [],
+      "maxLiveBgm": 2
+    }
+  },
+  {
+    "name": "Driving maps to laboratory",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Parkour maps to playground",
+    "passed": true,
+    "detail": null
+  },
+  {
+    "name": "Basketball minigame maps to basketball",
+    "passed": true,
+    "detail": null
+  }
+]

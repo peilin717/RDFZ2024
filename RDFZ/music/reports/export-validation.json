@@ -1,0 +1,376 @@
+[
+  {
+    "id": "junior",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "electric": 4,
+      "pad": 4,
+      "bass": 1,
+      "clarinet": 1,
+      "piano": 1,
+      "nylon": 4,
+      "cello": 4
+    },
+    "musicxml_parts": 7,
+    "musicxml_measures_per_part": 40
+  },
+  {
+    "id": "basketball",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "marimba": 1,
+      "nylon": 4,
+      "ebass": 1,
+      "drums": 1,
+      "clarinet": 1,
+      "piano": 1,
+      "bass": 1
+    },
+    "musicxml_parts": 7,
+    "musicxml_measures_per_part": 48
+  },
+  {
+    "id": "victory",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "piano": 3,
+      "nylon": 4,
+      "bass": 1
+    },
+    "musicxml_parts": 3,
+    "musicxml_measures_per_part": 3
+  },
+  {
+    "id": "playground",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "flute": 1,
+      "nylon": 4,
+      "ebass": 1,
+      "drums": 1,
+      "piano": 1,
+      "strings": 4,
+      "clarinet": 1,
+      "bass": 1
+    },
+    "musicxml_parts": 8,
+    "musicxml_measures_per_part": 48
+  },
+  {
+    "id": "rare",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "harp": 3,
+      "piano": 4,
+      "bass": 1
+    },
+    "musicxml_parts": 3,
+    "musicxml_measures_per_part": 4
+  },
+  {
+    "id": "summon",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "harp": 1,
+      "piano": 4,
+      "bass": 1,
+      "clarinet": 1,
+      "strings": 4
+    },
+    "musicxml_parts": 5,
+    "musicxml_measures_per_part": 40
+  },
+  {
+    "id": "library",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "celesta": 1,
+      "cello": 4,
+      "bass": 1,
+      "clarinet": 1,
+      "electric": 4
+    },
+    "musicxml_parts": 5,
+    "musicxml_measures_per_part": 32
+  },
+  {
+    "id": "ending",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "piano": 1,
+      "cello": 4,
+      "bass": 1,
+      "clarinet": 1,
+      "strings": 4,
+      "flute": 1,
+      "harp": 4
+    },
+    "musicxml_parts": 7,
+    "musicxml_measures_per_part": 48
+  },
+  {
+    "id": "basement",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "electric": 1,
+      "cello": 4,
+      "bass": 1,
+      "clarinet": 1,
+      "piano": 1,
+      "nylon": 4
+    },
+    "musicxml_parts": 6,
+    "musicxml_measures_per_part": 40
+  },
+  {
+    "id": "canteen",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "nylon": 4,
+      "piano": 4,
+      "bass": 1,
+      "drums": 1,
+      "marimba": 1,
+      "clarinet": 1
+    },
+    "musicxml_parts": 6,
+    "musicxml_measures_per_part": 40
+  },
+  {
+    "id": "final",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "piano": 1,
+      "strings": 4,
+      "ebass": 1,
+      "drums": 1,
+      "electric": 1,
+      "pizz": 4,
+      "clarinet": 1,
+      "nylon": 4,
+      "bass": 1,
+      "cello": 4,
+      "flute": 1
+    },
+    "musicxml_parts": 11,
+    "musicxml_measures_per_part": 72
+  },
+  {
+    "id": "admin",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "clarinet": 1,
+      "cello": 4,
+      "bass": 1,
+      "electric": 1,
+      "piano": 1,
+      "strings": 4
+    },
+    "musicxml_parts": 6,
+    "musicxml_measures_per_part": 40
+  },
+  {
+    "id": "garden",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "flute": 1,
+      "harp": 4,
+      "bass": 1,
+      "electric": 1,
+      "cello": 4,
+      "clarinet": 1,
+      "piano": 1,
+      "strings": 4
+    },
+    "musicxml_parts": 8,
+    "musicxml_measures_per_part": 40
+  },
+  {
+    "id": "recruit",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "nylon": 3,
+      "piano": 4,
+      "bass": 1
+    },
+    "musicxml_parts": 3,
+    "musicxml_measures_per_part": 3
+  },
+  {
+    "id": "chapter-clear",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "piano": 3,
+      "strings": 4,
+      "bass": 1
+    },
+    "musicxml_parts": 3,
+    "musicxml_measures_per_part": 4
+  },
+  {
+    "id": "battle",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "clarinet": 1,
+      "nylon": 4,
+      "ebass": 1,
+      "drums": 1,
+      "piano": 1,
+      "strings": 4,
+      "flute": 1,
+      "bass": 1
+    },
+    "musicxml_parts": 8,
+    "musicxml_measures_per_part": 64
+  },
+  {
+    "id": "defeat",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "piano": 3,
+      "cello": 4,
+      "bass": 1
+    },
+    "musicxml_parts": 3,
+    "musicxml_measures_per_part": 3
+  },
+  {
+    "id": "yifu",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "flute": 1,
+      "nylon": 4,
+      "bass": 1,
+      "piano": 1,
+      "harp": 4,
+      "clarinet": 1
+    },
+    "musicxml_parts": 6,
+    "musicxml_measures_per_part": 40
+  },
+  {
+    "id": "senior",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "piano": 1,
+      "cello": 4,
+      "bass": 1,
+      "clarinet": 1,
+      "nylon": 4,
+      "strings": 4
+    },
+    "musicxml_parts": 6,
+    "musicxml_measures_per_part": 40
+  },
+  {
+    "id": "home",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "piano": 1,
+      "nylon": 4,
+      "bass": 1,
+      "flute": 1,
+      "strings": 4,
+      "clarinet": 1
+    },
+    "musicxml_parts": 6,
+    "musicxml_measures_per_part": 48
+  },
+  {
+    "id": "title",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "piano": 1,
+      "harp": 4,
+      "bass": 1,
+      "clarinet": 1,
+      "electric": 1,
+      "cello": 4,
+      "strings": 4
+    },
+    "musicxml_parts": 7,
+    "musicxml_measures_per_part": 40
+  },
+  {
+    "id": "suspense",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "electric": 1,
+      "pad": 4,
+      "bass": 1,
+      "clarinet": 1
+    },
+    "musicxml_parts": 4,
+    "musicxml_measures_per_part": 32
+  },
+  {
+    "id": "boss",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "piano": 1,
+      "nylon": 4,
+      "ebass": 1,
+      "drums": 1,
+      "electric": 1,
+      "strings": 4,
+      "clarinet": 1,
+      "cello": 4,
+      "bass": 1
+    },
+    "musicxml_parts": 9,
+    "musicxml_measures_per_part": 64
+  },
+  {
+    "id": "revelation",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "electric": 2,
+      "pad": 4,
+      "bass": 1
+    },
+    "musicxml_parts": 3,
+    "musicxml_measures_per_part": 3
+  },
+  {
+    "id": "laboratory",
+    "midi_exact_event_match": true,
+    "pedal_released": true,
+    "peak_active_notes_per_stem": {
+      "electric": 1,
+      "pizz": 4,
+      "ebass": 1,
+      "drums": 1,
+      "marimba": 1,
+      "piano": 1,
+      "strings": 4,
+      "clarinet": 1,
+      "bass": 1
+    },
+    "musicxml_parts": 9,
+    "musicxml_measures_per_part": 48
+  }
+]

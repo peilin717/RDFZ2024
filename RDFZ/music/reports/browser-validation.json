@@ -1,0 +1,1062 @@
+{
+  "url": "http://127.0.0.1:4180",
+  "checks": [
+    {
+      "name": "No audio transfer before user gesture",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "Gesture unlock and home audio",
+      "passed": true,
+      "details": {
+        "desired": "home",
+        "current": "home",
+        "started": 0.301859410430839,
+        "muted": false,
+        "unlocked": true,
+        "context": "running",
+        "live": 1,
+        "bgmCache": [
+          "home"
+        ],
+        "fxCache": [],
+        "starts": 1,
+        "requests": 1,
+        "aborted": 0,
+        "failures": [],
+        "decoded": [
+          {
+            "id": "home",
+            "frames": 5522087,
+            "sampleRate": 44100,
+            "url": "assets/music/home.7fc8e6fd9d03.ogg"
+          }
+        ],
+        "stingers": [],
+        "maxLiveBgm": 1
+      }
+    },
+    {
+      "name": "Roster inherits home without restarting",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "All eleven chapter mappings",
+      "passed": true,
+      "details": [
+        [
+          1,
+          "basement"
+        ],
+        [
+          2,
+          "yifu"
+        ],
+        [
+          3,
+          "basketball"
+        ],
+        [
+          4,
+          "garden"
+        ],
+        [
+          5,
+          "library"
+        ],
+        [
+          6,
+          "canteen"
+        ],
+        [
+          7,
+          "playground"
+        ],
+        [
+          8,
+          "junior"
+        ],
+        [
+          9,
+          "senior"
+        ],
+        [
+          10,
+          "laboratory"
+        ],
+        [
+          11,
+          "admin"
+        ]
+      ]
+    },
+    {
+      "name": "Revelation trigger",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Final epilogue maps to ending",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Ordinary battle music",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Battle rerenders do not restart music",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Boss music",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Final battle music",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Defeat trigger",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Chapter clear trigger",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Victory trigger",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Recruit and rare triggers",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Mute independent of player progression",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Muted navigation starts no downloads",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Mute survives reload",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "All 50 browser decodes preserve frame counts",
+      "passed": true,
+      "details": [
+        {
+          "id": "title",
+          "codec": "ogg",
+          "frames": 5040000,
+          "expected": 5040000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "title",
+          "codec": "mp3",
+          "frames": 5040000,
+          "expected": 5040000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "home",
+          "codec": "ogg",
+          "frames": 5522087,
+          "expected": 5522087,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "home",
+          "codec": "mp3",
+          "frames": 5522087,
+          "expected": 5522087,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "basement",
+          "codec": "ogg",
+          "frames": 5570526,
+          "expected": 5570526,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "basement",
+          "codec": "mp3",
+          "frames": 5570526,
+          "expected": 5570526,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "yifu",
+          "codec": "ogg",
+          "frames": 4601739,
+          "expected": 4601739,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "yifu",
+          "codec": "mp3",
+          "frames": 4601739,
+          "expected": 4601739,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "basketball",
+          "codec": "ogg",
+          "frames": 4379586,
+          "expected": 4379586,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "basketball",
+          "codec": "mp3",
+          "frames": 4379586,
+          "expected": 4379586,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "garden",
+          "codec": "ogg",
+          "frames": 4810909,
+          "expected": 4810909,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "garden",
+          "codec": "mp3",
+          "frames": 4810909,
+          "expected": 4810909,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "library",
+          "codec": "ogg",
+          "frames": 5131636,
+          "expected": 5131636,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "library",
+          "codec": "mp3",
+          "frames": 5131636,
+          "expected": 5131636,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "canteen",
+          "codec": "ogg",
+          "frames": 4233600,
+          "expected": 4233600,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "canteen",
+          "codec": "mp3",
+          "frames": 4233600,
+          "expected": 4233600,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "playground",
+          "codec": "ogg",
+          "frames": 4233600,
+          "expected": 4233600,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "playground",
+          "codec": "mp3",
+          "frames": 4233600,
+          "expected": 4233600,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "junior",
+          "codec": "ogg",
+          "frames": 4922791,
+          "expected": 4922791,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "junior",
+          "codec": "mp3",
+          "frames": 4922791,
+          "expected": 4922791,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "senior",
+          "codec": "ogg",
+          "frames": 5292000,
+          "expected": 5292000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "senior",
+          "codec": "mp3",
+          "frames": 5292000,
+          "expected": 5292000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "laboratory",
+          "codec": "ogg",
+          "frames": 4536000,
+          "expected": 4536000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "laboratory",
+          "codec": "mp3",
+          "frames": 4536000,
+          "expected": 4536000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "admin",
+          "codec": "ogg",
+          "frames": 5880000,
+          "expected": 5880000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "admin",
+          "codec": "mp3",
+          "frames": 5880000,
+          "expected": 5880000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "battle",
+          "codec": "ogg",
+          "frames": 5131636,
+          "expected": 5131636,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "battle",
+          "codec": "mp3",
+          "frames": 5131636,
+          "expected": 5131636,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "boss",
+          "codec": "ogg",
+          "frames": 4704000,
+          "expected": 4704000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "boss",
+          "codec": "mp3",
+          "frames": 4704000,
+          "expected": 4704000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "final",
+          "codec": "ogg",
+          "frames": 5773091,
+          "expected": 5773091,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "final",
+          "codec": "mp3",
+          "frames": 5773091,
+          "expected": 5773091,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "suspense",
+          "codec": "ogg",
+          "frames": 5292000,
+          "expected": 5292000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "suspense",
+          "codec": "mp3",
+          "frames": 5292000,
+          "expected": 5292000,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "ending",
+          "codec": "ogg",
+          "frames": 6350400,
+          "expected": 6350400,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "ending",
+          "codec": "mp3",
+          "frames": 6350400,
+          "expected": 6350400,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "summon",
+          "codec": "ogg",
+          "frames": 4070769,
+          "expected": 4070769,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "summon",
+          "codec": "mp3",
+          "frames": 4070769,
+          "expected": 4070769,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "victory",
+          "codec": "ogg",
+          "frames": 310817,
+          "expected": 310817,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "victory",
+          "codec": "mp3",
+          "frames": 310817,
+          "expected": 310817,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "defeat",
+          "codec": "ogg",
+          "frames": 441515,
+          "expected": 441515,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "defeat",
+          "codec": "mp3",
+          "frames": 441515,
+          "expected": 441515,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "rare",
+          "codec": "ogg",
+          "frames": 404183,
+          "expected": 404183,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "rare",
+          "codec": "mp3",
+          "frames": 404183,
+          "expected": 404183,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "recruit",
+          "codec": "ogg",
+          "frames": 331122,
+          "expected": 331122,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "recruit",
+          "codec": "mp3",
+          "frames": 331122,
+          "expected": 331122,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "chapter-clear",
+          "codec": "ogg",
+          "frames": 476032,
+          "expected": 476032,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "chapter-clear",
+          "codec": "mp3",
+          "frames": 476032,
+          "expected": 476032,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "revelation",
+          "codec": "ogg",
+          "frames": 438233,
+          "expected": 438233,
+          "rate": 44100,
+          "error": 0
+        },
+        {
+          "id": "revelation",
+          "codec": "mp3",
+          "frames": 438233,
+          "expected": 438233,
+          "rate": 44100,
+          "error": 0
+        }
+      ]
+    },
+    {
+      "name": "All 38 BGM Web Audio boundary schedules preserve samples",
+      "passed": true,
+      "details": 0
+    },
+    {
+      "name": "Rapid navigation resolves only final requested cue",
+      "passed": true,
+      "details": {
+        "desired": "garden",
+        "current": "garden",
+        "started": 0.5108390022675737,
+        "muted": false,
+        "unlocked": true,
+        "context": "running",
+        "live": 1,
+        "bgmCache": [
+          "home",
+          "garden"
+        ],
+        "fxCache": [],
+        "starts": 2,
+        "requests": 6,
+        "aborted": 4,
+        "failures": [],
+        "decoded": [
+          {
+            "id": "home",
+            "frames": 5522087,
+            "sampleRate": 44100,
+            "url": "assets/music/home.7fc8e6fd9d03.ogg"
+          },
+          {
+            "id": "garden",
+            "frames": 4810909,
+            "sampleRate": 44100,
+            "url": "assets/music/garden.cfa2aa879d0d.ogg"
+          }
+        ],
+        "stingers": [],
+        "maxLiveBgm": 2
+      }
+    },
+    {
+      "name": "Decoded cache stays bounded",
+      "passed": true,
+      "details": {
+        "desired": "garden",
+        "current": "garden",
+        "started": 0.5108390022675737,
+        "muted": false,
+        "unlocked": true,
+        "context": "running",
+        "live": 1,
+        "bgmCache": [
+          "home",
+          "garden"
+        ],
+        "fxCache": [],
+        "starts": 2,
+        "requests": 6,
+        "aborted": 4,
+        "failures": [],
+        "decoded": [
+          {
+            "id": "home",
+            "frames": 5522087,
+            "sampleRate": 44100,
+            "url": "assets/music/home.7fc8e6fd9d03.ogg"
+          },
+          {
+            "id": "garden",
+            "frames": 4810909,
+            "sampleRate": 44100,
+            "url": "assets/music/garden.cfa2aa879d0d.ogg"
+          }
+        ],
+        "stingers": [],
+        "maxLiveBgm": 2
+      }
+    },
+    {
+      "name": "No uncaught browser errors",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "No codec/load errors in final player session",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "codec_checks": [
+    {
+      "id": "title",
+      "codec": "ogg",
+      "frames": 5040000,
+      "expected": 5040000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "title",
+      "codec": "mp3",
+      "frames": 5040000,
+      "expected": 5040000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "home",
+      "codec": "ogg",
+      "frames": 5522087,
+      "expected": 5522087,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "home",
+      "codec": "mp3",
+      "frames": 5522087,
+      "expected": 5522087,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "basement",
+      "codec": "ogg",
+      "frames": 5570526,
+      "expected": 5570526,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "basement",
+      "codec": "mp3",
+      "frames": 5570526,
+      "expected": 5570526,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "yifu",
+      "codec": "ogg",
+      "frames": 4601739,
+      "expected": 4601739,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "yifu",
+      "codec": "mp3",
+      "frames": 4601739,
+      "expected": 4601739,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "basketball",
+      "codec": "ogg",
+      "frames": 4379586,
+      "expected": 4379586,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "basketball",
+      "codec": "mp3",
+      "frames": 4379586,
+      "expected": 4379586,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "garden",
+      "codec": "ogg",
+      "frames": 4810909,
+      "expected": 4810909,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "garden",
+      "codec": "mp3",
+      "frames": 4810909,
+      "expected": 4810909,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "library",
+      "codec": "ogg",
+      "frames": 5131636,
+      "expected": 5131636,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "library",
+      "codec": "mp3",
+      "frames": 5131636,
+      "expected": 5131636,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "canteen",
+      "codec": "ogg",
+      "frames": 4233600,
+      "expected": 4233600,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "canteen",
+      "codec": "mp3",
+      "frames": 4233600,
+      "expected": 4233600,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "playground",
+      "codec": "ogg",
+      "frames": 4233600,
+      "expected": 4233600,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "playground",
+      "codec": "mp3",
+      "frames": 4233600,
+      "expected": 4233600,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "junior",
+      "codec": "ogg",
+      "frames": 4922791,
+      "expected": 4922791,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "junior",
+      "codec": "mp3",
+      "frames": 4922791,
+      "expected": 4922791,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "senior",
+      "codec": "ogg",
+      "frames": 5292000,
+      "expected": 5292000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "senior",
+      "codec": "mp3",
+      "frames": 5292000,
+      "expected": 5292000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "laboratory",
+      "codec": "ogg",
+      "frames": 4536000,
+      "expected": 4536000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "laboratory",
+      "codec": "mp3",
+      "frames": 4536000,
+      "expected": 4536000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "admin",
+      "codec": "ogg",
+      "frames": 5880000,
+      "expected": 5880000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "admin",
+      "codec": "mp3",
+      "frames": 5880000,
+      "expected": 5880000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "battle",
+      "codec": "ogg",
+      "frames": 5131636,
+      "expected": 5131636,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "battle",
+      "codec": "mp3",
+      "frames": 5131636,
+      "expected": 5131636,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "boss",
+      "codec": "ogg",
+      "frames": 4704000,
+      "expected": 4704000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "boss",
+      "codec": "mp3",
+      "frames": 4704000,
+      "expected": 4704000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "final",
+      "codec": "ogg",
+      "frames": 5773091,
+      "expected": 5773091,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "final",
+      "codec": "mp3",
+      "frames": 5773091,
+      "expected": 5773091,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "suspense",
+      "codec": "ogg",
+      "frames": 5292000,
+      "expected": 5292000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "suspense",
+      "codec": "mp3",
+      "frames": 5292000,
+      "expected": 5292000,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "ending",
+      "codec": "ogg",
+      "frames": 6350400,
+      "expected": 6350400,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "ending",
+      "codec": "mp3",
+      "frames": 6350400,
+      "expected": 6350400,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "summon",
+      "codec": "ogg",
+      "frames": 4070769,
+      "expected": 4070769,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "summon",
+      "codec": "mp3",
+      "frames": 4070769,
+      "expected": 4070769,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "victory",
+      "codec": "ogg",
+      "frames": 310817,
+      "expected": 310817,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "victory",
+      "codec": "mp3",
+      "frames": 310817,
+      "expected": 310817,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "defeat",
+      "codec": "ogg",
+      "frames": 441515,
+      "expected": 441515,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "defeat",
+      "codec": "mp3",
+      "frames": 441515,
+      "expected": 441515,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "rare",
+      "codec": "ogg",
+      "frames": 404183,
+      "expected": 404183,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "rare",
+      "codec": "mp3",
+      "frames": 404183,
+      "expected": 404183,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "recruit",
+      "codec": "ogg",
+      "frames": 331122,
+      "expected": 331122,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "recruit",
+      "codec": "mp3",
+      "frames": 331122,
+      "expected": 331122,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "chapter-clear",
+      "codec": "ogg",
+      "frames": 476032,
+      "expected": 476032,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "chapter-clear",
+      "codec": "mp3",
+      "frames": 476032,
+      "expected": 476032,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "revelation",
+      "codec": "ogg",
+      "frames": 438233,
+      "expected": 438233,
+      "rate": 44100,
+      "error": 0
+    },
+    {
+      "id": "revelation",
+      "codec": "mp3",
+      "frames": 438233,
+      "expected": 438233,
+      "rate": 44100,
+      "error": 0
+    }
+  ],
+  "errors": [],
+  "subjective_audition": "未进行主观听觉验证"
+}

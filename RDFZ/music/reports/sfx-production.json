@@ -1,0 +1,135 @@
+{
+  "source_sha256": "9575028c7a1f589f5770fccc8cff2734566af40cd26ed836944e9a5152688cfe",
+  "python": "3.12.14",
+  "checks": [
+    {
+      "id": "impact",
+      "duration": 0.32,
+      "codecs": {
+        "ogg": {
+          "bytes": 7725,
+          "frames": 15040,
+          "peak_db": -12.005544662475586
+        },
+        "mp3": {
+          "bytes": 7881,
+          "frames": 14112,
+          "peak_db": -12.436822891235352
+        }
+      }
+    },
+    {
+      "id": "element",
+      "duration": 0.44,
+      "codecs": {
+        "ogg": {
+          "bytes": 10451,
+          "frames": 19276,
+          "peak_db": -12.818659782409668
+        },
+        "mp3": {
+          "bytes": 9971,
+          "frames": 19404,
+          "peak_db": -13.34791374206543
+        }
+      }
+    },
+    {
+      "id": "block",
+      "duration": 0.35,
+      "codecs": {
+        "ogg": {
+          "bytes": 8604,
+          "frames": 15307,
+          "peak_db": -13.25710678100586
+        },
+        "mp3": {
+          "bytes": 8404,
+          "frames": 15435,
+          "peak_db": -13.608722686767578
+        }
+      }
+    },
+    {
+      "id": "shield",
+      "duration": 0.52,
+      "codecs": {
+        "ogg": {
+          "bytes": 9353,
+          "frames": 22804,
+          "peak_db": -16.899770736694336
+        },
+        "mp3": {
+          "bytes": 11538,
+          "frames": 22932,
+          "peak_db": -17.438987731933594
+        }
+      }
+    },
+    {
+      "id": "evade",
+      "duration": 0.24,
+      "codecs": {
+        "ogg": {
+          "bytes": 7994,
+          "frames": 10456,
+          "peak_db": -17.18509864807129
+        },
+        "mp3": {
+          "bytes": 6314,
+          "frames": 10584,
+          "peak_db": -15.937365531921387
+        }
+      }
+    },
+    {
+      "id": "skill",
+      "duration": 0.4,
+      "codecs": {
+        "ogg": {
+          "bytes": 9338,
+          "frames": 17512,
+          "peak_db": -17.77413558959961
+        },
+        "mp3": {
+          "bytes": 9449,
+          "frames": 17640,
+          "peak_db": -18.46119499206543
+        }
+      }
+    },
+    {
+      "id": "confirm",
+      "duration": 0.34,
+      "codecs": {
+        "ogg": {
+          "bytes": 7274,
+          "frames": 14866,
+          "peak_db": -18.033973693847656
+        },
+        "mp3": {
+          "bytes": 8404,
+          "frames": 15023,
+          "peak_db": -18.445871353149414
+        }
+      }
+    },
+    {
+      "id": "pause",
+      "duration": 0.2,
+      "codecs": {
+        "ogg": {
+          "bytes": 6112,
+          "frames": 8692,
+          "peak_db": -21.003406524658203
+        },
+        "mp3": {
+          "bytes": 5269,
+          "frames": 8820,
+          "peak_db": -21.451732635498047
+        }
+      }
+    }
+  ],
+  "subjective_audition": false
+}

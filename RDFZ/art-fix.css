@@ -4,7 +4,7 @@
 .roster-art{margin:10px;background-color:rgba(255,255,255,.02)}
 .hub-lineup{right:0!important;width:62vw!important;background-size:contain!important;background-position:right bottom!important}
 .rate-heroes{background-size:contain!important;background-position:center bottom!important}
-.tutorial-figure{background-image:url('assets/heroes/lzy.png')!important;background-size:contain!important;background-position:center bottom!important;background-repeat:no-repeat!important}
+.tutorial-figure{background-image:var(--asset-heroes-lzy)!important;background-size:contain!important;background-position:center bottom!important;background-repeat:no-repeat!important}
 .summon-visual,.hub-hero,.story-card,.story-reader,.system-screen,.battlefield{background-repeat:no-repeat!important}
 @media(max-width:800px){.hub-lineup{right:-12vw!important;width:98vw!important;background-position:right bottom!important}}
 .pause-screen{z-index:90;background:rgba(5,3,5,.78);backdrop-filter:blur(14px)}.pause-modal{max-width:470px;text-align:center}.pause-modal h2{font-size:42px}.pause-modal>p:not(.eyebrow){color:#aaa0a3;line-height:1.8}.pause-actions{display:flex;flex-direction:column;align-items:center;margin-top:26px}.pause-actions .text-btn{padding:12px 24px}.topbar #pauseBtn{color:var(--gold);font-weight:800}

@@ -1,0 +1,481 @@
+{
+  "url": "http://127.0.0.1:4180",
+  "actual_stages": 50,
+  "narrative_variants": 21,
+  "resource_checks": [
+    {
+      "url": "assets/music/title.7b4391a3a261.ogg",
+      "status": 200,
+      "bytes": 1591668
+    },
+    {
+      "url": "assets/music/title.9690a88ed9ee.mp3",
+      "status": 200,
+      "bytes": 2286803
+    },
+    {
+      "url": "assets/music/home.7fc8e6fd9d03.ogg",
+      "status": 200,
+      "bytes": 1696235
+    },
+    {
+      "url": "assets/music/home.c8231186363a.mp3",
+      "status": 200,
+      "bytes": 2505709
+    },
+    {
+      "url": "assets/music/basement.e487a6eab381.ogg",
+      "status": 200,
+      "bytes": 1428062
+    },
+    {
+      "url": "assets/music/basement.49cc4a132729.mp3",
+      "status": 200,
+      "bytes": 2527652
+    },
+    {
+      "url": "assets/music/yifu.8d753f5d6fcf.ogg",
+      "status": 200,
+      "bytes": 1331702
+    },
+    {
+      "url": "assets/music/yifu.ccfae32a2522.mp3",
+      "status": 200,
+      "bytes": 2088272
+    },
+    {
+      "url": "assets/music/basketball.c35b1528b95c.ogg",
+      "status": 200,
+      "bytes": 1295086
+    },
+    {
+      "url": "assets/music/basketball.13a5848d2cd5.mp3",
+      "status": 200,
+      "bytes": 1987440
+    },
+    {
+      "url": "assets/music/garden.cfa2aa879d0d.ogg",
+      "status": 200,
+      "bytes": 1249617
+    },
+    {
+      "url": "assets/music/garden.a46064835615.mp3",
+      "status": 200,
+      "bytes": 2183358
+    },
+    {
+      "url": "assets/music/library.ff1145fc0216.ogg",
+      "status": 200,
+      "bytes": 1200349
+    },
+    {
+      "url": "assets/music/library.a75400419d96.mp3",
+      "status": 200,
+      "bytes": 2328599
+    },
+    {
+      "url": "assets/music/canteen.7c0553a86bbe.ogg",
+      "status": 200,
+      "bytes": 1336805
+    },
+    {
+      "url": "assets/music/canteen.3a188ec9b398.mp3",
+      "status": 200,
+      "bytes": 1921088
+    },
+    {
+      "url": "assets/music/playground.edb020318064.ogg",
+      "status": 200,
+      "bytes": 1321733
+    },
+    {
+      "url": "assets/music/playground.4d20b0dbece6.mp3",
+      "status": 200,
+      "bytes": 1921088
+    },
+    {
+      "url": "assets/music/junior.f0b9f4227930.ogg",
+      "status": 200,
+      "bytes": 1251586
+    },
+    {
+      "url": "assets/music/junior.f1c15ea7e574.mp3",
+      "status": 200,
+      "bytes": 2234035
+    },
+    {
+      "url": "assets/music/senior.e371f87bc01c.ogg",
+      "status": 200,
+      "bytes": 1574877
+    },
+    {
+      "url": "assets/music/senior.bda1f1d69ac7.mp3",
+      "status": 200,
+      "bytes": 2401219
+    },
+    {
+      "url": "assets/music/laboratory.4e9a7a174a2a.ogg",
+      "status": 200,
+      "bytes": 1302974
+    },
+    {
+      "url": "assets/music/laboratory.b74b16f7bc2c.mp3",
+      "status": 200,
+      "bytes": 2058493
+    },
+    {
+      "url": "assets/music/admin.567a711b678e.ogg",
+      "status": 200,
+      "bytes": 1676447
+    },
+    {
+      "url": "assets/music/admin.fa0637c70d55.mp3",
+      "status": 200,
+      "bytes": 2668191
+    },
+    {
+      "url": "assets/music/battle.190fb346c659.ogg",
+      "status": 200,
+      "bytes": 1687008
+    },
+    {
+      "url": "assets/music/battle.55f3e91a4758.mp3",
+      "status": 200,
+      "bytes": 2328599
+    },
+    {
+      "url": "assets/music/boss.2dabcf54e264.ogg",
+      "status": 200,
+      "bytes": 1549322
+    },
+    {
+      "url": "assets/music/boss.6a17438a43ad.mp3",
+      "status": 200,
+      "bytes": 2134770
+    },
+    {
+      "url": "assets/music/final.05c26380b0df.ogg",
+      "status": 200,
+      "bytes": 1855384
+    },
+    {
+      "url": "assets/music/final.3f2755b07918.mp3",
+      "status": 200,
+      "bytes": 2619603
+    },
+    {
+      "url": "assets/music/suspense.3050f9d09a6a.ogg",
+      "status": 200,
+      "bytes": 1023320
+    },
+    {
+      "url": "assets/music/suspense.4532097f454e.mp3",
+      "status": 200,
+      "bytes": 2401219
+    },
+    {
+      "url": "assets/music/ending.e64de039cbba.ogg",
+      "status": 200,
+      "bytes": 1880437
+    },
+    {
+      "url": "assets/music/ending.f0110d9da8c1.mp3",
+      "status": 200,
+      "bytes": 2881350
+    },
+    {
+      "url": "assets/music/summon.81069691fb81.ogg",
+      "status": 200,
+      "bytes": 1282198
+    },
+    {
+      "url": "assets/music/summon.dfc6a626e616.mp3",
+      "status": 200,
+      "bytes": 1847423
+    },
+    {
+      "url": "assets/music/victory.45f1d3579d78.ogg",
+      "status": 200,
+      "bytes": 107916
+    },
+    {
+      "url": "assets/music/victory.a31dd34ef083.mp3",
+      "status": 200,
+      "bytes": 142150
+    },
+    {
+      "url": "assets/music/defeat.037d600b95aa.ogg",
+      "status": 200,
+      "bytes": 148831
+    },
+    {
+      "url": "assets/music/defeat.01c497421609.mp3",
+      "status": 200,
+      "bytes": 201709
+    },
+    {
+      "url": "assets/music/rare.be05cddc7f52.ogg",
+      "status": 200,
+      "bytes": 120968
+    },
+    {
+      "url": "assets/music/rare.d3d08d5f61d1.mp3",
+      "status": 200,
+      "bytes": 184468
+    },
+    {
+      "url": "assets/music/recruit.b3c2ed9ea31a.ogg",
+      "status": 200,
+      "bytes": 100002
+    },
+    {
+      "url": "assets/music/recruit.3ef7198bea01.mp3",
+      "status": 200,
+      "bytes": 151554
+    },
+    {
+      "url": "assets/music/chapter-clear.3522ddf35c23.ogg",
+      "status": 200,
+      "bytes": 163217
+    },
+    {
+      "url": "assets/music/chapter-clear.76e71e52030d.mp3",
+      "status": 200,
+      "bytes": 217382
+    },
+    {
+      "url": "assets/music/revelation.355def759ca0.ogg",
+      "status": 200,
+      "bytes": 82581
+    },
+    {
+      "url": "assets/music/revelation.8fa107d622ee.mp3",
+      "status": 200,
+      "bytes": 200142
+    },
+    {
+      "url": "music-credits.html",
+      "status": 200,
+      "bytes": 1515
+    },
+    {
+      "url": "music/licenses/GeneralUser-GS.txt",
+      "status": 200,
+      "bytes": 2317
+    },
+    {
+      "url": "music/licenses/Salamander-FreePats.txt",
+      "status": 200,
+      "bytes": 2802
+    }
+  ],
+  "preview_tracks": 25,
+  "preview_players": 50,
+  "preview_preloads_audio": false,
+  "preview_playback": true,
+  "preview_seek_to_100_seconds": true,
+  "preview_metadata": [
+    {
+      "url": "http://127.0.0.1:4176/web/title.7b4391a3a261.ogg",
+      "duration": 114.285714
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/title-three-loops.ogg",
+      "duration": 342.857143
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/home.7fc8e6fd9d03.ogg",
+      "duration": 125.217392
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/home-three-loops.ogg",
+      "duration": 375.652177
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/basement.e487a6eab381.ogg",
+      "duration": 126.315782
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/basement-three-loops.ogg",
+      "duration": 378.947347
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/yifu.8d753f5d6fcf.ogg",
+      "duration": 104.347823
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/yifu-three-loops.ogg",
+      "duration": 313.043469
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/basketball.c35b1528b95c.ogg",
+      "duration": 99.31034
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/basketball-three-loops.ogg",
+      "duration": 297.93102
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/garden.cfa2aa879d0d.ogg",
+      "duration": 109.090907
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/garden-three-loops.ogg",
+      "duration": 327.272721
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/library.ff1145fc0216.ogg",
+      "duration": 116.363628
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/library-three-loops.ogg",
+      "duration": 349.090884
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/canteen.7c0553a86bbe.ogg",
+      "duration": 96
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/canteen-three-loops.ogg",
+      "duration": 288
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/playground.edb020318064.ogg",
+      "duration": 96
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/playground-three-loops.ogg",
+      "duration": 288
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/junior.f0b9f4227930.ogg",
+      "duration": 111.627914
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/junior-three-loops.ogg",
+      "duration": 334.883741
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/senior.e371f87bc01c.ogg",
+      "duration": 120
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/senior-three-loops.ogg",
+      "duration": 360
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/laboratory.4e9a7a174a2a.ogg",
+      "duration": 102.857143
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/laboratory-three-loops.ogg",
+      "duration": 308.571429
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/admin.567a711b678e.ogg",
+      "duration": 133.333333
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/admin-three-loops.ogg",
+      "duration": 400
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/battle.190fb346c659.ogg",
+      "duration": 116.363628
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/battle-three-loops.ogg",
+      "duration": 349.090884
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/boss.2dabcf54e264.ogg",
+      "duration": 106.666667
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/boss-three-loops.ogg",
+      "duration": 320
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/final.05c26380b0df.ogg",
+      "duration": 130.909093
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/final-three-loops.ogg",
+      "duration": 392.727279
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/suspense.3050f9d09a6a.ogg",
+      "duration": 120
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/suspense-three-loops.ogg",
+      "duration": 360
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/ending.e64de039cbba.ogg",
+      "duration": 144
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/ending-three-loops.ogg",
+      "duration": 432
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/summon.81069691fb81.ogg",
+      "duration": 92.307687
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/summon-three-loops.ogg",
+      "duration": 276.923061
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/victory.45f1d3579d78.ogg",
+      "duration": 7.048005
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/victory-three-loops.ogg",
+      "duration": 7.048005
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/defeat.037d600b95aa.ogg",
+      "duration": 10.011678
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/defeat-three-loops.ogg",
+      "duration": 10.011678
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/rare.be05cddc7f52.ogg",
+      "duration": 9.165147
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/rare-three-loops.ogg",
+      "duration": 9.165147
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/recruit.b3c2ed9ea31a.ogg",
+      "duration": 7.508435
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/recruit-three-loops.ogg",
+      "duration": 7.508435
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/chapter-clear.3522ddf35c23.ogg",
+      "duration": 10.794376
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/chapter-clear-three-loops.ogg",
+      "duration": 10.794376
+    },
+    {
+      "url": "http://127.0.0.1:4176/web/revelation.355def759ca0.ogg",
+      "duration": 9.937256
+    },
+    {
+      "url": "http://127.0.0.1:4176/previews/revelation-three-loops.ogg",
+      "duration": 9.937256
+    }
+  ],
+  "large_production_artifacts_in_deployment": [],
+  "public_vercel_deployment": "not performed; static local build tested"
+}

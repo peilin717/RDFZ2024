@@ -1,0 +1,9 @@
+{
+  "source": "assets/hero-atlas.png",
+  "output": "assets/heroes/lzy.png",
+  "method": "Built-in imagegen edit: reference-based extraction and reconstruction, not a lossless crop",
+  "reason": "Equal-width atlas splitting clipped the raised sleeve and green orb and retained part of the adjacent blue-haired character.",
+  "prompt": "Use case: background-extraction with identity preservation. Edit target: supplied five-character game sprite atlas. Extract ONLY the fourth character from the left, the dark-haired bespectacled young man wearing long emerald-green and white botanical robes with gold trim, black trousers and boots, pendant, right side raised hand holding a floating green orb. Restore his complete independent full-body sprite using the actual source artwork. Preserve his face, glasses, hair, exact pose, clothes, leaf embroidery, green orb, floating green leaves and the original detailed anime painting style closely. Remove all other four characters completely, including every trace of the neighboring blue-haired woman's hair, hands and water, and the purple character's limbs or effects. Reconstruct only small occluded areas of his robe if needed. Keep both boots, whole extended sleeve, hand, and orb intact. No straight vertical cut edges. Output a tall portrait sprite on a genuinely transparent background with full figure comfortably inside canvas, 3-5% clear margin around every outer edge, centered, no text, no shadow plane, no new character design. This is a repair/extraction of existing game art, not a redesign.",
+  "rebuild": "conda run -n rdfz2024 python RDFZ/tools/optimize_web_assets.py --source assets/heroes/lzy.png && node RDFZ/tools/build_web.mjs",
+  "maintenance": "split_art.py preserves this manually repaired sprite; the original atlas remains unchanged. Mobile assets are maintained separately."
+}

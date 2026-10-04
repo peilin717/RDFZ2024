@@ -1,0 +1,13 @@
+# 新的同伴 — arrangement map
+
+104 BPM · 3 bars · revision 1
+
+| 小节 | 段落 | 活动声部与作用 |
+|---:|---|---|
+| 1 | 触发与落点 | nylon（melody）；piano（harmony）；bass（bass） |
+| 2 | 触发与落点 | nylon（melody）；piano（harmony）；bass（bass） |
+| 3 | 触发与落点 | nylon（melody）；piano（harmony）；bass（bass） |
+
+## 段落意图
+
+- 触发与落点：从主题短动机提炼；完整终止与自然采样尾音，独立于BGM。

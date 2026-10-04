@@ -1,0 +1,553 @@
+[
+  {
+    "id": "title",
+    "fingerprint": "43a202128ef60cdbe59f5e03ab04e208e0799d0a1f5dcacc6e6f482139e91494",
+    "period_frames": 5040000,
+    "score_period_rounding_error_frames": 0.0,
+    "three_cycle_frames": 15120000,
+    "sample_peak": 0.6056090593338013,
+    "boundaries": [
+      {
+        "frame": 5040000,
+        "step": 0.00010447548993397504,
+        "local_natural_step_p999": 0.020419634878635406,
+        "before_250ms_rms": 0.005305913742631674,
+        "after_250ms_rms": 0.1042042076587677,
+        "cycle_start_one_second_relative_waveform_difference": 2.1999208911438473e-05,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 10080000,
+        "step": 0.00010447548993397504,
+        "local_natural_step_p999": 0.020419634878635406,
+        "before_250ms_rms": 0.005305913742631674,
+        "after_250ms_rms": 0.1042042076587677,
+        "cycle_start_one_second_relative_waveform_difference": 2.1999208911438473e-05,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "home",
+    "fingerprint": "3bc37295d56ea7e086557841333b1abeb136a0d33e778a6bb489b972bea4ac9a",
+    "period_frames": 5522087,
+    "score_period_rounding_error_frames": 0.04347826074808836,
+    "three_cycle_frames": 16566261,
+    "sample_peak": 0.6360838413238525,
+    "boundaries": [
+      {
+        "frame": 5522087,
+        "step": 0.00035593181382864714,
+        "local_natural_step_p999": 0.021349767223000526,
+        "before_250ms_rms": 0.0024558426812291145,
+        "after_250ms_rms": 0.08655330538749695,
+        "cycle_start_one_second_relative_waveform_difference": 0.04095396026968956,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 11044174,
+        "step": 0.00034361137659288943,
+        "local_natural_step_p999": 0.021672187373042107,
+        "before_250ms_rms": 0.002455787267535925,
+        "after_250ms_rms": 0.08644493669271469,
+        "cycle_start_one_second_relative_waveform_difference": 0.04134821891784668,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "basement",
+    "fingerprint": "69f0703bc725d8a5be6818b0b3731f700fea9ed72e65940092fd0020ca4ae514",
+    "period_frames": 5570526,
+    "score_period_rounding_error_frames": -0.31578947324305773,
+    "three_cycle_frames": 16711578,
+    "sample_peak": 0.4800817370414734,
+    "boundaries": [
+      {
+        "frame": 5570526,
+        "step": 0.0002146218903362751,
+        "local_natural_step_p999": 0.013051972724497318,
+        "before_250ms_rms": 0.0016022607451304793,
+        "after_250ms_rms": 0.08345852047204971,
+        "cycle_start_one_second_relative_waveform_difference": 0.025903809815645218,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 11141052,
+        "step": 5.3049472626298666e-05,
+        "local_natural_step_p999": 0.012928329408168793,
+        "before_250ms_rms": 0.0015923137543722987,
+        "after_250ms_rms": 0.083504319190979,
+        "cycle_start_one_second_relative_waveform_difference": 0.02557750605046749,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "yifu",
+    "fingerprint": "5946065c7f1c8a5264ebfab659c695163ec77f0992e6229bd3df5f2b7264f7d0",
+    "period_frames": 4601739,
+    "score_period_rounding_error_frames": -0.13043478224426508,
+    "three_cycle_frames": 13805217,
+    "sample_peak": 0.6901187896728516,
+    "boundaries": [
+      {
+        "frame": 4601739,
+        "step": 0.00065595906926319,
+        "local_natural_step_p999": 0.015036612749099731,
+        "before_250ms_rms": 0.003951007500290871,
+        "after_250ms_rms": 0.061406660825014114,
+        "cycle_start_one_second_relative_waveform_difference": 0.031083349138498306,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 9203478,
+        "step": 0.0005378997884690762,
+        "local_natural_step_p999": 0.015381449833512306,
+        "before_250ms_rms": 0.003950654063373804,
+        "after_250ms_rms": 0.06142452359199524,
+        "cycle_start_one_second_relative_waveform_difference": 0.03172970935702324,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "basketball",
+    "fingerprint": "0824700abf1ae5e9d6b2dd406b994cadebf115bc55458475f105c8e03832682b",
+    "period_frames": 4379586,
+    "score_period_rounding_error_frames": -0.2068965518847108,
+    "three_cycle_frames": 13138758,
+    "sample_peak": 0.5630548596382141,
+    "boundaries": [
+      {
+        "frame": 4379586,
+        "step": 1.2423532098182477e-05,
+        "local_natural_step_p999": 0.0220353864133358,
+        "before_250ms_rms": 0.002379650017246604,
+        "after_250ms_rms": 0.10847753286361694,
+        "cycle_start_one_second_relative_waveform_difference": 0.042420994490385056,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 8759172,
+        "step": 4.313038516556844e-06,
+        "local_natural_step_p999": 0.022216815501451492,
+        "before_250ms_rms": 0.002436265582218766,
+        "after_250ms_rms": 0.10807833820581436,
+        "cycle_start_one_second_relative_waveform_difference": 0.041642554104328156,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "garden",
+    "fingerprint": "3a9d1771cea5b5c5183b70ba8b156be01bdbb7f818b9e434daff50bcf14df1a3",
+    "period_frames": 4810909,
+    "score_period_rounding_error_frames": -0.09090909082442522,
+    "three_cycle_frames": 14432727,
+    "sample_peak": 0.5872265100479126,
+    "boundaries": [
+      {
+        "frame": 4810909,
+        "step": 0.000806806143373251,
+        "local_natural_step_p999": 0.030610961839556694,
+        "before_250ms_rms": 0.0037615092005580664,
+        "after_250ms_rms": 0.1252848356962204,
+        "cycle_start_one_second_relative_waveform_difference": 0.022825127467513084,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 9621818,
+        "step": 0.000834521371871233,
+        "local_natural_step_p999": 0.030362224206328392,
+        "before_250ms_rms": 0.003744550282135606,
+        "after_250ms_rms": 0.12534810602664948,
+        "cycle_start_one_second_relative_waveform_difference": 0.022995658218860626,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "library",
+    "fingerprint": "e5f209da078d681508b1bb15a6e36fbbc2de8acfdeb9c3c7f25cd094df8af8e9",
+    "period_frames": 5131636,
+    "score_period_rounding_error_frames": -0.3636363632977009,
+    "three_cycle_frames": 15394908,
+    "sample_peak": 0.3995889723300934,
+    "boundaries": [
+      {
+        "frame": 5131636,
+        "step": 1.873658038675785e-05,
+        "local_natural_step_p999": 0.0048997849225997925,
+        "before_250ms_rms": 0.0002076244418276474,
+        "after_250ms_rms": 0.06040491908788681,
+        "cycle_start_one_second_relative_waveform_difference": 0.04765688627958298,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 10263272,
+        "step": 2.6039400836452842e-05,
+        "local_natural_step_p999": 0.005032024811953306,
+        "before_250ms_rms": 0.00023862278612796217,
+        "after_250ms_rms": 0.060666024684906006,
+        "cycle_start_one_second_relative_waveform_difference": 0.04228952154517174,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "canteen",
+    "fingerprint": "107a8f6c7e81d6077c22aefa1a31cfcf00322978e6cd4e74538c6e85d8075d58",
+    "period_frames": 4233600,
+    "score_period_rounding_error_frames": 0.0,
+    "three_cycle_frames": 12700800,
+    "sample_peak": 0.8400307893753052,
+    "boundaries": [
+      {
+        "frame": 4233600,
+        "step": 0.00011680817988235503,
+        "local_natural_step_p999": 0.057811204344034195,
+        "before_250ms_rms": 0.002306370995938778,
+        "after_250ms_rms": 0.10401491075754166,
+        "cycle_start_one_second_relative_waveform_difference": 3.411027864785865e-05,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 8467200,
+        "step": 0.00011680817988235503,
+        "local_natural_step_p999": 0.057811204344034195,
+        "before_250ms_rms": 0.002306370995938778,
+        "after_250ms_rms": 0.10401491075754166,
+        "cycle_start_one_second_relative_waveform_difference": 3.411027864785865e-05,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "playground",
+    "fingerprint": "1dc2a17b4b937d3ac53ac67360674e1df57b6fc7e8665e04d9aa3d12adec14c8",
+    "period_frames": 4233600,
+    "score_period_rounding_error_frames": 0.0,
+    "three_cycle_frames": 12700800,
+    "sample_peak": 0.5969999432563782,
+    "boundaries": [
+      {
+        "frame": 4233600,
+        "step": 7.557839126093313e-06,
+        "local_natural_step_p999": 0.027110321447253227,
+        "before_250ms_rms": 0.003462314372882247,
+        "after_250ms_rms": 0.09002945572137833,
+        "cycle_start_one_second_relative_waveform_difference": 2.0462593965930864e-06,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 8467200,
+        "step": 7.557839126093313e-06,
+        "local_natural_step_p999": 0.027110321447253227,
+        "before_250ms_rms": 0.003462314372882247,
+        "after_250ms_rms": 0.09002945572137833,
+        "cycle_start_one_second_relative_waveform_difference": 2.0462593965930864e-06,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "junior",
+    "fingerprint": "9bb7f58b02a3d1546011ab1e042378d6ca5a73e3bee45e778d15948006d4dfe5",
+    "period_frames": 4922791,
+    "score_period_rounding_error_frames": 0.30232558120042086,
+    "three_cycle_frames": 14768373,
+    "sample_peak": 0.4623205065727234,
+    "boundaries": [
+      {
+        "frame": 4922791,
+        "step": 2.9408713089651428e-05,
+        "local_natural_step_p999": 0.012458240613341331,
+        "before_250ms_rms": 0.0059645408764481544,
+        "after_250ms_rms": 0.08042613416910172,
+        "cycle_start_one_second_relative_waveform_difference": 0.029779668897390366,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 9845582,
+        "step": 0.00020242220489308238,
+        "local_natural_step_p999": 0.012083747424185276,
+        "before_250ms_rms": 0.005956570152193308,
+        "after_250ms_rms": 0.08006470650434494,
+        "cycle_start_one_second_relative_waveform_difference": 0.02843397483229637,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "senior",
+    "fingerprint": "5596fa12842d476a43ef8e5d76abe73c04605cb2c0f61511368177a09bdf084c",
+    "period_frames": 5292000,
+    "score_period_rounding_error_frames": 0.0,
+    "three_cycle_frames": 15876000,
+    "sample_peak": 0.5270150899887085,
+    "boundaries": [
+      {
+        "frame": 5292000,
+        "step": 1.57599038175249e-06,
+        "local_natural_step_p999": 0.018876822665333748,
+        "before_250ms_rms": 1.0190102329943329e-05,
+        "after_250ms_rms": 0.0961877703666687,
+        "cycle_start_one_second_relative_waveform_difference": 0.027526067569851875,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 10584000,
+        "step": 7.589081860714941e-07,
+        "local_natural_step_p999": 0.018852319568395615,
+        "before_250ms_rms": 1.014285135170212e-05,
+        "after_250ms_rms": 0.09627152979373932,
+        "cycle_start_one_second_relative_waveform_difference": 0.026697218418121338,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "laboratory",
+    "fingerprint": "2f8f9b7547c9de2c9c681294c7fd0f9fb1c15e13fe6f80464317d3fb596814c0",
+    "period_frames": 4536000,
+    "score_period_rounding_error_frames": 0.0,
+    "three_cycle_frames": 13608000,
+    "sample_peak": 0.5731525421142578,
+    "boundaries": [
+      {
+        "frame": 4536000,
+        "step": 0.002261916408315301,
+        "local_natural_step_p999": 0.017230669036507607,
+        "before_250ms_rms": 0.004871178884059191,
+        "after_250ms_rms": 0.07826246321201324,
+        "cycle_start_one_second_relative_waveform_difference": 0.036391813308000565,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 9072000,
+        "step": 0.0014623943716287613,
+        "local_natural_step_p999": 0.017013967037200928,
+        "before_250ms_rms": 0.004889596253633499,
+        "after_250ms_rms": 0.07837755233049393,
+        "cycle_start_one_second_relative_waveform_difference": 0.00023743729980196804,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "admin",
+    "fingerprint": "acb9a654256ac7e4021bcae8ad832541eab8128050afd7f5b66674727e73943b",
+    "period_frames": 5880000,
+    "score_period_rounding_error_frames": 0.0,
+    "three_cycle_frames": 17640000,
+    "sample_peak": 0.47026944160461426,
+    "boundaries": [
+      {
+        "frame": 5880000,
+        "step": 8.609684300608933e-06,
+        "local_natural_step_p999": 0.024311190471053123,
+        "before_250ms_rms": 0.0009005433530546725,
+        "after_250ms_rms": 0.09144643694162369,
+        "cycle_start_one_second_relative_waveform_difference": 0.0409882590174675,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 11760000,
+        "step": 9.986499208025634e-06,
+        "local_natural_step_p999": 0.024484263733029366,
+        "before_250ms_rms": 0.0009028174099512398,
+        "after_250ms_rms": 0.09142308682203293,
+        "cycle_start_one_second_relative_waveform_difference": 0.003724111942574382,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "battle",
+    "fingerprint": "55adaf728d516c903de4e96ffda01cccef8e45cb644128b53b7ac0287b3abc30",
+    "period_frames": 5131636,
+    "score_period_rounding_error_frames": -0.3636363632977009,
+    "three_cycle_frames": 15394908,
+    "sample_peak": 0.6065508723258972,
+    "boundaries": [
+      {
+        "frame": 5131636,
+        "step": 1.2291593520785682e-05,
+        "local_natural_step_p999": 0.04331653192639351,
+        "before_250ms_rms": 0.009936939924955368,
+        "after_250ms_rms": 0.10677952319383621,
+        "cycle_start_one_second_relative_waveform_difference": 0.05155613273382187,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 10263272,
+        "step": 1.6233574569923803e-05,
+        "local_natural_step_p999": 0.043269578367471695,
+        "before_250ms_rms": 0.009840138256549835,
+        "after_250ms_rms": 0.10662653297185898,
+        "cycle_start_one_second_relative_waveform_difference": 0.050070665776729584,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "boss",
+    "fingerprint": "8e4eaad600d1d6a3cd4106ef7934d29f7663864a00f5781ef017941ef5c24350",
+    "period_frames": 4704000,
+    "score_period_rounding_error_frames": 0.0,
+    "three_cycle_frames": 14112000,
+    "sample_peak": 0.664408266544342,
+    "boundaries": [
+      {
+        "frame": 4704000,
+        "step": 1.6645280993543565e-06,
+        "local_natural_step_p999": 0.033646706491708755,
+        "before_250ms_rms": 0.015038274228572845,
+        "after_250ms_rms": 0.11056169122457504,
+        "cycle_start_one_second_relative_waveform_difference": 7.289344466698822e-06,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 9408000,
+        "step": 1.6645280993543565e-06,
+        "local_natural_step_p999": 0.033646706491708755,
+        "before_250ms_rms": 0.015038274228572845,
+        "after_250ms_rms": 0.11056169122457504,
+        "cycle_start_one_second_relative_waveform_difference": 7.289344466698822e-06,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "final",
+    "fingerprint": "b5f10cd72d3ff71e2888e0c99386b49e8c417b522ce35d4e1dec1a5f7e4a458b",
+    "period_frames": 5773091,
+    "score_period_rounding_error_frames": 0.09090909082442522,
+    "three_cycle_frames": 17319273,
+    "sample_peak": 0.7656989097595215,
+    "boundaries": [
+      {
+        "frame": 5773091,
+        "step": 7.795801502652466e-05,
+        "local_natural_step_p999": 0.025175759568810463,
+        "before_250ms_rms": 0.010677753016352654,
+        "after_250ms_rms": 0.131687194108963,
+        "cycle_start_one_second_relative_waveform_difference": 0.039281461387872696,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 11546182,
+        "step": 0.00014867204299662262,
+        "local_natural_step_p999": 0.025188131257891655,
+        "before_250ms_rms": 0.010684190317988396,
+        "after_250ms_rms": 0.1317087709903717,
+        "cycle_start_one_second_relative_waveform_difference": 0.03948134556412697,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "suspense",
+    "fingerprint": "7927d27e899b866dc2b2bbc632a14e630bc8eeeda2a727ba15af1fb544c0993e",
+    "period_frames": 5292000,
+    "score_period_rounding_error_frames": 0.0,
+    "three_cycle_frames": 15876000,
+    "sample_peak": 0.41881388425827026,
+    "boundaries": [
+      {
+        "frame": 5292000,
+        "step": 6.577146996278316e-05,
+        "local_natural_step_p999": 0.004698898643255234,
+        "before_250ms_rms": 0.00031554061570204794,
+        "after_250ms_rms": 0.05932877957820892,
+        "cycle_start_one_second_relative_waveform_difference": 0.04891499504446983,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 10584000,
+        "step": 7.508671842515469e-05,
+        "local_natural_step_p999": 0.004880832973867655,
+        "before_250ms_rms": 0.0003316737129352987,
+        "after_250ms_rms": 0.0594133622944355,
+        "cycle_start_one_second_relative_waveform_difference": 0.04323003441095352,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "ending",
+    "fingerprint": "87e2c259cd29ca7e403a097109837e782f2a5b08f46e07048d5b7977bd36dd2d",
+    "period_frames": 6350400,
+    "score_period_rounding_error_frames": 0.0,
+    "three_cycle_frames": 19051200,
+    "sample_peak": 0.5751950740814209,
+    "boundaries": [
+      {
+        "frame": 6350400,
+        "step": 4.650151822715998e-05,
+        "local_natural_step_p999": 0.018425937741994858,
+        "before_250ms_rms": 0.002747022546827793,
+        "after_250ms_rms": 0.0732034295797348,
+        "cycle_start_one_second_relative_waveform_difference": 0.024914320558309555,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 12700800,
+        "step": 0.00015770038589835167,
+        "local_natural_step_p999": 0.01858546957373619,
+        "before_250ms_rms": 0.0027415112126618624,
+        "after_250ms_rms": 0.07321935892105103,
+        "cycle_start_one_second_relative_waveform_difference": 0.0016386555507779121,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  },
+  {
+    "id": "summon",
+    "fingerprint": "98136a138b526e7a9e803b2d220808e957baf79567a57bfc02b1c39dae5246ee",
+    "period_frames": 4070769,
+    "score_period_rounding_error_frames": -0.23076923051849008,
+    "three_cycle_frames": 12212307,
+    "sample_peak": 0.7007426619529724,
+    "boundaries": [
+      {
+        "frame": 4070769,
+        "step": 0.002753886627033353,
+        "local_natural_step_p999": 0.03213593736290932,
+        "before_250ms_rms": 0.00435818312689662,
+        "after_250ms_rms": 0.1621924340724945,
+        "cycle_start_one_second_relative_waveform_difference": 0.034523483365774155,
+        "inserted_or_dropped_frames": 0
+      },
+      {
+        "frame": 8141538,
+        "step": 0.002443653764203191,
+        "local_natural_step_p999": 0.032187189906835556,
+        "before_250ms_rms": 0.0043586911633610725,
+        "after_250ms_rms": 0.1621665209531784,
+        "cycle_start_one_second_relative_waveform_difference": 0.03558792546391487,
+        "inserted_or_dropped_frames": 0
+      }
+    ],
+    "subjective_audition": "未进行主观听觉验证"
+  }
+]

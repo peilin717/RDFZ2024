@@ -1,0 +1,277 @@
+{
+  "checks": [
+    {
+      "name": "No sound effects downloaded before gesture",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Roster/navigation remain quiet",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Accepted battle confirmation",
+      "passed": true,
+      "details": [
+        "confirm"
+      ]
+    },
+    {
+      "name": "Real normal attack and enemy response emit impacts",
+      "passed": true,
+      "details": [
+        "confirm",
+        "impact",
+        "impact",
+        "impact",
+        "impact",
+        "impact",
+        "impact"
+      ]
+    },
+    {
+      "name": "Pause button",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Accepted defensive skill, shield creation and absorption",
+      "passed": true,
+      "details": [
+        "skill",
+        "shield",
+        "block"
+      ]
+    },
+    {
+      "name": "Insufficient skill stars are silent",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Absorbed hit preserves combat result",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Absorbed hit sound",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Dodge sound with zero damage",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Element impact",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Piercing impact",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Burst coalescing and bounded voices",
+      "passed": true,
+      "details": {
+        "played": [
+          "confirm",
+          "impact",
+          "impact",
+          "impact",
+          "impact",
+          "impact",
+          "impact",
+          "pause",
+          "pause",
+          "skill",
+          "shield",
+          "block",
+          "block",
+          "evade",
+          "element",
+          "impact",
+          "impact"
+        ],
+        "failures": [],
+        "skipped": 29,
+        "maxVoices": 2,
+        "cached": [
+          "shield",
+          "block",
+          "impact",
+          "evade",
+          "element",
+          "pause",
+          "confirm",
+          "skill"
+        ],
+        "live": 1
+      }
+    },
+    {
+      "name": "Existing sound toggle mutes and clears effects",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Effects resume after unmute",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Keyboard skill uses the same accepted-action sound",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Keyboard pause shares sound and pauses battle",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "All 16 codec files decode without clipping",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "No game JavaScript errors",
+      "passed": true,
+      "details": []
+    },
+    {
+      "name": "MP3 fallback works",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Failed effect does not change damage or stall battle",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Failure is contained",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Saved mute avoids effect downloads",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Unmuting a saved silent session warms effects",
+      "passed": true,
+      "details": null
+    },
+    {
+      "name": "Late audio is discarded after mute",
+      "passed": true,
+      "details": null
+    }
+  ],
+  "errors": [],
+  "codec_checks": [
+    {
+      "id": "impact",
+      "codec": "ogg",
+      "duration": 0.3178125,
+      "ok": true
+    },
+    {
+      "id": "impact",
+      "codec": "mp3",
+      "duration": 0.32,
+      "ok": true
+    },
+    {
+      "id": "element",
+      "codec": "ogg",
+      "duration": 0.4370833333333333,
+      "ok": true
+    },
+    {
+      "id": "element",
+      "codec": "mp3",
+      "duration": 0.44,
+      "ok": true
+    },
+    {
+      "id": "block",
+      "codec": "ogg",
+      "duration": 0.34708333333333335,
+      "ok": true
+    },
+    {
+      "id": "block",
+      "codec": "mp3",
+      "duration": 0.35,
+      "ok": true
+    },
+    {
+      "id": "shield",
+      "codec": "ogg",
+      "duration": 0.5170833333333333,
+      "ok": true
+    },
+    {
+      "id": "shield",
+      "codec": "mp3",
+      "duration": 0.52,
+      "ok": true
+    },
+    {
+      "id": "evade",
+      "codec": "ogg",
+      "duration": 0.23708333333333334,
+      "ok": true
+    },
+    {
+      "id": "evade",
+      "codec": "mp3",
+      "duration": 0.24,
+      "ok": true
+    },
+    {
+      "id": "skill",
+      "codec": "ogg",
+      "duration": 0.39708333333333334,
+      "ok": true
+    },
+    {
+      "id": "skill",
+      "codec": "mp3",
+      "duration": 0.4,
+      "ok": true
+    },
+    {
+      "id": "confirm",
+      "codec": "ogg",
+      "duration": 0.33708333333333335,
+      "ok": true
+    },
+    {
+      "id": "confirm",
+      "codec": "mp3",
+      "duration": 0.3406458333333333,
+      "ok": true
+    },
+    {
+      "id": "pause",
+      "codec": "ogg",
+      "duration": 0.19708333333333333,
+      "ok": true
+    },
+    {
+      "id": "pause",
+      "codec": "mp3",
+      "duration": 0.2,
+      "ok": true
+    }
+  ],
+  "subjective_audition": false
+}

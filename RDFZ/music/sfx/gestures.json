@@ -1,0 +1,10 @@
+[
+  {"id":"impact","title":"普通命中 · 低鼓与短木击","duration":0.32,"peak_db":-12,"group":"impact","layers":[{"program":0,"bank":128,"gain":0.9,"notes":[[0,0.09,36,88],[0.012,0.045,76,63]]},{"program":115,"gain":0.22,"notes":[[0,0.07,43,74]]}]},
+  {"id":"element","title":"属性命中 · 短金属与拨弦","duration":0.44,"peak_db":-13,"group":"impact","layers":[{"program":10,"gain":0.42,"notes":[[0,0.07,74,79],[0.028,0.06,81,57]]},{"program":0,"bank":128,"gain":0.48,"notes":[[0,0.07,41,75]]}]},
+  {"id":"block","title":"护盾吸收 · 低金属挡击","duration":0.35,"peak_db":-13,"group":"impact","layers":[{"program":0,"bank":128,"gain":0.55,"notes":[[0,0.045,37,83],[0.013,0.06,56,58]]},{"program":11,"gain":0.24,"notes":[[0,0.07,50,73]]}]},
+  {"id":"shield","title":"护盾生成 · 上行玻璃泛音","duration":0.52,"peak_db":-17,"group":"defense","layers":[{"program":8,"gain":0.42,"notes":[[0,0.08,62,63],[0.075,0.09,69,67],[0.14,0.1,74,59]]}]},
+  {"id":"evade","title":"闪避与免疫 · 轻沙擦击","duration":0.24,"peak_db":-17,"group":"impact","layers":[{"program":0,"bank":128,"gain":0.45,"notes":[[0,0.04,70,57],[0.032,0.03,42,39]]}]},
+  {"id":"skill","title":"技能释放 · 四度拨弦","duration":0.4,"peak_db":-18,"group":"action","layers":[{"program":46,"gain":0.5,"notes":[[0,0.075,69,65],[0.065,0.08,74,74]]}]},
+  {"id":"confirm","title":"确认出战 · 短促上行","duration":0.34,"peak_db":-18,"group":"ui","layers":[{"program":12,"gain":0.65,"notes":[[0,0.065,62,67],[0.065,0.08,69,61]]}]},
+  {"id":"pause","title":"暂停与继续 · 单次木质轻点","duration":0.2,"peak_db":-21,"group":"ui","layers":[{"program":13,"gain":0.65,"notes":[[0,0.055,74,59]]}]}
+]

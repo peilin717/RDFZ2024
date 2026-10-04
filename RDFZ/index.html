@@ -7,6 +7,7 @@
   <meta name="description" content="RDFZ 2024级风云——2D 策略卡牌游戏" />
   <title>RDFZ 2024级风云</title>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='13' fill='%237d0b1b'/%3E%3Cpath d='M13 15h38v9H36v25h-9V24H13z' fill='%23f8d98b'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="asset-manifest.css" />
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="gacha.css" />
   <link rel="stylesheet" href="layout.css" />
@@ -17,10 +18,11 @@
   <link rel="stylesheet" href="combat-enhancements.css" />
   <link rel="stylesheet" href="campaign-map.css" />
   <link rel="stylesheet" href="new-heroes.css" />
+  <link rel="stylesheet" href="web-loading.css">
 </head>
 <body>
   <canvas id="fx" aria-hidden="true"></canvas>
-  <div id="app">
+  <div id="app" class="hidden">
     <header class="topbar">
       <div class="brand"><span class="crest">R</span><div><strong>RDFZ 2024级风云</strong><small>校园战术演算</small></div></div>
       <div class="stage-info"><span>章节 <b id="chapter">01</b></span><i></i><span id="stageName">入学试炼</span></div>
@@ -92,8 +94,17 @@
   <link rel="stylesheet" href="library-canteen.css">
   <link rel="stylesheet" href="playground.css">
   <link rel="stylesheet" href="bandit.css">
+  <script src="asset-manifest.js"></script>
+  <script src="asset-loader.js"></script>
   <script src="core.js"></script>
+  <script src="game-config.js"></script>
   <script src="database.js"></script>
   <script src="game.js"></script>
+  <link rel="stylesheet" href="music-player.css">
+  <a class="music-credits-link" href="music-credits.html" target="_blank" rel="noopener">配乐鸣谢</a>
+  <script src="music-manifest.js"></script>
+  <script src="sfx-manifest.js"></script>
+  <script src="sfx-player.js"></script>
+  <script src="music-player.js"></script>
 </body>
 </html>

@@ -1,0 +1,39 @@
+[
+  {
+    "case": "real showResult repeated clear",
+    "passed": true,
+    "event": {
+      "chapter": 1,
+      "stageId": "c1-1",
+      "win": true,
+      "recruited": null,
+      "firstClear": false
+    }
+  },
+  {
+    "case": "real final main stage first clear",
+    "passed": true,
+    "event": {
+      "chapter": 1,
+      "stageId": "c1-6",
+      "win": true,
+      "recruited": null,
+      "firstClear": true
+    }
+  },
+  {
+    "case": "optional clear does not replay chapter completion",
+    "passed": true,
+    "event": {
+      "chapter": 2,
+      "stageId": "c2-ex",
+      "win": true,
+      "recruited": null,
+      "firstClear": true
+    }
+  },
+  {
+    "case": "real loss result",
+    "passed": true
+  }
+]

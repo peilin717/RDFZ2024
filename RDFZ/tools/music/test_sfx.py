@@ -1,0 +1,117 @@
+"""Disposable browser checks for semantic SFX triggers and optional audio failures.
+Use conda env rdfz2024; PLAYWRIGHT_BROWSERS_PATH may point to a local browser cache.
+"""
+import json, os
+from pathlib import Path
+from playwright.sync_api import sync_playwright
+BASE=os.environ.get('RDFZ_TEST_URL','http://127.0.0.1:4173')
+ROOT=Path(__file__).resolve().parents[2]
+report={'checks':[], 'errors':[], 'codec_checks':[], 'subjective_audition':False}
+def check(name, passed, details=None):
+    report['checks'].append({'name':name,'passed':bool(passed),'details':details})
+    print(name, 'PASS' if passed else 'FAIL', flush=True)
+    assert passed, (name,details)
+with sync_playwright() as p:
+    browser=p.chromium.launch(headless=True, args=['--no-sandbox'])
+    context=browser.new_context(viewport={'width':1360,'height':900})
+    page=context.new_page();requests=[]
+    page.on('pageerror',lambda e:report['errors'].append(str(e)))
+    page.on('request',lambda r:requests.append(r.url) if '/assets/sfx/' in r.url else None)
+    page.goto(BASE,wait_until='networkidle')
+    check('No sound effects downloaded before gesture',not requests)
+    page.click('#startBtn');page.click('#skipTutorial')
+    page.wait_for_function('RDFZMusic.diagnostics().sfx.cached.length === 8')
+    def sounds():return page.evaluate('RDFZMusic.diagnostics().sfx.played')
+    def wait():page.wait_for_timeout(240)
+    before=sounds()
+    page.click('#rosterBtn');page.click('#rosterScreen [data-hide]');wait()
+    check('Roster/navigation remain quiet',sounds()==before)
+    page.click('#summonBtn');page.click('#tenPull');page.click('#closePull');page.click('#summonScreen [data-hide]');wait()
+    page.click('#battleBtn');page.click('[data-chapter="1"]');page.click('[data-stage="c1-1"]')
+    page.click('#recommendTeam');wait()
+    page.click('#confirmFormation');wait()
+    check('Accepted battle confirmation',sounds()[-1]=='confirm',sounds())
+    page.click('#basicAttack')
+    page.wait_for_function('state.round >= 2 && !state.busy',timeout=30000)
+    check('Real normal attack and enemy response emit impacts','impact' in sounds(),sounds())
+    page.click('#pauseBtn');wait();check('Pause button','pause'==sounds()[-1])
+    page.click('#resumeBattle');wait()
+    page.evaluate("state.team=[cloneHero(heroes.find(h=>h.id==='gzt'))];state.selected=0;state.team[0].stars=12;state.enemies=[{id:'sfx-dummy',name:'测试目标',pos:1,hp:10000000,maxHp:10000000,shield:0,alive:true,atk:10,c:['#333','#111']}];render()")
+    count=len(sounds());page.click('.skill[data-i="1"]')
+    page.wait_for_function('!state.busy',timeout=30000)
+    sequence=sounds()[count:]
+    check('Accepted defensive skill, shield creation and absorption',all(x in sequence for x in ['skill','shield','block']),sequence)
+    wait();count=len(sounds())
+    page.evaluate("state.team[0].stars=0;render();useSkill(1)");wait()
+    check('Insufficient skill stars are silent',len(sounds())==count)
+    page.evaluate("state.team[0].shield=1000;state.team[0].hp=state.team[0].maxHp")
+    hp=page.evaluate('state.team[0].hp');wait()
+    dealt=page.evaluate('enemyHit(state.team[0],300)');wait()
+    check('Absorbed hit preserves combat result',dealt==0 and page.evaluate('state.team[0].hp')==hp and page.evaluate('state.team[0].shield')==700)
+    check('Absorbed hit sound',sounds()[-1]=='block')
+    page.evaluate("state.team[0].guaranteedDodges=1");wait()
+    dealt=page.evaluate('enemyHit(state.team[0],300)');wait()
+    check('Dodge sound with zero damage',dealt==0 and sounds()[-1]=='evade')
+    page.evaluate("hit(state.enemies[0],100,'damage',state.team[0],'element')");wait()
+    check('Element impact',sounds()[-1]=='element')
+    page.evaluate("piercingHit(state.enemies[0],100,state.team[0])");wait()
+    check('Piercing impact',sounds()[-1]=='impact')
+    before=len(sounds())
+    page.evaluate("for(let i=0;i<30;i++)RDFZ.emit('combatImpact',{amount:100,absorbed:0,kind:'physical'})");wait()
+    d=page.evaluate('RDFZMusic.diagnostics().sfx')
+    check('Burst coalescing and bounded voices',len(sounds())-before==1 and d['maxVoices']<=4,d)
+    page.click('#soundBtn');wait();before=sounds()
+    page.evaluate("RDFZ.emit('combatImpact',{amount:100,absorbed:0,kind:'physical'});RDFZ.emit('combatSkill',{})");wait()
+    check('Existing sound toggle mutes and clears effects',sounds()==before and page.evaluate('RDFZMusic.diagnostics().sfx.live')==0)
+    page.click('#soundBtn');wait()
+    page.evaluate("RDFZ.emit('combatImpact',{amount:100,absorbed:0,kind:'physical'})");wait()
+    check('Effects resume after unmute',len(sounds())==len(before)+1)
+    page.evaluate('state.team[0].stars=12;render()');wait();before=len(sounds())
+    page.keyboard.press('2');page.wait_for_function('!state.busy',timeout=30000)
+    check('Keyboard skill uses the same accepted-action sound','skill' in sounds()[before:])
+    wait();page.keyboard.press('Escape');wait()
+    check('Keyboard pause shares sound and pauses battle',page.evaluate('state.paused') and sounds()[-1]=='pause')
+    page.keyboard.press('Escape');wait()
+    # Decode every static codec in a real browser independently of cached buffers.
+    report['codec_checks']=page.evaluate('''async()=>{const ctx=new AudioContext();const results=[];
+      for(const [id,cue] of Object.entries(RDFZSfxManifest.cues))for(const codec of ['ogg','mp3']){
+        const r=await fetch(cue[codec]);const b=await ctx.decodeAudioData(await r.arrayBuffer());
+        let peak=0;for(let c=0;c<b.numberOfChannels;c++)for(const x of b.getChannelData(c))peak=Math.max(peak,Math.abs(x));
+        results.push({id,codec,duration:b.duration,ok:r.ok&&Math.abs(b.duration-cue.duration)<.03&&peak>0&&peak<.9});
+      }await ctx.close();return results}''')
+    check('All 16 codec files decode without clipping',all(c['ok'] for c in report['codec_checks']))
+    check('No game JavaScript errors',not report['errors'],report['errors'])
+    context.close()
+    # Independent context: failed Vorbis falls back; both failing never blocks gameplay.
+    failure=browser.new_context();page=failure.new_page()
+    page.on('pageerror',lambda e:report['errors'].append(str(e)))
+    page.route('**/assets/sfx/*.ogg',lambda route:route.abort())
+    page.route('**/assets/sfx/impact.*',lambda route:route.abort())
+    page.goto(BASE);page.click('#startBtn');page.click('#skipTutorial')
+    page.wait_for_function('RDFZMusic.diagnostics().sfx.cached.length === 7')
+    check('MP3 fallback works',len(page.evaluate('RDFZMusic.diagnostics().sfx.cached'))==7)
+    page.evaluate("state.started=true;state.paused=false;state.currentStageId='c1-1';state.team=[cloneHero(heroes[0])];state.enemies=[{id:'dummy',name:'测试',hp:1000,maxHp:1000,alive:true,shield:0,pos:1,c:['#333','#111']}];render()")
+    dealt=page.evaluate('hit(state.enemies[0],100)');wait()
+    check('Failed effect does not change damage or stall battle',dealt==100 and page.evaluate('state.enemies[0].hp')==900)
+    check('Failure is contained',not report['errors'] and bool(page.evaluate('RDFZMusic.diagnostics().sfx.failures')))
+    failure.close()
+    saved=browser.new_context();page=saved.new_page();muted_requests=[]
+    page.add_init_script("localStorage.setItem('rdfz-music-muted','1')")
+    page.on('request',lambda r:muted_requests.append(r.url) if '/assets/sfx/' in r.url else None)
+    page.goto(BASE);page.click('#startBtn');page.click('#skipTutorial');wait()
+    check('Saved mute avoids effect downloads',not muted_requests)
+    page.click('#hubSound');page.wait_for_function('RDFZMusic.diagnostics().sfx.cached.length === 8')
+    check('Unmuting a saved silent session warms effects',not page.evaluate('RDFZMusic.diagnostics().muted'))
+    saved.close()
+    delayed=browser.new_context();page=delayed.new_page()
+    page.add_init_script('''const originalFetch=window.fetch;window.fetch=async (...args)=>{
+      if(String(args[0]).includes('/sfx/'))await new Promise(r=>setTimeout(r,600));
+      return originalFetch(...args)}''')
+    page.goto(BASE);page.click('#startBtn')
+    page.wait_for_function('RDFZMusic.diagnostics().unlocked')
+    page.evaluate("state.started=true;RDFZ.emit('combatImpact',{amount:100,absorbed:0,kind:'physical'});document.getElementById('hubSound').click()")
+    page.wait_for_function('RDFZMusic.diagnostics().sfx.cached.length === 8');wait()
+    check('Late audio is discarded after mute',page.evaluate('RDFZMusic.diagnostics().sfx.played.length')==0)
+    delayed.close();browser.close()
+(ROOT/'music/reports/sfx-browser-validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+print(json.dumps({'passed':len(report['checks']),'codec_checks':len(report['codec_checks']),'errors':report['errors']}))

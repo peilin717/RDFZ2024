@@ -1,0 +1,297 @@
+{
+  "schema": 1,
+  "project": "RDFZ 风云纪元 — 回声与晨光",
+  "production": "local-only; original scores; no generation/review APIs",
+  "representatives": [
+    "home",
+    "basement",
+    "battle"
+  ],
+  "bgm": [
+    {
+      "id": "title",
+      "title": "钟楼前的来信",
+      "scene": "标题",
+      "themes": [
+        "campus",
+        "intrusion"
+      ],
+      "bpm": 84,
+      "bars": 40,
+      "lufs": -19
+    },
+    {
+      "id": "home",
+      "title": "还未散场的午后",
+      "scene": "主页、伙伴、背包、编队与校园总图",
+      "themes": [
+        "campus",
+        "resolve"
+      ],
+      "bpm": 92,
+      "bars": 48,
+      "lufs": -19
+    },
+    {
+      "id": "basement",
+      "title": "灯下没有脚步",
+      "scene": "逸夫楼地下",
+      "chapter": 1,
+      "themes": [
+        "intrusion",
+        "campus"
+      ],
+      "bpm": 76,
+      "bars": 40,
+      "lufs": -21
+    },
+    {
+      "id": "yifu",
+      "title": "玻璃上的风",
+      "scene": "逸夫楼、空中花园",
+      "chapter": 2,
+      "themes": [
+        "campus"
+      ],
+      "bpm": 92,
+      "bars": 40,
+      "lufs": -20
+    },
+    {
+      "id": "basketball",
+      "title": "边线以外的约定",
+      "scene": "篮球场及篮球小游戏",
+      "chapter": 3,
+      "themes": [
+        "resolve"
+      ],
+      "bpm": 116,
+      "bars": 48,
+      "lufs": -19
+    },
+    {
+      "id": "garden",
+      "title": "根系记得的名字",
+      "scene": "中心花园",
+      "chapter": 4,
+      "themes": [
+        "campus",
+        "intrusion"
+      ],
+      "bpm": 88,
+      "bars": 40,
+      "lufs": -20
+    },
+    {
+      "id": "library",
+      "title": "第十三本无题书",
+      "scene": "图书馆与机关解谜",
+      "chapter": 5,
+      "themes": [
+        "intrusion"
+      ],
+      "bpm": 66,
+      "bars": 32,
+      "lufs": -22
+    },
+    {
+      "id": "canteen",
+      "title": "热汤与未寄出的答案",
+      "scene": "食堂、日常中的异常",
+      "chapter": 6,
+      "themes": [
+        "campus"
+      ],
+      "bpm": 100,
+      "bars": 40,
+      "lufs": -20
+    },
+    {
+      "id": "playground",
+      "title": "逆着风跑",
+      "scene": "操场与跑酷",
+      "chapter": 7,
+      "themes": [
+        "resolve"
+      ],
+      "bpm": 120,
+      "bars": 48,
+      "lufs": -19
+    },
+    {
+      "id": "junior",
+      "title": "广播没有说完",
+      "scene": "初中楼、猜疑与内讧",
+      "chapter": 8,
+      "themes": [
+        "intrusion",
+        "campus"
+      ],
+      "bpm": 86,
+      "bars": 40,
+      "lufs": -21
+    },
+    {
+      "id": "senior",
+      "title": "七层楼的旧日光",
+      "scene": "高中楼、熟悉人物与记忆",
+      "chapter": 9,
+      "themes": [
+        "campus",
+        "resolve"
+      ],
+      "bpm": 80,
+      "bars": 40,
+      "lufs": -20
+    },
+    {
+      "id": "laboratory",
+      "title": "星图上的故障",
+      "scene": "实验楼、模拟驾驶与天文台",
+      "chapter": 10,
+      "themes": [
+        "intrusion",
+        "resolve"
+      ],
+      "bpm": 112,
+      "bars": 48,
+      "lufs": -20
+    },
+    {
+      "id": "admin",
+      "title": "密钥之前",
+      "scene": "行政楼地图及真相揭示",
+      "chapter": 11,
+      "themes": [
+        "intrusion",
+        "resolve"
+      ],
+      "bpm": 72,
+      "bars": 40,
+      "lufs": -21
+    },
+    {
+      "id": "battle",
+      "title": "把名字写在盾上",
+      "scene": "普通战斗",
+      "themes": [
+        "resolve"
+      ],
+      "bpm": 132,
+      "bars": 64,
+      "lufs": -18
+    },
+    {
+      "id": "boss",
+      "title": "裂缝中的应答",
+      "scene": "Boss、游魂天台高潮",
+      "themes": [
+        "resolve",
+        "intrusion"
+      ],
+      "bpm": 144,
+      "bars": 64,
+      "lufs": -18
+    },
+    {
+      "id": "final",
+      "title": "我们仍能选择",
+      "scene": "行政楼最终决战",
+      "themes": [
+        "resolve",
+        "campus",
+        "intrusion"
+      ],
+      "bpm": 132,
+      "bars": 72,
+      "lufs": -18
+    },
+    {
+      "id": "suspense",
+      "title": "被擦掉的记录",
+      "scene": "危险剧情与控制信号",
+      "themes": [
+        "intrusion"
+      ],
+      "bpm": 64,
+      "bars": 32,
+      "lufs": -22
+    },
+    {
+      "id": "ending",
+      "title": "清晨之后的风云录",
+      "scene": "战后、咖啡厅真相及结局",
+      "themes": [
+        "campus",
+        "resolve"
+      ],
+      "bpm": 80,
+      "bars": 48,
+      "lufs": -20
+    },
+    {
+      "id": "summon",
+      "title": "星光点名",
+      "scene": "招募页面",
+      "themes": [
+        "campus",
+        "resolve"
+      ],
+      "bpm": 104,
+      "bars": 40,
+      "lufs": -19
+    }
+  ],
+  "stingers": [
+    {
+      "id": "victory",
+      "title": "重新集结",
+      "theme": "resolve",
+      "trigger": "胜利"
+    },
+    {
+      "id": "defeat",
+      "title": "名字仍在",
+      "theme": "campus",
+      "trigger": "失败"
+    },
+    {
+      "id": "rare",
+      "title": "群星回应",
+      "theme": "resolve",
+      "trigger": "S级招募"
+    },
+    {
+      "id": "recruit",
+      "title": "新的同伴",
+      "theme": "campus",
+      "trigger": "普通招募完成"
+    },
+    {
+      "id": "chapter-clear",
+      "title": "门向晨光打开",
+      "theme": "resolve",
+      "trigger": "章节完成"
+    },
+    {
+      "id": "revelation",
+      "title": "信号中断",
+      "theme": "intrusion",
+      "trigger": "重要剧情切入"
+    }
+  ],
+  "inherit": [
+    "rosterScreen",
+    "heroDetail",
+    "bagScreen",
+    "formationScreen",
+    "ratesScreen",
+    "tutorialScreen",
+    "helpScreen",
+    "pauseScreen",
+    "battleStatsScreen"
+  ],
+  "loop_policy": "exact score period; continuous three-cycle render; extract stable middle period; no fades on looping bodies",
+  "audition_status": "未进行主观听觉验证",
+  "runtime_mapping": "music/scene-mapping.json"
+}

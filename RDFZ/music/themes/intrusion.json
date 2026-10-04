@@ -1,0 +1,210 @@
+{
+  "id": "intrusion",
+  "name": "AI侵蚀",
+  "meter": [
+    4,
+    4
+  ],
+  "bars": 8,
+  "identity": "半音触碰、3+3+2破碎脉冲与缺席的落点",
+  "notation": "E5:.5 F5:.5 r:.5 Bb4:.5 E5:1 r:1 | r:.5 F5:.5 E5:1 B4:.5 r:1.5 | E5:.5 r:1 Bb4:.5 A4:.5 F5:.5 r:1 | D#5:1 E5:.5 r:2.5 | Bb4:.5 E5:.5 F5:1 r:.5 B4:.5 r:1 | G5:.5 F5:.5 r:1 E5:.5 D#5:.5 r:1 | A4:1 Bb4:.5 r:.5 F5:.5 E5:.5 r:1 | F5:.5 E5:1.5 r:2",
+  "notes": [
+    {
+      "beat": 0,
+      "duration": 0.45,
+      "pitch": 76,
+      "velocity": 77,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 0.5,
+      "duration": 0.45,
+      "pitch": 77,
+      "velocity": 75,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 1.5,
+      "duration": 0.45,
+      "pitch": 70,
+      "velocity": 75,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 2.0,
+      "duration": 0.9,
+      "pitch": 76,
+      "velocity": 77,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 4.5,
+      "duration": 0.45,
+      "pitch": 77,
+      "velocity": 77,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 5.0,
+      "duration": 0.9,
+      "pitch": 76,
+      "velocity": 77,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 6.0,
+      "duration": 0.45,
+      "pitch": 71,
+      "velocity": 79,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 8,
+      "duration": 0.45,
+      "pitch": 76,
+      "velocity": 81,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 9.5,
+      "duration": 0.45,
+      "pitch": 70,
+      "velocity": 79,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 10.0,
+      "duration": 0.45,
+      "pitch": 69,
+      "velocity": 81,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 10.5,
+      "duration": 0.45,
+      "pitch": 77,
+      "velocity": 79,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 12,
+      "duration": 0.9,
+      "pitch": 75,
+      "velocity": 77,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 13.0,
+      "duration": 0.45,
+      "pitch": 76,
+      "velocity": 75,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 16,
+      "duration": 0.45,
+      "pitch": 70,
+      "velocity": 78,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 16.5,
+      "duration": 0.45,
+      "pitch": 76,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 17.0,
+      "duration": 0.9,
+      "pitch": 77,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 18.5,
+      "duration": 0.45,
+      "pitch": 71,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 20,
+      "duration": 0.45,
+      "pitch": 79,
+      "velocity": 80,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 20.5,
+      "duration": 0.45,
+      "pitch": 77,
+      "velocity": 78,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 22.0,
+      "duration": 0.45,
+      "pitch": 76,
+      "velocity": 80,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 22.5,
+      "duration": 0.45,
+      "pitch": 75,
+      "velocity": 78,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 24,
+      "duration": 0.9,
+      "pitch": 69,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 25.0,
+      "duration": 0.45,
+      "pitch": 70,
+      "velocity": 74,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 26.0,
+      "duration": 0.45,
+      "pitch": 77,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 26.5,
+      "duration": 0.45,
+      "pitch": 76,
+      "velocity": 74,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 28,
+      "duration": 0.45,
+      "pitch": 77,
+      "velocity": 72,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 28.5,
+      "duration": 1.35,
+      "pitch": 76,
+      "velocity": 70,
+      "articulation": "tenuto"
+    }
+  ],
+  "motif_bars": [
+    1,
+    2
+  ],
+  "phrase_ends": [
+    4,
+    8
+  ]
+}

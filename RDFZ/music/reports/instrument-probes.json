@@ -1,0 +1,941 @@
+{
+  "bass": {
+    "bank": 0,
+    "program_zero_based": 32,
+    "tests": [
+      {
+        "pitch": 38,
+        "velocity": 65,
+        "peak": 0.03826348856091499,
+        "rms": 0.009146193973720074,
+        "onset_5percent_ms": 10.929705215419501,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 48,
+        "velocity": 65,
+        "peak": 0.035112638026475906,
+        "rms": 0.006113631185144186,
+        "onset_5percent_ms": 6.167800453514739,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 57,
+        "velocity": 65,
+        "peak": 0.03526861593127251,
+        "rms": 0.004770967178046703,
+        "onset_5percent_ms": 3.9002267573696145,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 48,
+        "velocity": 40,
+        "peak": 0.015623289160430431,
+        "rms": 0.0027048916090279818,
+        "onset_5percent_ms": 5.691609977324264,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 48,
+        "velocity": 65,
+        "peak": 0.035112638026475906,
+        "rms": 0.0061136893928050995,
+        "onset_5percent_ms": 5.351473922902494,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 48,
+        "velocity": 90,
+        "peak": 0.059488944709300995,
+        "rms": 0.01046028919517994,
+        "onset_5percent_ms": 5.034013605442177,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      38,
+      48,
+      57
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "celesta": {
+    "bank": 0,
+    "program_zero_based": 8,
+    "tests": [
+      {
+        "pitch": 69,
+        "velocity": 65,
+        "peak": 0.026738150045275688,
+        "rms": 0.0043555437587201595,
+        "onset_5percent_ms": 1.4285714285714286,
+        "tail_last_250ms_rms": 3.0904800496500684e-06
+      },
+      {
+        "pitch": 76,
+        "velocity": 65,
+        "peak": 0.022885169833898544,
+        "rms": 0.00484447693452239,
+        "onset_5percent_ms": 1.7687074829931972,
+        "tail_last_250ms_rms": 1.292089336857316e-06
+      },
+      {
+        "pitch": 79,
+        "velocity": 65,
+        "peak": 0.02304871566593647,
+        "rms": 0.004747272934764624,
+        "onset_5percent_ms": 1.3605442176870748,
+        "tail_last_250ms_rms": 1.2902073649456725e-06
+      },
+      {
+        "pitch": 76,
+        "velocity": 40,
+        "peak": 0.010081787593662739,
+        "rms": 0.002139527117833495,
+        "onset_5percent_ms": 1.1564625850340136,
+        "tail_last_250ms_rms": 5.688206101694959e-07
+      },
+      {
+        "pitch": 76,
+        "velocity": 65,
+        "peak": 0.022882327437400818,
+        "rms": 0.004845614079385996,
+        "onset_5percent_ms": 0.8843537414965986,
+        "tail_last_250ms_rms": 1.2879609130322933e-06
+      },
+      {
+        "pitch": 76,
+        "velocity": 90,
+        "peak": 0.03943609818816185,
+        "rms": 0.008324459195137024,
+        "onset_5percent_ms": 0.5895691609977325,
+        "tail_last_250ms_rms": 2.208039404649753e-06
+      }
+    ],
+    "actual_score_register": [
+      69,
+      76,
+      79
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "cello": {
+    "bank": 0,
+    "program_zero_based": 42,
+    "tests": [
+      {
+        "pitch": 48,
+        "velocity": 65,
+        "peak": 0.03586394339799881,
+        "rms": 0.011067703366279602,
+        "onset_5percent_ms": 24.263038548752835,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 59,
+        "velocity": 65,
+        "peak": 0.03603873401880264,
+        "rms": 0.011192859150469303,
+        "onset_5percent_ms": 42.993197278911566,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 67,
+        "velocity": 65,
+        "peak": 0.03231493756175041,
+        "rms": 0.012059422209858894,
+        "onset_5percent_ms": 17.66439909297052,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 59,
+        "velocity": 40,
+        "peak": 0.015913641080260277,
+        "rms": 0.004943779204040766,
+        "onset_5percent_ms": 42.44897959183674,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 59,
+        "velocity": 65,
+        "peak": 0.03603873401880264,
+        "rms": 0.011198011226952076,
+        "onset_5percent_ms": 42.176870748299315,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 59,
+        "velocity": 90,
+        "peak": 0.061850011348724365,
+        "rms": 0.019588883966207504,
+        "onset_5percent_ms": 3.6054421768707483,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      48,
+      59,
+      67
+    ],
+    "expression": {
+      "cc11_55_rms": 0.0035606399178504944,
+      "cc11_105_rms": 0.012864506803452969
+    },
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "clarinet": {
+    "bank": 0,
+    "program_zero_based": 71,
+    "tests": [
+      {
+        "pitch": 52,
+        "velocity": 65,
+        "peak": 0.02562587894499302,
+        "rms": 0.009304676204919815,
+        "onset_5percent_ms": 29.047619047619047,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 72,
+        "velocity": 65,
+        "peak": 0.02609414793550968,
+        "rms": 0.01261542085558176,
+        "onset_5percent_ms": 11.723356009070296,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 86,
+        "velocity": 65,
+        "peak": 0.025924762710928917,
+        "rms": 0.013834012672305107,
+        "onset_5percent_ms": 7.596371882086168,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 72,
+        "velocity": 40,
+        "peak": 0.010872086510062218,
+        "rms": 0.005430550314486027,
+        "onset_5percent_ms": 15.96371882086168,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 72,
+        "velocity": 65,
+        "peak": 0.02609414793550968,
+        "rms": 0.012618673034012318,
+        "onset_5percent_ms": 10.90702947845805,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 72,
+        "velocity": 90,
+        "peak": 0.044840212911367416,
+        "rms": 0.021708203479647636,
+        "onset_5percent_ms": 10.476190476190476,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      52,
+      72,
+      86
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "drums": {
+    "bank": 128,
+    "program_zero_based": 0,
+    "tests": [
+      {
+        "pitch": 36,
+        "velocity": 65,
+        "peak": 0.03919846564531326,
+        "rms": 0.005079714115709066,
+        "onset_5percent_ms": 2.7891156462585034,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 38,
+        "velocity": 65,
+        "peak": 0.05637822300195694,
+        "rms": 0.005064130760729313,
+        "onset_5percent_ms": 1.4058956916099772,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 44,
+        "velocity": 65,
+        "peak": 0.007139280438423157,
+        "rms": 0.00029786527738906443,
+        "onset_5percent_ms": 2.857142857142857,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 38,
+        "velocity": 40,
+        "peak": 0.01921330951154232,
+        "rms": 0.0019782439339905977,
+        "onset_5percent_ms": 0.8390022675736961,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 38,
+        "velocity": 65,
+        "peak": 0.05637822300195694,
+        "rms": 0.005064269527792931,
+        "onset_5percent_ms": 0.5668934240362812,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 38,
+        "velocity": 90,
+        "peak": 0.07430505752563477,
+        "rms": 0.008174913004040718,
+        "onset_5percent_ms": 0.24943310657596374,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      36,
+      38,
+      44
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "ebass": {
+    "bank": 0,
+    "program_zero_based": 33,
+    "tests": [
+      {
+        "pitch": 38,
+        "velocity": 65,
+        "peak": 0.023705897852778435,
+        "rms": 0.008551073260605335,
+        "onset_5percent_ms": 5.328798185941043,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 48,
+        "velocity": 65,
+        "peak": 0.030888887122273445,
+        "rms": 0.009286045096814632,
+        "onset_5percent_ms": 5.124716553287982,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 57,
+        "velocity": 65,
+        "peak": 0.031073128804564476,
+        "rms": 0.008057708851993084,
+        "onset_5percent_ms": 3.2653061224489797,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 48,
+        "velocity": 40,
+        "peak": 0.013432599604129791,
+        "rms": 0.00402415357530117,
+        "onset_5percent_ms": 4.6938775510204085,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 48,
+        "velocity": 65,
+        "peak": 0.030888887122273445,
+        "rms": 0.009286196902394295,
+        "onset_5percent_ms": 4.308390022675737,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 48,
+        "velocity": 90,
+        "peak": 0.05522407591342926,
+        "rms": 0.016574356704950333,
+        "onset_5percent_ms": 3.99092970521542,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      38,
+      48,
+      57
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "electric": {
+    "bank": 0,
+    "program_zero_based": 4,
+    "tests": [
+      {
+        "pitch": 53,
+        "velocity": 65,
+        "peak": 0.014337092638015747,
+        "rms": 0.007149138022214174,
+        "onset_5percent_ms": 5.192743764172335,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 71,
+        "velocity": 65,
+        "peak": 0.014401252381503582,
+        "rms": 0.007193732541054487,
+        "onset_5percent_ms": 3.0158730158730163,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 83,
+        "velocity": 65,
+        "peak": 0.013240194879472256,
+        "rms": 0.006201455835253,
+        "onset_5percent_ms": 1.0884353741496597,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 71,
+        "velocity": 40,
+        "peak": 0.006361168343573809,
+        "rms": 0.00317595386877656,
+        "onset_5percent_ms": 2.5170068027210886,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 71,
+        "velocity": 65,
+        "peak": 0.014401252381503582,
+        "rms": 0.007195491809397936,
+        "onset_5percent_ms": 2.199546485260771,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 71,
+        "velocity": 90,
+        "peak": 0.028415802866220474,
+        "rms": 0.01298624835908413,
+        "onset_5percent_ms": 3.8321995464852607,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      53,
+      71,
+      83
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "flute": {
+    "bank": 0,
+    "program_zero_based": 73,
+    "tests": [
+      {
+        "pitch": 64,
+        "velocity": 65,
+        "peak": 0.03145371749997139,
+        "rms": 0.009017089381814003,
+        "onset_5percent_ms": 15.192743764172336,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 74,
+        "velocity": 65,
+        "peak": 0.035278674215078354,
+        "rms": 0.017333725467324257,
+        "onset_5percent_ms": 15.034013605442176,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 84,
+        "velocity": 65,
+        "peak": 0.044301170855760574,
+        "rms": 0.021137094125151634,
+        "onset_5percent_ms": 15.147392290249433,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 74,
+        "velocity": 40,
+        "peak": 0.015576879493892193,
+        "rms": 0.007601114921271801,
+        "onset_5percent_ms": 17.732426303854876,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 74,
+        "velocity": 65,
+        "peak": 0.035278674215078354,
+        "rms": 0.017337344586849213,
+        "onset_5percent_ms": 14.217687074829932,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 74,
+        "velocity": 90,
+        "peak": 0.06048863008618355,
+        "rms": 0.029911385849118233,
+        "onset_5percent_ms": 10.408163265306122,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      64,
+      74,
+      84
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "harp": {
+    "bank": 0,
+    "program_zero_based": 46,
+    "tests": [
+      {
+        "pitch": 50,
+        "velocity": 65,
+        "peak": 0.026477733626961708,
+        "rms": 0.007344104815274477,
+        "onset_5percent_ms": 3.8321995464852607,
+        "tail_last_250ms_rms": 6.373735232045874e-05
+      },
+      {
+        "pitch": 62,
+        "velocity": 65,
+        "peak": 0.03225862607359886,
+        "rms": 0.010746262036263943,
+        "onset_5percent_ms": 2.5396825396825395,
+        "tail_last_250ms_rms": 6.484422920038924e-05
+      },
+      {
+        "pitch": 86,
+        "velocity": 65,
+        "peak": 0.03040657378733158,
+        "rms": 0.003443703521043062,
+        "onset_5percent_ms": 1.6326530612244898,
+        "tail_last_250ms_rms": 3.7030611110822065e-06
+      },
+      {
+        "pitch": 62,
+        "velocity": 40,
+        "peak": 0.01424287911504507,
+        "rms": 0.004745951388031244,
+        "onset_5percent_ms": 2.0634920634920637,
+        "tail_last_250ms_rms": 2.857682920875959e-05
+      },
+      {
+        "pitch": 62,
+        "velocity": 65,
+        "peak": 0.032284680753946304,
+        "rms": 0.010758217424154282,
+        "onset_5percent_ms": 1.7006802721088434,
+        "tail_last_250ms_rms": 6.475030386354774e-05
+      },
+      {
+        "pitch": 62,
+        "velocity": 90,
+        "peak": 0.0554736964404583,
+        "rms": 0.01848699152469635,
+        "onset_5percent_ms": 1.4285714285714286,
+        "tail_last_250ms_rms": 0.0001112378595280461
+      }
+    ],
+    "actual_score_register": [
+      50,
+      62,
+      86
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "marimba": {
+    "bank": 0,
+    "program_zero_based": 12,
+    "tests": [
+      {
+        "pitch": 64,
+        "velocity": 65,
+        "peak": 0.0214826799929142,
+        "rms": 0.00598913012072444,
+        "onset_5percent_ms": 3.287981859410431,
+        "tail_last_250ms_rms": 5.144245278643211e-06
+      },
+      {
+        "pitch": 76,
+        "velocity": 65,
+        "peak": 0.01972775347530842,
+        "rms": 0.004065797198563814,
+        "onset_5percent_ms": 3.5374149659863945,
+        "tail_last_250ms_rms": 8.594091127633874e-08
+      },
+      {
+        "pitch": 86,
+        "velocity": 65,
+        "peak": 0.013692551292479038,
+        "rms": 0.002063534688204527,
+        "onset_5percent_ms": 2.35827664399093,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 76,
+        "velocity": 40,
+        "peak": 0.007958656176924706,
+        "rms": 0.0015888630878180265,
+        "onset_5percent_ms": 3.197278911564626,
+        "tail_last_250ms_rms": 3.658413305629438e-08
+      },
+      {
+        "pitch": 76,
+        "velocity": 65,
+        "peak": 0.019732365384697914,
+        "rms": 0.004065801855176687,
+        "onset_5percent_ms": 2.7210884353741496,
+        "tail_last_250ms_rms": 8.567996445663084e-08
+      },
+      {
+        "pitch": 76,
+        "velocity": 90,
+        "peak": 0.034017689526081085,
+        "rms": 0.007140930742025375,
+        "onset_5percent_ms": 2.403628117913832,
+        "tail_last_250ms_rms": 1.3435183632282133e-07
+      }
+    ],
+    "actual_score_register": [
+      64,
+      76,
+      86
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "nylon": {
+    "bank": 0,
+    "program_zero_based": 24,
+    "tests": [
+      {
+        "pitch": 48,
+        "velocity": 65,
+        "peak": 0.03160061687231064,
+        "rms": 0.0061418176628649235,
+        "onset_5percent_ms": 19.183673469387756,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 58,
+        "velocity": 65,
+        "peak": 0.026043139398097992,
+        "rms": 0.004905063193291426,
+        "onset_5percent_ms": 18.004535147392293,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 81,
+        "velocity": 65,
+        "peak": 0.026879871264100075,
+        "rms": 0.002678301651030779,
+        "onset_5percent_ms": 10.38548752834467,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 58,
+        "velocity": 40,
+        "peak": 0.011199726723134518,
+        "rms": 0.0021560073364526033,
+        "onset_5percent_ms": 17.482993197278912,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 58,
+        "velocity": 65,
+        "peak": 0.026043139398097992,
+        "rms": 0.004905340727418661,
+        "onset_5percent_ms": 17.188208616780045,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 58,
+        "velocity": 90,
+        "peak": 0.04528585821390152,
+        "rms": 0.008436868898570538,
+        "onset_5percent_ms": 16.91609977324263,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      48,
+      58,
+      81
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "pad": {
+    "bank": 0,
+    "program_zero_based": 89,
+    "tests": [
+      {
+        "pitch": 53,
+        "velocity": 65,
+        "peak": 0.026255574077367783,
+        "rms": 0.007096611894667149,
+        "onset_5percent_ms": 68.79818594104309,
+        "tail_last_250ms_rms": 9.019420394906774e-05
+      },
+      {
+        "pitch": 60,
+        "velocity": 65,
+        "peak": 0.011481551453471184,
+        "rms": 0.0034355884417891502,
+        "onset_5percent_ms": 81.9501133786848,
+        "tail_last_250ms_rms": 6.131907866802067e-05
+      },
+      {
+        "pitch": 67,
+        "velocity": 65,
+        "peak": 0.018874486908316612,
+        "rms": 0.006796747911721468,
+        "onset_5percent_ms": 82.40362811791384,
+        "tail_last_250ms_rms": 9.557414887240157e-05
+      },
+      {
+        "pitch": 60,
+        "velocity": 40,
+        "peak": 0.003680175170302391,
+        "rms": 0.0011939720716327429,
+        "onset_5percent_ms": 77.68707482993197,
+        "tail_last_250ms_rms": 1.9933218936785124e-05
+      },
+      {
+        "pitch": 60,
+        "velocity": 65,
+        "peak": 0.011488882824778557,
+        "rms": 0.0034360948484390974,
+        "onset_5percent_ms": 81.1111111111111,
+        "tail_last_250ms_rms": 6.109820969868451e-05
+      },
+      {
+        "pitch": 60,
+        "velocity": 90,
+        "peak": 0.025575770065188408,
+        "rms": 0.00735681876540184,
+        "onset_5percent_ms": 80.77097505668934,
+        "tail_last_250ms_rms": 0.0001351518731098622
+      }
+    ],
+    "actual_score_register": [
+      53,
+      60,
+      67
+    ],
+    "expression": {
+      "cc11_55_rms": 0.0018419537227600813,
+      "cc11_105_rms": 0.006601500324904919
+    },
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "piano": {
+    "bank": 0,
+    "program_zero_based": 0,
+    "tests": [
+      {
+        "pitch": 50,
+        "velocity": 65,
+        "peak": 0.02308136224746704,
+        "rms": 0.004754589404910803,
+        "onset_5percent_ms": 16.984126984126984,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 74,
+        "velocity": 65,
+        "peak": 0.015595406293869019,
+        "rms": 0.00286511960439384,
+        "onset_5percent_ms": 16.73469387755102,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 86,
+        "velocity": 65,
+        "peak": 0.021180612966418266,
+        "rms": 0.0026389334816485643,
+        "onset_5percent_ms": 12.53968253968254,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 74,
+        "velocity": 40,
+        "peak": 0.0039373477920889854,
+        "rms": 0.0007380770985037088,
+        "onset_5percent_ms": 15.623582766439908,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 74,
+        "velocity": 65,
+        "peak": 0.015595406293869019,
+        "rms": 0.0028651973698288202,
+        "onset_5percent_ms": 15.918367346938776,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 74,
+        "velocity": 90,
+        "peak": 0.04274095222353935,
+        "rms": 0.008039594627916813,
+        "onset_5percent_ms": 14.17233560090703,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      50,
+      74,
+      86
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "pizz": {
+    "bank": 0,
+    "program_zero_based": 45,
+    "tests": [
+      {
+        "pitch": 55,
+        "velocity": 65,
+        "peak": 0.0329403355717659,
+        "rms": 0.003124054754152894,
+        "onset_5percent_ms": 4.399092970521542,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 62,
+        "velocity": 65,
+        "peak": 0.03046240098774433,
+        "rms": 0.004208461847156286,
+        "onset_5percent_ms": 4.467120181405895,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 67,
+        "velocity": 65,
+        "peak": 0.03154921531677246,
+        "rms": 0.0039029456675052643,
+        "onset_5percent_ms": 3.378684807256236,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 62,
+        "velocity": 40,
+        "peak": 0.013459787704050541,
+        "rms": 0.001858259434811771,
+        "onset_5percent_ms": 3.9229024943310655,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 62,
+        "velocity": 65,
+        "peak": 0.03046240098774433,
+        "rms": 0.004208461847156286,
+        "onset_5percent_ms": 3.650793650793651,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 62,
+        "velocity": 90,
+        "peak": 0.052334751933813095,
+        "rms": 0.007229925598949194,
+        "onset_5percent_ms": 3.3560090702947845,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      55,
+      62,
+      67
+    ],
+    "expression": null,
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  },
+  "strings": {
+    "bank": 0,
+    "program_zero_based": 48,
+    "tests": [
+      {
+        "pitch": 48,
+        "velocity": 65,
+        "peak": 0.029006484895944595,
+        "rms": 0.008281342685222626,
+        "onset_5percent_ms": 24.71655328798186,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 58,
+        "velocity": 65,
+        "peak": 0.026398511603474617,
+        "rms": 0.0070868064649403095,
+        "onset_5percent_ms": 21.79138321995465,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 69,
+        "velocity": 65,
+        "peak": 0.03094489686191082,
+        "rms": 0.008585236966609955,
+        "onset_5percent_ms": 15.736961451247165,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 58,
+        "velocity": 40,
+        "peak": 0.010675960220396519,
+        "rms": 0.0028197437059134245,
+        "onset_5percent_ms": 21.836734693877553,
+        "tail_last_250ms_rms": 7.229337573022576e-09
+      },
+      {
+        "pitch": 58,
+        "velocity": 65,
+        "peak": 0.026398511603474617,
+        "rms": 0.007087480276823044,
+        "onset_5percent_ms": 20.975056689342406,
+        "tail_last_250ms_rms": 0.0
+      },
+      {
+        "pitch": 58,
+        "velocity": 90,
+        "peak": 0.05136017128825188,
+        "rms": 0.011960834264755249,
+        "onset_5percent_ms": 20.02267573696145,
+        "tail_last_250ms_rms": 0.0
+      }
+    ],
+    "actual_score_register": [
+      48,
+      58,
+      69
+    ],
+    "expression": {
+      "cc11_55_rms": 0.0023043507244437933,
+      "cc11_105_rms": 0.00810862798243761
+    },
+    "subjective_audition": false,
+    "decision": "No unsupported legato/articulation claims; wind phrases include breaths; piano uses dedicated SF2. Sustain uses CC11, not CC1."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "sample_rate": 44100,
+  "internal_format": "float32",
+  "master_format": "pcm_s24le",
+  "soundfonts": {
+    "general": {
+      "path": "soundfonts/GeneralUser-GS.sf2",
+      "sha256": "9575028c7a1f589f5770fccc8cff2734566af40cd26ed836944e9a5152688cfe",
+      "source": "https://raw.githubusercontent.com/mrbumpy409/GeneralUser-GS/main/GeneralUser-GS.sf2",
+      "license": "music/licenses/GeneralUser-GS.txt"
+    },
+    "salamander": {
+      "path": "soundfonts/salamander/SalamanderGrandPiano-SF2-V3+20200602/SalamanderGrandPiano-V3+20200602.sf2",
+      "sha256": "712d0e681efbe5203a8014e9b3e84168f1908c82f2f6fb13bd2c77d6d72c70b7",
+      "source": "https://freepats.zenvoid.org/Piano/SalamanderGrandPiano/SalamanderGrandPiano-SF2-V3+20200602.tar.xz",
+      "license": "music/licenses/Salamander-FreePats.txt"
+    }
+  },
+  "renderer": "FluidSynth shared library via ctypes; CLI not installed",
+  "chorus": false,
+  "synth_reverb": false,
+  "room": "single modest shared room bus",
+  "polyphony_per_stem": 128,
+  "web_codecs": [
+    "ogg/vorbis quality 5",
+    "mp3 160 kbps"
+  ],
+  "online_generation": false,
+  "subjective_audition": false
+}

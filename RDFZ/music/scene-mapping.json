@@ -1,0 +1,550 @@
+{
+  "title": "title",
+  "stages": [
+    {
+      "stage": "c1-1",
+      "name": "神秘男厕所",
+      "chapter": 1,
+      "map": "basement",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c1-2",
+      "name": "羽毛球场",
+      "chapter": 1,
+      "map": "basement",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c1-3",
+      "name": "幽暗回廊",
+      "chapter": 1,
+      "map": "basement",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c1-4",
+      "name": "地下阶梯教室",
+      "chapter": 1,
+      "map": "basement",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c1-5",
+      "name": "化妆间",
+      "chapter": 1,
+      "map": "basement",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c1-6",
+      "name": "黑暗界杏艾楼梯",
+      "chapter": 1,
+      "map": "basement",
+      "play": "boss",
+      "optional": false
+    },
+    {
+      "stage": "c2-1",
+      "name": "玻璃绿植房",
+      "chapter": 2,
+      "map": "yifu",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c2-2",
+      "name": "空中花园",
+      "chapter": 2,
+      "map": "yifu",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c2-3",
+      "name": "竞赛教室",
+      "chapter": 2,
+      "map": "yifu",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c2-4",
+      "name": "公共自习教室",
+      "chapter": 2,
+      "map": "yifu",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c2-5",
+      "name": "高中总部",
+      "chapter": 2,
+      "map": "yifu",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c2-6",
+      "name": "游魂天台",
+      "chapter": 2,
+      "map": "yifu",
+      "play": "boss",
+      "optional": false
+    },
+    {
+      "stage": "c2-ex",
+      "name": "飞车悍匪",
+      "chapter": 2,
+      "map": "yifu",
+      "play": "boss",
+      "optional": true
+    },
+    {
+      "stage": "c3-1",
+      "name": "场边热身",
+      "chapter": 3,
+      "map": "basketball",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c3-2",
+      "name": "三分线",
+      "chapter": 3,
+      "map": "basketball",
+      "play": "basketball",
+      "optional": false
+    },
+    {
+      "stage": "c3-3",
+      "name": "中圈争夺",
+      "chapter": 3,
+      "map": "basketball",
+      "play": "basketball",
+      "optional": false
+    },
+    {
+      "stage": "c3-4",
+      "name": "终场哨声",
+      "chapter": 3,
+      "map": "basketball",
+      "play": "basketball",
+      "optional": false
+    },
+    {
+      "stage": "c4-1",
+      "name": "灌木丛",
+      "chapter": 4,
+      "map": "garden",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c4-2",
+      "name": "中央草坪",
+      "chapter": 4,
+      "map": "garden",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c4-3",
+      "name": "柿子",
+      "chapter": 4,
+      "map": "garden",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c4-4",
+      "name": "古树精怪",
+      "chapter": 4,
+      "map": "garden",
+      "play": "boss",
+      "optional": false
+    },
+    {
+      "stage": "c5-1",
+      "name": "图书整理",
+      "chapter": 5,
+      "map": "library",
+      "play": "library",
+      "optional": false
+    },
+    {
+      "stage": "c5-2",
+      "name": "典藏馆",
+      "chapter": 5,
+      "map": "library",
+      "play": "library",
+      "optional": false
+    },
+    {
+      "stage": "c5-3",
+      "name": "群书深处",
+      "chapter": 5,
+      "map": "library",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c5-4",
+      "name": "听力机房",
+      "chapter": 5,
+      "map": "library",
+      "play": "boss",
+      "optional": false
+    },
+    {
+      "stage": "c6-1",
+      "name": "一层炸鸡",
+      "chapter": 6,
+      "map": "canteen",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c6-2",
+      "name": "二层羊汤",
+      "chapter": 6,
+      "map": "canteen",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c6-3",
+      "name": "教师食堂",
+      "chapter": 6,
+      "map": "canteen",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c6-4",
+      "name": "综合报告厅",
+      "chapter": 6,
+      "map": "canteen",
+      "play": "boss",
+      "optional": false
+    },
+    {
+      "stage": "c7-1",
+      "name": "体育统练",
+      "chapter": 7,
+      "map": "playground",
+      "play": "playground",
+      "optional": false
+    },
+    {
+      "stage": "c7-2",
+      "name": "足球场",
+      "chapter": 7,
+      "map": "playground",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c7-3",
+      "name": "烤乳猪架",
+      "chapter": 7,
+      "map": "playground",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c8-1",
+      "name": "地下劳技教室",
+      "chapter": 8,
+      "map": "junior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c8-2",
+      "name": "失物柜迷阵",
+      "chapter": 8,
+      "map": "junior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c8-3",
+      "name": "排斥者回廊",
+      "chapter": 8,
+      "map": "junior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c8-4",
+      "name": "广播室回声",
+      "chapter": 8,
+      "map": "junior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c8-5",
+      "name": "值周生封锁",
+      "chapter": 8,
+      "map": "junior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c8-6",
+      "name": "内讧",
+      "chapter": 8,
+      "map": "junior",
+      "play": "boss",
+      "optional": false
+    },
+    {
+      "stage": "c9-1",
+      "name": "地下乒乓球场",
+      "chapter": 9,
+      "map": "senior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c9-2",
+      "name": "落地窗大厅",
+      "chapter": 9,
+      "map": "senior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c9-3",
+      "name": "三层公共教室",
+      "chapter": 9,
+      "map": "senior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c9-4",
+      "name": "物理办公室",
+      "chapter": 9,
+      "map": "senior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c9-5",
+      "name": "五层连廊",
+      "chapter": 9,
+      "map": "senior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c9-6",
+      "name": "徐子涵厕所",
+      "chapter": 9,
+      "map": "senior",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c9-7",
+      "name": "七层报告厅",
+      "chapter": 9,
+      "map": "senior",
+      "play": "boss",
+      "optional": false
+    },
+    {
+      "stage": "c9-8",
+      "name": "咖啡厅",
+      "chapter": 9,
+      "map": "senior",
+      "play": "ending",
+      "optional": false
+    },
+    {
+      "stage": "c10-1",
+      "name": "模拟驾驶教室",
+      "chapter": 10,
+      "map": "laboratory",
+      "play": "laboratory",
+      "optional": false
+    },
+    {
+      "stage": "c10-2",
+      "name": "生化实验室",
+      "chapter": 10,
+      "map": "laboratory",
+      "play": "battle",
+      "optional": false
+    },
+    {
+      "stage": "c10-3",
+      "name": "天文台",
+      "chapter": 10,
+      "map": "laboratory",
+      "play": "boss",
+      "optional": false
+    },
+    {
+      "stage": "c11-4",
+      "name": "大决战",
+      "chapter": 11,
+      "map": "admin",
+      "play": "final",
+      "optional": false
+    }
+  ],
+  "narratives": [
+    {
+      "scenario": "final",
+      "mode": "pre",
+      "cue": "basement"
+    },
+    {
+      "scenario": "final",
+      "mode": "post",
+      "cue": "ending"
+    },
+    {
+      "scenario": "garden",
+      "mode": "pre",
+      "cue": "suspense"
+    },
+    {
+      "scenario": "rooftop",
+      "mode": "pre",
+      "cue": "yifu"
+    },
+    {
+      "scenario": "rooftop",
+      "mode": "post",
+      "cue": "ending"
+    },
+    {
+      "scenario": "basketball",
+      "mode": "pre",
+      "cue": "basketball"
+    },
+    {
+      "scenario": "basketball",
+      "mode": "post",
+      "cue": "basketball"
+    },
+    {
+      "scenario": "centralLawn",
+      "mode": "pre",
+      "cue": "garden"
+    },
+    {
+      "scenario": "ancientTree",
+      "mode": "pre",
+      "cue": "suspense"
+    },
+    {
+      "scenario": "libraryDog",
+      "mode": "pre",
+      "cue": "suspense"
+    },
+    {
+      "scenario": "libraryDog",
+      "mode": "post",
+      "cue": "library"
+    },
+    {
+      "scenario": "reportHall",
+      "mode": "pre",
+      "cue": "suspense"
+    },
+    {
+      "scenario": "reportHall",
+      "mode": "post",
+      "cue": "canteen"
+    },
+    {
+      "scenario": "roastRack",
+      "mode": "pre",
+      "cue": "playground"
+    },
+    {
+      "scenario": "juniorMutiny",
+      "mode": "pre",
+      "cue": "suspense"
+    },
+    {
+      "scenario": "juniorPossession",
+      "mode": "pre",
+      "cue": "suspense"
+    },
+    {
+      "scenario": "windowHall",
+      "mode": "pre",
+      "cue": "senior"
+    },
+    {
+      "scenario": "physicsOffice",
+      "mode": "pre",
+      "cue": "senior"
+    },
+    {
+      "scenario": "seniorCafe",
+      "mode": "pre",
+      "cue": "ending"
+    },
+    {
+      "scenario": "adminFinal",
+      "mode": "pre",
+      "cue": "admin"
+    },
+    {
+      "scenario": "adminFinal",
+      "mode": "post",
+      "cue": "ending"
+    }
+  ],
+  "inherit": [
+    "rosterScreen",
+    "heroDetail",
+    "bagScreen",
+    "formationScreen",
+    "ratesScreen",
+    "tutorialScreen",
+    "helpScreen",
+    "pauseScreen",
+    "battleStatsScreen"
+  ],
+  "music_ids": [
+    "title",
+    "home",
+    "basement",
+    "yifu",
+    "basketball",
+    "garden",
+    "library",
+    "canteen",
+    "playground",
+    "junior",
+    "senior",
+    "laboratory",
+    "admin",
+    "battle",
+    "boss",
+    "final",
+    "suspense",
+    "ending",
+    "summon",
+    "victory",
+    "defeat",
+    "rare",
+    "recruit",
+    "chapter-clear",
+    "revelation"
+  ]
+}

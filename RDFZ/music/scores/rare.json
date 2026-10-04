@@ -1,0 +1,513 @@
+{
+  "schema": 1,
+  "id": "rare",
+  "title": "群星回应",
+  "scene": "S级招募",
+  "themes": [
+    "resolve"
+  ],
+  "revision": 1,
+  "meter": [
+    4,
+    4
+  ],
+  "tempo_map": [
+    {
+      "beat": 0,
+      "bpm": 108
+    }
+  ],
+  "length_beats": 16,
+  "loop": {
+    "enabled": false,
+    "start_beat": 0,
+    "end_beat": 16,
+    "cadence": "末句保留属/共同音导向开头；连续周期渲染，不用淡入淡出遮盖"
+  },
+  "target_lufs": -19,
+  "sections": [
+    {
+      "name": "触发与落点",
+      "description": "从主题短动机提炼；完整终止与自然采样尾音，独立于BGM。"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "harp",
+      "instrument": "harp",
+      "program": 46,
+      "bank": 0,
+      "font": "general",
+      "family": "plucked",
+      "pan": 0.22,
+      "send": 0.19,
+      "gain": 1,
+      "role": "melody",
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 0.46,
+          "pitch": 69,
+          "velocity": 80,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 0.5,
+          "duration": 0.46,
+          "pitch": 74,
+          "velocity": 78,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 1.0,
+          "duration": 0.46,
+          "pitch": 77,
+          "velocity": 78,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.46,
+          "pitch": 81,
+          "velocity": 78,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 2.0,
+          "duration": 0.92,
+          "pitch": 84,
+          "velocity": 80,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 3.0,
+          "duration": 0.92,
+          "pitch": 81,
+          "velocity": 78,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 4,
+          "duration": 0.46,
+          "pitch": 79,
+          "velocity": 82,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 4.5,
+          "duration": 0.46,
+          "pitch": 77,
+          "velocity": 80,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 5.0,
+          "duration": 0.92,
+          "pitch": 76,
+          "velocity": 80,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 6.0,
+          "duration": 0.46,
+          "pitch": 73,
+          "velocity": 82,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 6.5,
+          "duration": 0.46,
+          "pitch": 76,
+          "velocity": 80,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 7.0,
+          "duration": 0.92,
+          "pitch": 81,
+          "velocity": 80,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 8,
+          "duration": 0.92,
+          "pitch": 74,
+          "velocity": 84,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 8,
+          "duration": 0.92,
+          "pitch": 77,
+          "velocity": 84,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 8,
+          "duration": 0.92,
+          "pitch": 81,
+          "velocity": 84,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 10.0,
+          "duration": 0.92,
+          "pitch": 86,
+          "velocity": 84,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        }
+      ],
+      "controls": []
+    },
+    {
+      "id": "piano",
+      "instrument": "piano",
+      "program": 0,
+      "bank": 0,
+      "font": "salamander",
+      "family": "keyboard",
+      "pan": 0,
+      "send": 0.16,
+      "gain": 0.55,
+      "role": "harmony",
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 3.22,
+          "pitch": 53,
+          "velocity": 63,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 0,
+          "duration": 3.22,
+          "pitch": 57,
+          "velocity": 63,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 0,
+          "duration": 3.22,
+          "pitch": 62,
+          "velocity": 63,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 0,
+          "duration": 3.22,
+          "pitch": 65,
+          "velocity": 63,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 4,
+          "duration": 3.22,
+          "pitch": 52,
+          "velocity": 65,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 4,
+          "duration": 3.22,
+          "pitch": 55,
+          "velocity": 65,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 4,
+          "duration": 3.22,
+          "pitch": 57,
+          "velocity": 65,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 4,
+          "duration": 3.22,
+          "pitch": 61,
+          "velocity": 65,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 8,
+          "duration": 3.22,
+          "pitch": 53,
+          "velocity": 67,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 8,
+          "duration": 3.22,
+          "pitch": 57,
+          "velocity": 67,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 8,
+          "duration": 3.22,
+          "pitch": 62,
+          "velocity": 67,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 8,
+          "duration": 3.22,
+          "pitch": 65,
+          "velocity": 67,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        }
+      ],
+      "controls": [
+        {
+          "beat": 0,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 0.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 3.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 4,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 4.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 7.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 8,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 8.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 11.65,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 12,
+          "cc": 64,
+          "value": 0
+        },
+        {
+          "beat": 12.08,
+          "cc": 64,
+          "value": 66
+        },
+        {
+          "beat": 15.65,
+          "cc": 64,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "bass",
+      "instrument": "bass",
+      "program": 32,
+      "bank": 0,
+      "font": "general",
+      "family": "bass",
+      "pan": 0,
+      "send": 0.05,
+      "gain": 0.7,
+      "role": "bass",
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 0.92,
+          "pitch": 50,
+          "velocity": 55,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 1.0,
+          "duration": 0.46,
+          "pitch": 53,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 1.5,
+          "duration": 0.46,
+          "pitch": 57,
+          "velocity": 53,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 2.0,
+          "duration": 0.92,
+          "pitch": 48,
+          "velocity": 55,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 4,
+          "duration": 0.92,
+          "pitch": 45,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 5.0,
+          "duration": 0.46,
+          "pitch": 52,
+          "velocity": 55,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 5.5,
+          "duration": 0.46,
+          "pitch": 55,
+          "velocity": 55,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 6.0,
+          "duration": 0.92,
+          "pitch": 49,
+          "velocity": 57,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        },
+        {
+          "beat": 8,
+          "duration": 1.84,
+          "pitch": 38,
+          "velocity": 59,
+          "articulation": "tenuto",
+          "section": "触发与落点"
+        }
+      ],
+      "controls": []
+    }
+  ],
+  "arrangement": [
+    {
+      "bar": 1,
+      "section": "触发与落点",
+      "intent": "从主题短动机提炼；完整终止与自然采样尾音，独立于BGM。",
+      "voices": {
+        "harp": {
+          "role": "melody",
+          "instrument": "harp",
+          "notation": "A4:.5 D5:.5 F5:.5 A5:.5 C6:1 A5:1"
+        },
+        "piano": {
+          "role": "harmony",
+          "instrument": "piano",
+          "notation": "F3+A3+D4+F4:3.5 r:.5"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "D3:1 F3:.5 A3:.5 C3:1 r:1"
+        }
+      }
+    },
+    {
+      "bar": 2,
+      "section": "触发与落点",
+      "intent": "从主题短动机提炼；完整终止与自然采样尾音，独立于BGM。",
+      "voices": {
+        "harp": {
+          "role": "melody",
+          "instrument": "harp",
+          "notation": "G5:.5 F5:.5 E5:1 C#5:.5 E5:.5 A5:1"
+        },
+        "piano": {
+          "role": "harmony",
+          "instrument": "piano",
+          "notation": "E3+G3+A3+C#4:3.5 r:.5"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "A2:1 E3:.5 G3:.5 C#3:1 r:1"
+        }
+      }
+    },
+    {
+      "bar": 3,
+      "section": "触发与落点",
+      "intent": "从主题短动机提炼；完整终止与自然采样尾音，独立于BGM。",
+      "voices": {
+        "harp": {
+          "role": "melody",
+          "instrument": "harp",
+          "notation": "D5+F5+A5:1 r:1 D6:1 r:1"
+        },
+        "piano": {
+          "role": "harmony",
+          "instrument": "piano",
+          "notation": "F3+A3+D4+F4:3.5 r:.5"
+        },
+        "bass": {
+          "role": "bass",
+          "instrument": "bass",
+          "notation": "D2:2 r:2"
+        }
+      }
+    },
+    {
+      "bar": 4,
+      "section": "触发与落点",
+      "intent": "从主题短动机提炼；完整终止与自然采样尾音，独立于BGM。",
+      "voices": {}
+    }
+  ],
+  "audition": "未进行主观听觉验证"
+}

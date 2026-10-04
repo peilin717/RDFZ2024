@@ -1,0 +1,259 @@
+{
+  "id": "campus",
+  "name": "校园与伙伴",
+  "meter": [
+    4,
+    4
+  ],
+  "bars": 8,
+  "identity": "五度回望、短短长回答；D小调暖色",
+  "notation": "D5:1 A4:.5 C5:.5 F5:1 E5:.5 r:.5 | D5:1.5 C5:.5 A4:1 r:1 | Bb4:.5 D5:.5 G5:1 F5:.5 E5:.5 D5:1 | C5:2 A4:1 r:1 | F5:.75 G5:.25 A5:1 G5:.5 F5:.5 E5:1 | D5:1 F5:.5 E5:.5 C5:1 r:1 | Bb4:1 A4:.5 G4:.5 A4:1 C5:.5 E5:.5 | D5:2.5 A4:.5 r:1",
+  "notes": [
+    {
+      "beat": 0,
+      "duration": 0.9,
+      "pitch": 74,
+      "velocity": 77,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 1.0,
+      "duration": 0.45,
+      "pitch": 69,
+      "velocity": 75,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 1.5,
+      "duration": 0.45,
+      "pitch": 72,
+      "velocity": 75,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 2.0,
+      "duration": 0.9,
+      "pitch": 77,
+      "velocity": 77,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 3.0,
+      "duration": 0.45,
+      "pitch": 76,
+      "velocity": 75,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 4,
+      "duration": 1.35,
+      "pitch": 74,
+      "velocity": 79,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 5.5,
+      "duration": 0.45,
+      "pitch": 72,
+      "velocity": 77,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 6.0,
+      "duration": 0.9,
+      "pitch": 69,
+      "velocity": 79,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 8,
+      "duration": 0.45,
+      "pitch": 70,
+      "velocity": 81,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 8.5,
+      "duration": 0.45,
+      "pitch": 74,
+      "velocity": 79,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 9.0,
+      "duration": 0.9,
+      "pitch": 79,
+      "velocity": 79,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 10.0,
+      "duration": 0.45,
+      "pitch": 77,
+      "velocity": 81,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 10.5,
+      "duration": 0.45,
+      "pitch": 76,
+      "velocity": 79,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 11.0,
+      "duration": 0.9,
+      "pitch": 74,
+      "velocity": 79,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 12,
+      "duration": 1.8,
+      "pitch": 72,
+      "velocity": 77,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 14.0,
+      "duration": 0.9,
+      "pitch": 69,
+      "velocity": 77,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 16,
+      "duration": 0.675,
+      "pitch": 77,
+      "velocity": 78,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 16.75,
+      "duration": 0.225,
+      "pitch": 79,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 17.0,
+      "duration": 0.9,
+      "pitch": 81,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 18.0,
+      "duration": 0.45,
+      "pitch": 79,
+      "velocity": 78,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 18.5,
+      "duration": 0.45,
+      "pitch": 77,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 19.0,
+      "duration": 0.9,
+      "pitch": 76,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 20,
+      "duration": 0.9,
+      "pitch": 74,
+      "velocity": 80,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 21.0,
+      "duration": 0.45,
+      "pitch": 77,
+      "velocity": 78,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 21.5,
+      "duration": 0.45,
+      "pitch": 76,
+      "velocity": 78,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 22.0,
+      "duration": 0.9,
+      "pitch": 72,
+      "velocity": 80,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 24,
+      "duration": 0.9,
+      "pitch": 70,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 25.0,
+      "duration": 0.45,
+      "pitch": 69,
+      "velocity": 74,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 25.5,
+      "duration": 0.45,
+      "pitch": 67,
+      "velocity": 74,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 26.0,
+      "duration": 0.9,
+      "pitch": 69,
+      "velocity": 76,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 27.0,
+      "duration": 0.45,
+      "pitch": 72,
+      "velocity": 74,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 27.5,
+      "duration": 0.45,
+      "pitch": 76,
+      "velocity": 74,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 28,
+      "duration": 2.25,
+      "pitch": 74,
+      "velocity": 72,
+      "articulation": "tenuto"
+    },
+    {
+      "beat": 30.5,
+      "duration": 0.45,
+      "pitch": 69,
+      "velocity": 70,
+      "articulation": "tenuto"
+    }
+  ],
+  "motif_bars": [
+    1,
+    2
+  ],
+  "phrase_ends": [
+    4,
+    8
+  ]
+}

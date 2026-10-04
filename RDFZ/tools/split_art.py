@@ -12,6 +12,11 @@ names = ["haq", "fjy", "zbh", "lzy", "wxy"]
 cell = source.width / len(names)
 
 for index, name in enumerate(names):
+    # This overlapping atlas cell was repaired as a standalone transparent sprite.
+    # Equal-width splitting would restore the clipped sleeve and neighboring hair.
+    if name == "lzy":
+        print("Preserving repaired lzy.png; see tools/lzy-art-repair.json")
+        continue
     left = round(index * cell)
     right = round((index + 1) * cell)
     character = source.crop((left, 0, right, source.height))
